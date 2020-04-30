@@ -1,0 +1,9 @@
+{
+  "name": "htdocs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "maildev": "^1.1.0"
+  }
+}

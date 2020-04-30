@@ -1,0 +1,341 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Agencia Plugin\n"
+"POT-Creation-Date: 2020-04-06 12:03+0200\n"
+"PO-Revision-Date: 2020-04-06 12:07+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_x:1,2c;_n\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: agence.php:13 agence.php:16 agence.php:17
+msgid "Property"
+msgstr "Bien"
+
+#: agence.php:18
+msgid "Edit property"
+msgstr ""
+
+#: agence.php:19
+msgid "New property"
+msgstr ""
+
+#: agence.php:20
+msgid "View property"
+msgstr ""
+
+#: agence.php:21
+msgid "View properties"
+msgstr ""
+
+#: agence.php:22
+msgid "Search properties"
+msgstr ""
+
+#: agence.php:23
+msgid "No properties found."
+msgstr ""
+
+#: agence.php:24
+msgid "No properties found in Trash"
+msgstr ""
+
+#: agence.php:25
+msgid "All properties"
+msgstr ""
+
+#: agence.php:26
+msgid "Property archive"
+msgstr ""
+
+#: agence.php:27
+msgid "Property attributes"
+msgstr ""
+
+#: agence.php:28
+msgid "Insert into property"
+msgstr ""
+
+#: agence.php:29
+msgid "Uploaded to this property"
+msgstr ""
+
+#: agence.php:30
+msgid "Filter properties list"
+msgstr ""
+
+#: agence.php:31
+msgid "Properties list navigation"
+msgstr ""
+
+#: agence.php:32
+msgid "Properties list"
+msgstr ""
+
+#: agence.php:33
+msgid "Property published."
+msgstr ""
+
+#: agence.php:34
+msgid "Property published privately."
+msgstr ""
+
+#: agence.php:35
+msgid "Property reverted to draft."
+msgstr ""
+
+#: agence.php:36
+msgid "Property scheduled."
+msgstr ""
+
+#: agence.php:37
+msgid "Property updated."
+msgstr ""
+
+#: agence.php:44 query.php:39
+msgctxt "URL"
+msgid "property"
+msgstr "biens"
+
+#: agence.php:52
+msgid "Types"
+msgstr ""
+
+#: agence.php:53
+msgid "Type"
+msgstr ""
+
+#: agence.php:54
+msgid "Search Types"
+msgstr ""
+
+#: agence.php:55
+msgid "Popular Types"
+msgstr ""
+
+#: agence.php:56
+msgid "All Types"
+msgstr ""
+
+#: agence.php:57
+msgid "Edit Type"
+msgstr ""
+
+#: agence.php:58
+msgid "View Type"
+msgstr ""
+
+#: agence.php:59
+msgid "Update Type"
+msgstr ""
+
+#: agence.php:60
+msgid "Add New Type"
+msgstr ""
+
+#: agence.php:61
+msgid "New Type Name"
+msgstr ""
+
+#: agence.php:62
+msgid "Separate Types with commas"
+msgstr ""
+
+#: agence.php:63
+msgid "Add or remove Types"
+msgstr ""
+
+#: agence.php:64
+msgid "Choose from the most used Types"
+msgstr ""
+
+#: agence.php:65
+msgid "No Types found."
+msgstr ""
+
+#: agence.php:66
+msgid "No Types"
+msgstr ""
+
+#: agence.php:67
+msgid "Types list navigation"
+msgstr ""
+
+#: agence.php:68
+msgid "Types list"
+msgstr ""
+
+#: agence.php:69
+msgid "&larr; Back to Types"
+msgstr ""
+
+#: agence.php:75
+msgid "Cities"
+msgstr ""
+
+#: agence.php:76
+msgid "City"
+msgstr ""
+
+#: agence.php:77
+msgid "Search Cities"
+msgstr ""
+
+#: agence.php:78
+msgid "Popular Cities"
+msgstr ""
+
+#: agence.php:79
+msgid "All Cities"
+msgstr ""
+
+#: agence.php:80
+msgid "Edit City"
+msgstr ""
+
+#: agence.php:81
+msgid "View City"
+msgstr ""
+
+#: agence.php:82
+msgid "Update City"
+msgstr ""
+
+#: agence.php:83
+msgid "Add New City"
+msgstr ""
+
+#: agence.php:84
+msgid "New City Name"
+msgstr ""
+
+#: agence.php:85
+msgid "Separate Cities with commas"
+msgstr ""
+
+#: agence.php:86
+msgid "Add or remove Cities"
+msgstr ""
+
+#: agence.php:87
+msgid "Choose from the most used Cities"
+msgstr ""
+
+#: agence.php:88
+msgid "No Cities found."
+msgstr ""
+
+#: agence.php:89
+msgid "No Cities"
+msgstr ""
+
+#: agence.php:90
+msgid "Cities list navigation"
+msgstr ""
+
+#: agence.php:91
+msgid "Cities list"
+msgstr ""
+
+#: agence.php:92
+msgid "&larr; Back to Cities"
+msgstr ""
+
+#: agence.php:97
+msgid "Options"
+msgstr ""
+
+#: agence.php:98
+msgid "Option"
+msgstr ""
+
+#: agence.php:99
+msgid "Search Options"
+msgstr ""
+
+#: agence.php:100
+msgid "Popular Options"
+msgstr ""
+
+#: agence.php:101
+msgid "All Options"
+msgstr ""
+
+#: agence.php:102
+msgid "Edit Option"
+msgstr ""
+
+#: agence.php:103
+msgid "View Option"
+msgstr ""
+
+#: agence.php:104
+msgid "Update Option"
+msgstr ""
+
+#: agence.php:105
+msgid "Add New Option"
+msgstr ""
+
+#: agence.php:106
+msgid "New Option Name"
+msgstr ""
+
+#: agence.php:107
+msgid "Separate Options with commas"
+msgstr ""
+
+#: agence.php:108
+msgid "Add or remove Options"
+msgstr ""
+
+#: agence.php:109
+msgid "Choose from the most used Options"
+msgstr ""
+
+#: agence.php:110
+msgid "No Options found."
+msgstr ""
+
+#: agence.php:111
+msgid "No Options"
+msgstr ""
+
+#: agence.php:112
+msgid "Options list navigation"
+msgstr ""
+
+#: agence.php:113
+msgid "Options list"
+msgstr ""
+
+#: agence.php:114
+msgid "&larr; Back to Options"
+msgstr ""
+
+#: agence.php:149
+#, php-format
+msgid "%s $"
+msgstr ""
+
+#: agence.php:151
+#, php-format
+msgid "%s $/mo"
+msgstr ""
+
+#: query.php:8
+msgctxt "URL"
+msgid "buy"
+msgstr "acheter"
+
+#: query.php:9
+msgctxt "URL"
+msgid "rent"
+msgstr "louer"
