@@ -12,6 +12,15 @@ Updated: 2020-04-28 15:16:03
 */
 
 
+.header-inner {
+   
+    padding: 0.5em;
+}
+
+.btn {
+    color: #FE6748;
+}
+
 .formatted .blocks-gallery-grid {
     display: flex;
     margin-left: 0;
@@ -69,3 +78,13 @@ a.do-not-scroll.comment-reply-link {
     background: none;
     color: black;
 }
+
+section {
+    padding: 0 0 20px 0;
+    margin: 10px;
+}
+.quote, .push-news, .newsletter{
+    margin-top: 0px;
+}
+
+
