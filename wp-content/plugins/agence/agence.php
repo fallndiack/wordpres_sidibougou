@@ -42,7 +42,7 @@ add_action('init', function () {
         'hierarchical' => false,
         'exclude_from_search' => false,
         'taxonomies' => ['property_type', 'property_city', 'property_option'],
-        'supports' => ['title', 'editor', 'excerpt', 'thumbnail']
+        'supports' => ['title', 'editor', 'excerpt', 'thumbnail', 'comments']
     ]);
     register_taxonomy('property_type', 'property', [
         'meta_box_cb' => 'post_categories_meta_box',
