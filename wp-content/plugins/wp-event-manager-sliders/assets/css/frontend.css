@@ -1,0 +1,40 @@
+.wpem-prime-event-slider-wrapper { position: relative; }
+
+.wpem-prime-event-slider-wrapper .slick-arrow { position: absolute; right: 0; top: 50%; transform: translate(0, -50%); height: 40px; width: 40px;    font-size: 0px; line-height: normal; overflow: hidden; background: rgba(0,0,0,0.5); padding: 0px; text-align: center; cursor: pointer; z-index: 1; transition: all 0.2s; }
+.wpem-prime-event-slider-wrapper .slick-arrow:hover { background: rgba(0,0,0,0.8); }
+.wpem-prime-event-slider-wrapper .slick-arrow i { font-size: 20px; color: #FFF; line-height: 40px; }
+.wpem-prime-event-slider-wrapper .slick-arrow.slick-prev { left: 0; }
+.wpem-prime-event-slider-wrapper .slick-arrow.slick-next { right: 0; }
+
+.wpem-prime-event-slider-wrapper .wpem-prime-event-slider-item .wpem-prime-event-slider-content { display: flex; width: 100%; background: #EEE; flex-wrap: wrap; border-radius: 6px; overflow: hidden; }
+.wpem-prime-event-slider-wrapper .wpem-prime-event-slider-item .wpem-prime-event-slider-content .wpem-prime-event-slider-image { float: left; width: 65%; }
+.wpem-prime-event-slider-wrapper .wpem-prime-event-slider-item .wpem-prime-event-slider-content .wpem-prime-event-slider-description { float: left; width: 35%; padding: 30px; }
+
+.wpem-prime-event-slider-wrapper .wpem-prime-event-slider-description .wpem-event-details { margin-bottom: 20px; } 
+.wpem-prime-event-slider-wrapper .wpem-prime-event-slider-description .wpem-event-details .wpem-event-title .wpem-heading-text { margin: 0px 0px 5px 0px; padding: 0px; font-weight: 500; color: #111; font-size: 23px; line-height: 30px; }
+.wpem-prime-event-slider-wrapper .wpem-prime-event-slider-description .wpem-event-details .wpem-event-title .wpem-heading-text a { color: #111; } 
+.wpem-prime-event-slider-wrapper .wpem-prime-event-slider-description .wpem-event-details .wpem-event-title .wpem-heading-text a:hover { color: #00a5fa; }
+
+.wpem-prime-event-slider-wrapper .wpem-prime-event-slider-description .wpem-event-details .wpem-event-organizer .wpem-event-organizer-name { color: #111; font-size: 19px; line-height: 23px; }
+.wpem-prime-event-slider-wrapper .wpem-prime-event-slider-description .wpem-event-details .wpem-event-organizer .wpem-event-organizer-name a { color: #111; } 
+.wpem-prime-event-slider-wrapper .wpem-prime-event-slider-description .wpem-event-details .wpem-event-organizer .wpem-event-organizer-name a:hover { color: #00a5fa; }
+
+.wpem-prime-event-slider-wrapper .wpem-prime-event-slider-description .wpem-event-details .wpem-event-organizer { margin-bottom: 15px; }
+.wpem-prime-event-slider-wrapper .wpem-prime-event-slider-description .wpem-event-details .wpem-event-ticket-type .wpem-event-ticket-type-text { background: #CCC; color: #111; padding: 5px 7px; display: inline-block; line-height: 20px; font-weight: 500; font-size: 16px; border-radius: 4px; }
+
+.wpem-prime-event-slider-wrapper .wpem-prime-event-slider-description .wpem-event-description { margin: 0px; }
+.wpem-prime-event-slider-wrapper .wpem-prime-event-slider-description .wpem-event-description .wpem-event-description-content { overflow: hidden; display: -webkit-box; -webkit-line-clamp: 6; -webkit-box-orient: vertical; font-size: 18px; color: #555; line-height: 25px; margin-bottom: 10px; }
+
+.wpem-prime-event-slider-wrapper .wpem-prime-event-slider-description .wpem-event-description .wpem-event-description-url { font-size: 18px; line-height: 25px; color: #111; font-weight: 500; }
+.wpem-prime-event-slider-wrapper .wpem-prime-event-slider-description .wpem-event-description .wpem-event-description-url a { color: #111; }
+.wpem-prime-event-slider-wrapper .wpem-prime-event-slider-description .wpem-event-description .wpem-event-description-url a:hover { color: #00a5fa; } 
+
+
+@media screen and (max-width: 768px) {
+
+
+.wpem-prime-event-slider-wrapper .wpem-prime-event-slider-item .wpem-prime-event-slider-content { display: flex; width: 100%; background: #EEE; flex-wrap: wrap; border-radius: 6px; overflow: hidden; }
+.wpem-prime-event-slider-wrapper .wpem-prime-event-slider-item .wpem-prime-event-slider-content .wpem-prime-event-slider-image { float: left; width: 100%; }
+.wpem-prime-event-slider-wrapper .wpem-prime-event-slider-item .wpem-prime-event-slider-content .wpem-prime-event-slider-description { float: left; width: 100%; padding: 30px; }
+
+}

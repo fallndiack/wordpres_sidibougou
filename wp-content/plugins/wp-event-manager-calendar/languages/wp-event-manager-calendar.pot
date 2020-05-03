@@ -1,0 +1,290 @@
+# Copyright (C) 2019 WP Event Manager - Calendar
+# This file is distributed under the same license as the WP Event Manager - Calendar.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Event Manager - Calendar 1.4.1\n"
+"Report-Msgid-Bugs-To: https://www.wp-eventmanager.com/get-support/"
+"Google Analytics\n"
+"POT-Creation-Date: 2019-05-22 21:03:26+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/wp-event-manager-calendar-settings.php:34
+msgid "Calendar"
+msgstr ""
+
+#: admin/wp-event-manager-calendar-settings.php:43
+msgid "Show calendar layout"
+msgstr ""
+
+#: admin/wp-event-manager-calendar-settings.php:45
+msgid "You can show or hide calendar layout from [events] page."
+msgstr ""
+
+#: admin/wp-event-manager-calendar-settings.php:52
+msgid "Calendar Page ID"
+msgstr ""
+
+#: admin/wp-event-manager-calendar-settings.php:53
+msgid ""
+"So that the plugin knows where to link event calendar, you must select the "
+"page where you have placed the [events_calendar] shortcode."
+msgstr ""
+
+#: admin/wp-event-manager-calendar-settings.php:76
+msgid "Apply colors to Calendar"
+msgstr ""
+
+#: admin/wp-event-manager-calendar-settings.php:77
+msgid "Hex value for the Background color of event link on calendar."
+msgstr ""
+
+#: admin/wp-event-manager-calendar-settings.php:79
+msgid "Event type colors"
+msgstr ""
+
+#: admin/wp-event-manager-calendar-settings.php:80
+msgid "Event category colors"
+msgstr ""
+
+#: autoupdater/gam-plugin-updater.php:408
+#, php-format
+msgid ""
+"A licence key for %s could not be found. Maybe you forgot to enter a licence "
+"key when setting up %s."
+msgstr ""
+
+#: autoupdater/templates/activated-key.php:2
+#, php-format
+msgid "Your licence for <strong>%s</strong> has been activated. Thanks!"
+msgstr ""
+
+#: autoupdater/templates/deactivated-key.php:2
+#, php-format
+msgid "Your licence for <strong>%s</strong> has been deactivated."
+msgstr ""
+
+#: autoupdater/templates/key-input.php:4
+msgid "Licence"
+msgstr ""
+
+#: autoupdater/templates/key-input.php:7
+msgid ""
+"Enter your licence key and email and hit return. A valid key is required for "
+"automatic updates."
+msgstr ""
+
+#: autoupdater/templates/key-notice.php:2
+msgid "Hide notice"
+msgstr ""
+
+#: autoupdater/templates/key-notice.php:3
+#, php-format
+msgid ""
+"<a href=\"%1$s\">Please enter your licence key</a> in the plugin list below "
+"to get updates for \"%1$s\"."
+msgstr ""
+
+#: autoupdater/templates/key-notice.php:4
+#, php-format
+msgid "Lost your key? <a href=\"%s\">Retrieve it here</a>."
+msgstr ""
+
+#: autoupdater/templates/ms-update.php:6
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+"\">update now</a>."
+msgstr ""
+
+#: external/elementor-widgets/elementor-event-calendar.php:36
+#: external/elementor-widgets/elementor-event-calendar.php:90
+msgid "Event Calendar"
+msgstr ""
+
+#: shortcodes/wp-event-manager-calendar-shortcodes.php:174
+msgid "Sun"
+msgstr ""
+
+#: shortcodes/wp-event-manager-calendar-shortcodes.php:175
+msgid "Mon"
+msgstr ""
+
+#: shortcodes/wp-event-manager-calendar-shortcodes.php:176
+msgid "Tue"
+msgstr ""
+
+#: shortcodes/wp-event-manager-calendar-shortcodes.php:177
+msgid "Wed"
+msgstr ""
+
+#: shortcodes/wp-event-manager-calendar-shortcodes.php:178
+msgid "Thu"
+msgstr ""
+
+#: shortcodes/wp-event-manager-calendar-shortcodes.php:179
+msgid "Fri"
+msgstr ""
+
+#: shortcodes/wp-event-manager-calendar-shortcodes.php:180
+msgid "Sat"
+msgstr ""
+
+#: shortcodes/wp-event-manager-calendar-shortcodes.php:187
+#: wp-event-manager-calendar-templates.php:125
+msgid "Sunday"
+msgstr ""
+
+#: shortcodes/wp-event-manager-calendar-shortcodes.php:188
+#: wp-event-manager-calendar-templates.php:126
+msgid "Monday"
+msgstr ""
+
+#: shortcodes/wp-event-manager-calendar-shortcodes.php:189
+#: wp-event-manager-calendar-templates.php:127
+msgid "Tuesday"
+msgstr ""
+
+#: shortcodes/wp-event-manager-calendar-shortcodes.php:190
+#: wp-event-manager-calendar-templates.php:128
+msgid "Wednesday"
+msgstr ""
+
+#: shortcodes/wp-event-manager-calendar-shortcodes.php:191
+#: wp-event-manager-calendar-templates.php:129
+msgid "Thursday"
+msgstr ""
+
+#: shortcodes/wp-event-manager-calendar-shortcodes.php:192
+#: wp-event-manager-calendar-templates.php:130
+msgid "Friday"
+msgstr ""
+
+#: shortcodes/wp-event-manager-calendar-shortcodes.php:193
+#: wp-event-manager-calendar-templates.php:131
+msgid "Saturday"
+msgstr ""
+
+#: templates/content-widget-event_listing.php:1
+msgid "No events found"
+msgstr ""
+
+#: templates/events-calendar-layout-month.php:72
+#: templates/events-calendar.php:112
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: templates/events-calendar-layout-month.php:73
+#: templates/events-calendar.php:113
+msgid "Event Start Date"
+msgstr ""
+
+#: templates/events-calendar-layout-month.php:74
+#: templates/events-calendar.php:114
+msgid "Event End Date"
+msgstr ""
+
+#: templates/events-calendar-widget.php:25 templates/events-calendar.php:30
+msgid "Go"
+msgstr ""
+
+#: templates/events-calendar-widget.php:33 templates/events-calendar.php:38
+msgid "Previous"
+msgstr ""
+
+#: templates/events-calendar-widget.php:40 templates/events-calendar.php:45
+msgid "Next"
+msgstr ""
+
+#: widgets/wp-event-manager-calendar-widgets.php:175
+msgid "Display a event calendar"
+msgstr ""
+
+#: widgets/wp-event-manager-calendar-widgets.php:179
+#: widgets/wp-event-manager-calendar-widgets.php:187
+msgid "Events Calendar"
+msgstr ""
+
+#: widgets/wp-event-manager-calendar-widgets.php:189
+msgid "Title"
+msgstr ""
+
+#: wp-event-manager-calendar-templates.php:135
+msgid "January"
+msgstr ""
+
+#: wp-event-manager-calendar-templates.php:136
+msgid "February"
+msgstr ""
+
+#: wp-event-manager-calendar-templates.php:137
+msgid "March"
+msgstr ""
+
+#: wp-event-manager-calendar-templates.php:138
+msgid "April"
+msgstr ""
+
+#: wp-event-manager-calendar-templates.php:139
+msgid "May"
+msgstr ""
+
+#: wp-event-manager-calendar-templates.php:140
+msgid "June"
+msgstr ""
+
+#: wp-event-manager-calendar-templates.php:141
+msgid "July"
+msgstr ""
+
+#: wp-event-manager-calendar-templates.php:142
+msgid "August"
+msgstr ""
+
+#: wp-event-manager-calendar-templates.php:143
+msgid "September"
+msgstr ""
+
+#: wp-event-manager-calendar-templates.php:144
+msgid "October"
+msgstr ""
+
+#: wp-event-manager-calendar-templates.php:145
+msgid "November"
+msgstr ""
+
+#: wp-event-manager-calendar-templates.php:146
+msgid "December"
+msgstr ""
+
+#: wp-event-manager-calendar.php:39
+msgid "WP Event Manager is require to use WP Event Manager - Calendar"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WP Event Manager - Calendar"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.wp-eventmanager.com/plugins/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"You display calendar of the events. It is not just a grid, it is filled with "
+"neat features that makes it an amazing grid calendar."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WP Event Manager"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.wp-eventmanager.com/"
+msgstr ""

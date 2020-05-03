@@ -98,5 +98,10 @@ section {
 .comment:first-of-type {
     margin-top: 2rem;
 }
+.newsletter__body {
+    width: 60;
 }
+
+}
+
 

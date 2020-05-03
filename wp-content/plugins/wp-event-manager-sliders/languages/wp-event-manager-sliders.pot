@@ -1,0 +1,148 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WP Event Manager - Sliders\n"
+"POT-Creation-Date: 2019-08-02 21:08+0530\n"
+"PO-Revision-Date: 2019-08-02 21:08+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wp-event-manager-sliders.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: autoupdater/templates/key-input.php:4
+msgid "Licence"
+msgstr ""
+
+#: autoupdater/templates/key-input.php:7
+msgid ""
+"Enter your licence key and email and hit return. A valid key is required for "
+"automatic updates."
+msgstr ""
+
+#: autoupdater/templates/key-notice.php:2
+msgid "Hide notice"
+msgstr ""
+
+#: autoupdater/templates/ms-update.php:6
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+"\">update now</a>."
+msgstr ""
+
+#: external/elementor-widgets/elementor-owl-carousel-slider.php:36
+#: external/elementor-widgets/elementor-owl-carousel-slider.php:90
+msgid "Event Slider"
+msgstr ""
+
+#: external/elementor-widgets/elementor-owl-carousel-slider.php:97
+msgid "Show Featured"
+msgstr ""
+
+#: external/elementor-widgets/elementor-owl-carousel-slider.php:101
+#: external/elementor-widgets/elementor-owl-carousel-slider.php:141
+#: external/elementor-widgets/elementor-owl-carousel-slider.php:164
+#: external/elementor-widgets/elementor-owl-carousel-slider.php:177
+msgid "False"
+msgstr ""
+
+#: external/elementor-widgets/elementor-owl-carousel-slider.php:102
+#: external/elementor-widgets/elementor-owl-carousel-slider.php:142
+#: external/elementor-widgets/elementor-owl-carousel-slider.php:165
+#: external/elementor-widgets/elementor-owl-carousel-slider.php:178
+msgid "True"
+msgstr ""
+
+#: external/elementor-widgets/elementor-owl-carousel-slider.php:110
+msgid "Limit"
+msgstr ""
+
+#: external/elementor-widgets/elementor-owl-carousel-slider.php:119
+msgid "Order By"
+msgstr ""
+
+#: external/elementor-widgets/elementor-owl-carousel-slider.php:123
+msgid "Title"
+msgstr ""
+
+#: external/elementor-widgets/elementor-owl-carousel-slider.php:124
+msgid "ID"
+msgstr ""
+
+#: external/elementor-widgets/elementor-owl-carousel-slider.php:125
+msgid "Name"
+msgstr ""
+
+#: external/elementor-widgets/elementor-owl-carousel-slider.php:126
+#: external/elementor-widgets/elementor-owl-carousel-slider.php:128
+msgid "Modified"
+msgstr ""
+
+#: external/elementor-widgets/elementor-owl-carousel-slider.php:127
+msgid "Parent"
+msgstr ""
+
+#: external/elementor-widgets/elementor-owl-carousel-slider.php:129
+msgid "Rand"
+msgstr ""
+
+#: external/elementor-widgets/elementor-owl-carousel-slider.php:137
+msgid "Navigation"
+msgstr ""
+
+#: external/elementor-widgets/elementor-owl-carousel-slider.php:150
+msgid "Slide Speed"
+msgstr ""
+
+#: external/elementor-widgets/elementor-owl-carousel-slider.php:160
+msgid "Single Item"
+msgstr ""
+
+#: external/elementor-widgets/elementor-owl-carousel-slider.php:173
+msgid "Lazy Load"
+msgstr ""
+
+#: external/elementor-widgets/elementor-owl-carousel-slider.php:186
+msgid "Auto Pay"
+msgstr ""
+
+#: templates/wp-event-slider.php:32
+msgid "Read More"
+msgstr ""
+
+#: wp-event-manager-sliders.php:40
+msgid "WP Event Manager is require to use WP Event Manager - Sliders"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WP Event Manager - Sliders"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.wp-eventmanager.com/product-category/plugins/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Use owl carousel and other type of sliders for your listings."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WP Event Manager"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.wp-eventmanager.com/"
+msgstr ""
