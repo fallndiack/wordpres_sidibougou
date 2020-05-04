@@ -101,7 +101,10 @@ section {
 .newsletter__body {
     width: 60;
 }
-
 }
 
+
+.wpem-registration-event-button{
+    display: none;
+}
 

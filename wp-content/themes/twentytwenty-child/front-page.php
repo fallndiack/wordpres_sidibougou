@@ -99,8 +99,12 @@
             </div>
 
         </section><!-- End Featured Section -->
-
-
+        <!--slider events  -->
+        <section class="container" style="padding-top: 5px;margin-top: 5px;">
+            <div>
+             <?php echo do_shortcode('[events_slider]'); ?>
+            </div>
+        </section>
 
 
         <!-- Feature properties -->
