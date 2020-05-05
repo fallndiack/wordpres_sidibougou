@@ -10,33 +10,51 @@
             <div class="carousel-inner" role="listbox">
 
                 <!-- Slide 1 -->
-                <div class="carousel-item active" style="background: url('<?= get_stylesheet_directory_uri() ?>/assets/img/slide/slide-4.jpg');">
+                <div class="carousel-item active" style="background: url('<?= get_stylesheet_directory_uri() ?>/assets/img/slide/2.jpg');">
                     <div class="carousel-container">
                         <div class="carousel-content">
                             <h2 class="animated fadeInDown">Le Village de <span>SIDI BOUGOU</span></h2>
-                            <p class="animated fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+                            <p class="animated fadeInUp">
+                                Ut velit est quam dolor ad a aliquid qui aliquid. 
+                                Sequi ea ut et est quaerat sequi nihil ut aliquam. 
+                                Occaecati alias dolorem mollitia ut. Similique ea voluptatem. 
+                                Esse doloremque accusamus repellendus deleniti vel. 
+                                Minus et tempore modi architecto.
+                            </p>
                             <a href="" class="btn-get-started animated fadeInUp">BIENVENUE!!!</a>
                         </div>
                     </div>
                 </div>
 
                 <!-- Slide 2 -->
-                <div class="carousel-item" style="background: url('<?= get_stylesheet_directory_uri() ?>/assets/img/slide/slide-5.jpg');">
+                <div class="carousel-item" style="background: url('<?= get_stylesheet_directory_uri() ?>/assets/img/slide/s2.jpg');">
                     <div class="carousel-container">
                         <div class="carousel-content">
                             <h2 class="animated fadeInDown">Vivre <span>Ensemble</span></h2>
-                            <p class="animated fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+                            <p class="animated fadeInUp">
+                                Ut velit est quam dolor ad a aliquid qui aliquid. 
+                                Sequi ea ut et est quaerat sequi nihil ut aliquam. 
+                                Occaecati alias dolorem mollitia ut. Similique ea voluptatem. 
+                                Esse doloremque accusamus repellendus deleniti vel. 
+                                Minus et tempore modi architecto.
+                            </p>
                             <a href="" class="btn-get-started animated fadeInUp">BIENVENUE!!!</a>
                         </div>
                     </div>
                 </div>
 
                 <!-- Slide 3 -->
-                <div class="carousel-item" style="background: url('<?= get_stylesheet_directory_uri() ?>/assets/img/slide/slide-6.jpg');">
+                <div class="carousel-item" style="background: url('<?= get_stylesheet_directory_uri() ?>/assets/img/slide/slide3.png');">
                     <div class="carousel-container">
                         <div class="carousel-content">
-                            <h2 class="animated fadeInDown">Nous avançons <span>Main dans la</span></h2>
-                            <p class="animated fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+                            <h2 class="animated fadeInDown">Nous avançons <span>Main dans la Main</span></h2>
+                            <p class="animated fadeInUp">
+                                Ut velit est quam dolor ad a aliquid qui aliquid. 
+                                Sequi ea ut et est quaerat sequi nihil ut aliquam. 
+                                Occaecati alias dolorem mollitia ut. Similique ea voluptatem. 
+                                Esse doloremque accusamus repellendus deleniti vel. 
+                                Minus et tempore modi architecto.
+                            </p>
                             <a href="" class="btn-get-started animated fadeInUp">BIENVENUE!!!</a>
                         </div>
                     </div>
@@ -102,7 +120,7 @@
         <!--slider events  -->
         <section class="container" style="padding-top: 5px;margin-top: 5px;">
             <div>
-             <?php echo do_shortcode('[events_slider]'); ?>
+                <?php echo do_shortcode('[events_slider]'); ?>
             </div>
         </section>
 

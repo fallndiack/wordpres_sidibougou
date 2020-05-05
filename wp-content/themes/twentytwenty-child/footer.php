@@ -37,12 +37,13 @@
 			<div class="row">
 
 				<div class="col-lg-3 col-md-6 footer-links">
-					<h4>Useful Links</h4>
+					<h4>MENU</h4>
 					<ul>
-						<li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-						<li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-						<li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-						<li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
+						<li><i class="bx bx-chevron-right"></i> <a href="<?php echo get_page_link(get_page_by_title('Sidi Bougou Village')->ID); ?>">Accueil</a></li>
+						<li><i class="bx bx-chevron-right"></i> <a href="<?php echo get_page_link(get_page_by_title('Liste des Actualités')->ID); ?>">Actualités</a></li>
+						<li><i class="bx bx-chevron-right"></i> <a href="<?php echo get_page_link(get_page_by_title('Liste des événements à venir')->ID); ?>">Evénements</a></li>
+						<li><i class="bx bx-chevron-right"></i> <a href="<?php echo get_page_link(get_page_by_title('Edifices et Monuments')->ID); ?>">Edifices et Monuments</a></li>
+						<li><i class="bx bx-chevron-right"></i> <a href="<?php echo get_page_link(get_page_by_title('Nous Contacter')->ID); ?>">Nous Contacter</a></li>
 						<li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
 					</ul>
 				</div>
