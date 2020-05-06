@@ -33,7 +33,7 @@
     "history": "^4.6",
     "masonry-layout": "^4.1.0",
     "node-sass": "^4.5",
-    "npm": "^6.3.0",
+    "npm": "^6.13.4",
     "outlayer": "^2.1.0",
     "postcss-cssnext": "^3.0",
     "postcss-import": "^11.1",
