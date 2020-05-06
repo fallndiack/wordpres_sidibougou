@@ -1,0 +1,75 @@
+# Copyright (C) 2017 Envira Gallery - Gallery Themes Addon
+# This file is distributed under the same license as the Envira Gallery - Gallery Themes Addon package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Envira Gallery - Gallery Themes Addon 1.2.8\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/envira-gallery-"
+"themes\n"
+"POT-Creation-Date: 2018-06-03 13:12+0200\n"
+"PO-Revision-Date: 2018-06-03 17:33+0200\n"
+"Last-Translator: Frédéric Chamsseddine <contact@shemzone.com>\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: envira-gallery-themes.php:112
+msgid "Base (Light)"
+msgstr "Basique (Clair)"
+
+#: envira-gallery-themes.php:125 envira-gallery-themes.php:197
+msgid "Captioned"
+msgstr "Légendé"
+
+#: envira-gallery-themes.php:137 envira-gallery-themes.php:203
+msgid "Polaroid"
+msgstr "Polaroid"
+
+#: envira-gallery-themes.php:149 envira-gallery-themes.php:209
+msgid "Showcase"
+msgstr "Vitrine"
+
+#: envira-gallery-themes.php:161 envira-gallery-themes.php:215
+msgid "Sleek"
+msgstr "Lisse"
+
+#: envira-gallery-themes.php:173 envira-gallery-themes.php:221
+msgid "Subtle"
+msgstr "Subtil"
+
+#. Plugin Name of the plugin/theme
+msgid "Envira Gallery - Gallery Themes Addon"
+msgstr "Envira Gallery - Gallery Themes Addon"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://enviragallery.com"
+msgstr "http://enviragallery.com"
+
+#. Description of the plugin/theme
+msgid "Enables custom themes for the grid display of Envira galleries."
+msgstr ""
+"Permet d'avoir des thèmes personnalisés pour l’affichage de la grille des "
+"galeries Envira."
+
+#. Author of the plugin/theme
+msgid "Envira Gallery Team"
+msgstr "Équipe de Envira Gallery"
+
+#~ msgid "Blur"
+#~ msgstr "Flou"
+
+#~ msgid "Desaturate"
+#~ msgstr "Désaturer"
+
+#~ msgid "Threshold"
+#~ msgstr "Seuil"
+
+#~ msgid "Vintage"
+#~ msgstr "Vintage"
+
+#~ msgid "Close"
+#~ msgstr "Fermer"

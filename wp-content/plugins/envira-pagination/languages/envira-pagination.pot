@@ -1,0 +1,212 @@
+# Copyright (C) 2018 envira-pagination
+# This file is distributed under the same license as the envira-pagination package.
+msgid ""
+msgstr ""
+"Project-Id-Version: envira-pagination\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Evnira Gallery Team <support@enviragallery.com>\n"
+"Report-Msgid-Bugs-To: https://enviragallery.com/contact\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../includes/admin/metaboxes.php:91
+msgid "Above Images"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:95
+msgid "Below Images"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:99
+msgid "Above and Below Images"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:119
+msgid "Previous/Next + Numbered"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:123
+msgid "Numbered"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:127
+msgid "Previous/Next"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:146, ../includes/admin/metaboxes.php:394
+msgid "Pagination"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:170, ../includes/admin/metaboxes.php:379
+msgid "Images"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:179, ../includes/admin/metaboxes.php:388
+msgid "Galleries"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:186
+msgid "Pagination Album Settings"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:188
+msgid "Pagination Gallery Settings"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:191
+msgid "The settings below adjust the Pagination options for the Gallery output."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:193
+msgid "Need some help?"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:195
+msgid "Read the Documentation"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:199
+msgid "Watch a Video"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:207
+msgid "Enable Pagination?"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:211
+msgid "Enables or disables Pagination."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:229
+msgid "Choose where to display Pagination."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:234
+msgid "%s Per Page"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:238, ../includes/admin/metaboxes.php:403
+msgid "The number of %s to display on each page."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:243
+msgid "Display Which Links?"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:262
+msgid "Choose which kinds of pagination links to display."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:269
+msgid "Previous Link Label"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:273
+msgid "The text to display when the Previous Link is displayed."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:279
+msgid "Next Link Label"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:283
+msgid "The text to display when the Next Link is displayed."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:289
+msgid "Scroll to Gallery?"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:293
+msgid "If enabled, scrolls / jumps to the gallery when the pagination is used."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:299
+msgid "Load Paginated Items"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:312
+msgid "Defines how the next page(s) of images should be loaded when the user interacts with the Gallery."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:318
+msgid "Button Label"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:322
+msgid "The text to display on the button that loads additional images."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:334
+msgid "Pagination Lightbox Settings"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:336
+msgid "The settings below adjust the Pagination options for the Lightbox output."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:343
+msgid "Display all images in Lightbox?"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:347
+msgid "If checked, all Gallery images will be accessible in the Lightbox view, regardless of which paginated images are displayed in the Gallery view."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:399
+msgid "%s per Page?"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:408
+msgid "Display Previous and Next Links?"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:427
+msgid "Choose which kinds of pagination links to display on mobile."
+msgstr ""
+
+#: ../includes/global/ajax.php:92, ../includes/global/ajax.php:386
+msgid "No Gallery or Album ID Specified."
+msgstr ""
+
+#: ../includes/global/ajax.php:95, ../includes/global/ajax.php:389
+msgid "No page parameter specified."
+msgstr ""
+
+#: ../includes/global/ajax.php:98, ../includes/global/ajax.php:392
+msgid "No type parameter specified."
+msgstr ""
+
+#: ../includes/global/common.php:72
+msgid "« Previous"
+msgstr ""
+
+#: ../includes/global/common.php:73
+msgid "Next »"
+msgstr ""
+
+#: ../includes/global/common.php:76, ../includes/global/shortcode.php:682, ../includes/global/shortcode.php:822
+msgid "Load More"
+msgstr ""
+
+#: ../includes/global/common.php:122
+msgid "On Pagination Click, reloading Page"
+msgstr ""
+
+#: ../includes/global/common.php:123
+msgid "On Scroll (Lazy Loading)"
+msgstr ""
+
+#: ../includes/global/common.php:124
+msgid "On Pagination Click (AJAX)"
+msgstr ""
+
+#: ../includes/global/common.php:125
+msgid "On Button Click (AJAX)"
+msgstr ""

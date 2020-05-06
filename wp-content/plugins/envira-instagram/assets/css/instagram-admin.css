@@ -1,0 +1,12 @@
+.important-warning {
+	background: #9D3A1B;
+	color: white; 
+	padding: 10px; 
+	font-size: 18px; 
+	line-height: 24px; 
+	padding: 10px 15px; 
+	margin-bottom: 10px;
+}
+.important-warning a {
+	color: white;
+}

@@ -1,0 +1,536 @@
+/**
+* Social Sharing Buttons
+*/
+.envira-social-buttons {
+	/* display: none; */ /* JS will show icons on hover */
+	z-index: 6; /* possible adjust depending on theme */
+	text-align: left;
+
+	.envira-gallery-top-left & {
+		margin: 5px 0 0 5px;
+
+		&.orientation-vertical {
+			float:left;
+		}
+	}
+
+	/**
+	* Top Right
+	*/
+
+	.envira-gallery-top-right & {
+		margin: 5px 5px 0 0;
+		text-align: right;
+
+		&.orientation-vertical {
+			float:right;
+		}
+	}
+
+	/**
+	* Bottom Left
+	*/
+
+	.envira-gallery-bottom-left & {
+		margin: 0 0 5px 5px;
+
+		&.orientation-vertical {
+			display:inline-block;
+		}
+
+		&.orientation-horizontal {
+			height:22px;
+		}
+
+	}
+
+	/**
+	* Bottom Right
+	*/
+
+	.envira-gallery-bottom-right & {
+		margin: 0 5px 5px 0;
+		text-align: right;
+
+		&.orientation-vertical {
+			display:inline-block;
+		}
+
+		&.orientation-horizontal {
+			height:22px;
+		}
+	}
+
+	/**
+	* Orientation
+	*/
+	&.orientation-horizontal {
+		/**
+		* Button
+		*/
+		div.envira-social-network a.envira-social-button {
+			margin: 0 5px 0 0;
+		}
+		div.envira-social-network:last-of-type a.envira-social-button {
+			margin: 0;
+		}
+	}
+	&.orientation-vertical {
+
+		/**
+		* Button
+		*/
+		div.envira-social-network {
+			clear: both;
+			margin: 0 0 5px 0;
+		}
+
+		div.envira-social-network:last-of-type {
+			margin: 0;
+		}
+	}
+
+	/**
+	* Button
+	*/
+	div.envira-social-network {
+		float: left;
+		text-align:left;
+
+		a.envira-social-button {
+			float: left;
+			width: 22px;
+			height: 22px;
+			line-height: 22px;
+			color: #fff;
+			border: none;
+			border-radius: 50%;
+			-webkit-border-radius: 50%;
+			-moz-border-radius: 50%;
+			text-indent: -9999px;
+		}
+	}
+
+	/**
+	* Buttons for each Social Network
+	*/
+	div.facebook {
+		a {
+			background: url(../images/facebook.svg) center no-repeat #2d609b;
+			background-size: 14px 14px;
+			box-shadow: none;
+		}
+	}
+	div.twitter {
+		a {
+			background: url(../images/twitter.svg) center no-repeat #00c3f3;
+			background-size: 14px 14px;
+			box-shadow: none;
+		}
+	}
+	div.pinterest {
+		a {
+			background: url(../images/pinterest.svg) center no-repeat #ca212a;
+			background-size: 14px 14px;
+			box-shadow: none;
+		}
+	}
+	div.whatsapp {
+		a {
+			background: url(../images/whatsapp.svg) center no-repeat #25D366;
+			background-size: 14px 14px;
+			box-shadow: none;
+		}
+	}
+	div.linkedin {
+		a {
+			background: url(../images/linkedin.svg) center no-repeat #0077B5;
+			background-size: 14px 14px;
+			box-shadow: none;
+		}
+	}
+	div.google {
+		a {
+			background: url(../images/google.svg) center no-repeat #eb4026;
+			background-size: 14px 14px;
+			box-shadow: none;
+		}
+	}
+	div.email {
+		a {
+			background: url(../images/email.svg) center no-repeat #eb4026;
+			background-size: 14px 14px;
+			box-shadow: none;
+		}
+	}
+}
+
+.envira-social-buttons {
+	/**
+	* Outside
+	*/
+	&.outside {
+		/**
+		* Button
+		*/
+		div.envira-social-network {
+			float: none;
+			display: inline-block;
+
+			a.envira-social-button {
+
+			}
+		}
+	}
+}
+
+/**
+* Lightbox
+*/
+.envirabox-inner {
+	position: initial;
+	/**
+	* Social Sharing Buttons
+	*/
+	.envira-social-buttons {
+		display: block;
+		z-index: 988041; /* Beat the prev/next controls */
+		margin: 0;
+		/**
+		* Orientation
+		*/
+		&.orientation-horizontal {
+			/**
+			* Outside
+			*/
+			&.outside {
+				position:absolute;
+				min-width: 300px;
+				max-width: 100%;
+				&.position-top-left {
+					top: -75px;
+					left: 0;
+				}
+				&.position-top-right {
+					top: -75px;
+					right: 0;
+				}
+				&.position-bottom-left {
+					bottom: -35px;
+					left: 0;
+				}
+				&.position-bottom-right {
+					bottom: -35px;
+					right: 0;
+				}
+			}
+
+		}
+		&.orientation-vertical {
+
+			/**
+			* Outside
+			*/
+			&.outside {
+				position:absolute;
+				min-width: 50px;
+				max-width: 100%;
+				&.position-top-left {
+					top: 0;
+					left: -80px;
+				}
+				&.position-top-right {
+					top: 0;
+					right: -80px;
+				}
+				&.position-bottom-left {
+					bottom: 0;
+					left: -80px;
+				}
+				&.position-bottom-right {
+					bottom: 0;
+					right: -80px;
+				}
+			}
+
+			/**
+			* Button
+			*/
+			div.envira-social-network {
+				clear: both;
+				margin: 0;
+
+				&:last-child {
+					margin: 0;
+				}
+			}
+		}
+
+
+
+		/**
+		* Button
+		*/
+		div.envira-social-network {
+			a.envira-social-button {
+				width: 44px;
+				height: 44px;
+				line-height: 44px;
+				background-size: 28px 28px;
+			}
+		}
+
+	}
+
+	& .envira-gallery-top-left .envira-social-buttons {
+
+		/**
+		* Button
+		*/
+		div.envira-social-network a.envira-social-button {
+			margin: 10px 0 0 10px;
+		}
+	}
+
+	/**
+	* Top Right
+	*/
+
+	& .envira-gallery-top-right .envira-social-buttons {
+
+		/*margin-right: 25px;*/
+
+		/**
+		* Button
+		*/
+		div.envira-social-network a.envira-social-button {
+			margin: 10px 10px 0 0;
+		}
+	}
+
+	/**
+	* Bottom Left
+	*/
+
+	& .envira-gallery-bottom-left .envira-social-buttons {
+
+		/**
+		* Button
+		*/
+		div.envira-social-network a.envira-social-button {
+			margin: 0 0 10px 10px;
+		}
+	}
+
+	/**
+	* Bottom Right
+	*/
+
+	& .envira-gallery-bottom-right .envira-social-buttons {
+
+		/**
+		* Button
+		*/
+		div.envira-social-network a.envira-social-button {
+			margin: 0 10px 10px 0;
+		}
+	}
+}
+
+
+/**
+* Lightbox w/ SuperSize
+*/
+.envira-supersize .envirabox-inner {
+	/**
+	* Social Sharing Buttons
+	*/
+	.envira-social-buttons {
+		/**
+		* Orientation
+		*/
+		&.orientation-vertical {
+
+			/**
+			* Outside
+			*/
+			&.outside {
+				&.position-top-left {
+					top: 0;
+					left: 20px;
+				}
+				&.position-top-right {
+					top: 0px;
+					right: -65px;
+				}
+				&.position-bottom-left {
+					bottom: 0;
+					left: 20px;
+				}
+				&.position-bottom-right {
+					bottom: 0;
+					right: -65px;
+				}
+			}
+		}
+	}
+	.position-top-right.outside.orientation-vertical {
+		div.envira-social-network {
+			float: left;
+		}
+	}
+
+}
+
+/**
+* Mobile Landscape Portrait (devices and browsers)
+*/
+@media only screen and (max-width: 680px) {
+	/**
+	* Lightbox
+	*/
+	.envirabox-inner {
+		/**
+		* Social Sharing Buttons
+		*/
+		.envira-social-buttons {
+
+			/**
+			* Orientation
+			*/
+			&.orientation-horizontal div.envira-social-network {
+				display:inline-block;
+				float: none;
+			}
+
+			/**
+			* Button
+			*/
+			div.envira-social-network {
+				a.envira-social-button {
+					width: 22px;
+					height: 22px;
+					line-height: 22px;
+				}
+			}
+
+			/**
+			* Buttons for each Social Network
+			*/
+			div.facebook {
+				a {
+					background-size: 14px 14px !important;
+				}
+			}
+			div.twitter {
+				a {
+					background-size: 14px 14px !important;
+				}
+			}
+			div.pinterest {
+				a {
+					background-size: 14px 14px !important;
+				}
+			}
+			div.whatsapp {
+				a {
+					background-size: 14px 14px !important;
+				}
+			}
+			div.linkedin {
+				a {
+					background-size: 14px 14px !important;
+				}
+			}
+			div.google {
+				a {
+					background-size: 14px 14px !important;
+				}
+			}
+			div.email {
+				a {
+					background-size: 14px 14px !important;
+				}
+			}
+
+			&.orientation-vertical {
+
+				/**
+				* Outside
+				*/
+				&.outside {
+					&.position-top-left {
+						top: 0;
+						left: -45px;
+					}
+					&.position-top-right {
+						top: 0;
+						right: -70px;
+					}
+					&.position-bottom-left {
+						bottom: 0;
+						left: -45px;
+					}
+					&.position-bottom-right {
+						bottom: 0;
+						right: -45px;
+					}
+				}
+			}
+
+
+		}
+
+		& .envira-gallery-top-left .envira-social-buttons {
+
+			/**
+			* Button
+			*/
+			div.envira-social-network a.envira-social-button {
+				margin: 5px 0 0 5px;
+			}
+		}
+
+		/**
+		* Top Right
+		*/
+
+		& .envira-gallery-top-right .envira-social-buttons {
+
+			/**
+			* Button
+			*/
+			div.envira-social-network a.envira-social-button {
+				margin: 5px 5px 0 0;
+			}
+		}
+
+		/**
+		* Bottom Left
+		*/
+
+		& .envira-gallery-bottom-left .envira-social-buttons {
+
+			/**
+			* Button
+			*/
+			div.envira-social-network a.envira-social-button {
+				margin: 0 0 5px 5px;
+			}
+		}
+
+		/**
+		* Bottom Right
+		*/
+
+		& .envira-gallery-bottom-right .envira-social-buttons {
+
+			/**
+			* Button
+			*/
+			div.envira-social-network a.envira-social-button {
+				margin: 0 5px 5px 0;
+			}
+		}
+	}
+}

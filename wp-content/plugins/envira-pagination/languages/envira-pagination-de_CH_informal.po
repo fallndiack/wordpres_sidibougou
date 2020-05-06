@@ -1,0 +1,219 @@
+# Copyright (C) 2016 Envira Gallery - Pagination Addon
+# This file is distributed under the same license as the Envira Gallery - Pagination Addon package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Envira Gallery - Pagination Addon 1.2.9.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/envira-"
+"pagination\n"
+"POT-Creation-Date: 2016-11-11 17:10+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-11-25 16:49+0100\n"
+"Language-Team: mm-design.ch <info@mm-design.ch>\n"
+"X-Generator: Poedit 1.8.11\n"
+"Last-Translator: Rolf Müri - mm-design <rolf.mueri@mm-design.ch>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de_CH\n"
+"X-Poedit-Basepath: D:/xampp/apps/wordpress/htdocs/wp-content/plugins/envira-"
+"pagination\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/admin/metaboxes.php:89
+msgid "Above Images"
+msgstr "Über den Bildern"
+
+#: includes/admin/metaboxes.php:93
+msgid "Below Images"
+msgstr "Unter den Bildern"
+
+#: includes/admin/metaboxes.php:97
+msgid "Above and Below Images"
+msgstr "Über und unter den Bildern"
+
+#: includes/admin/metaboxes.php:115 includes/admin/metaboxes.php:333
+msgid "Pagination"
+msgstr "Seitenaufteilung"
+
+#: includes/admin/metaboxes.php:139 includes/admin/metaboxes.php:318
+msgid "Images"
+msgstr "Bilder"
+
+#: includes/admin/metaboxes.php:148 includes/admin/metaboxes.php:327
+msgid "Galleries"
+msgstr "Galerien"
+
+#: includes/admin/metaboxes.php:154
+msgid "Pagination Gallery Settings"
+msgstr "Einstellungen der Seitenaufteilung bei Galerien"
+
+#: includes/admin/metaboxes.php:156
+msgid ""
+"The settings below adjust the Pagination options for the Gallery output."
+msgstr ""
+"Die untenstehenden Einstellungen passen die Seitenaufteilung der Galerie an."
+
+#: includes/admin/metaboxes.php:158
+msgid "Need some help?"
+msgstr "Wird Hilfe benötigt?"
+
+#: includes/admin/metaboxes.php:160
+msgid "Read the Documentation"
+msgstr "Lies bitte die Dokumentation"
+
+#: includes/admin/metaboxes.php:164
+msgid "Watch a Video"
+msgstr "Schaue das Video an"
+
+#: includes/admin/metaboxes.php:172
+msgid "Enable Pagination?"
+msgstr "Seitenaufteilung aktivieren?"
+
+#: includes/admin/metaboxes.php:176
+msgid "Enables or disables Pagination."
+msgstr ""
+"Aktiviert oder deaktiviert die Seitenaufteilung, d.h. die Aufteilung der "
+"Galerie in nummerierte Seiten."
+
+#: includes/admin/metaboxes.php:182
+msgid "Pagination Position"
+msgstr "Position der Seitenzahlen"
+
+#: includes/admin/metaboxes.php:194
+msgid "Choose where to display Pagination."
+msgstr "Wähle aus, wo die Seitenzahlen angezeigt werden sollen."
+
+#: includes/admin/metaboxes.php:199
+msgid "%s per Page"
+msgstr "%s pro Seite"
+
+#: includes/admin/metaboxes.php:203 includes/admin/metaboxes.php:342
+msgid "The number of %s to display on each page."
+msgstr "Die Anzahl der %s welche auf einer Seite angezeigt werden sollen."
+
+#: includes/admin/metaboxes.php:208 includes/admin/metaboxes.php:347
+msgid "Display Previous and Next Links?"
+msgstr "Links zur vorherigen und nächsten Seite anzeigen?"
+
+#: includes/admin/metaboxes.php:212 includes/admin/metaboxes.php:351
+msgid ""
+"Displays Previous and Next links either side of the numerical pagination."
+msgstr ""
+"Zeigt bei den Seitenzahlen zusätzliche Links zur vorherigen und zur nächsten "
+"Galerie-Seite an. "
+
+#: includes/admin/metaboxes.php:218
+msgid "Previous Link Label"
+msgstr "Text für den Link zur vorherigen Seite."
+
+#: includes/admin/metaboxes.php:222
+msgid "The text to display when the Previous Link is displayed."
+msgstr "Dieser Text wird beim Link zur vorherigen Galerieseite angezeigt."
+
+#: includes/admin/metaboxes.php:228
+msgid "Next Link Label"
+msgstr "Text für den Link zur nächsten Seite."
+
+#: includes/admin/metaboxes.php:232
+msgid "The text to display when the Next Link is displayed."
+msgstr "Dieser Text wird beim Link zur nächsten Galerieseite angezeigt."
+
+#: includes/admin/metaboxes.php:238
+msgid "Scroll to Gallery?"
+msgstr "Zur Galerie scrollen?"
+
+#: includes/admin/metaboxes.php:242
+msgid "If enabled, scrolls / jumps to the gallery when the pagination is used."
+msgstr ""
+"Wenn aktiviert, wird jeweils zur Galerie gescrollt wenn eine neue Seite der "
+"Galerie angezeigt werden muss."
+
+#: includes/admin/metaboxes.php:248
+msgid "Load Paginated Items"
+msgstr "Laden der Folgeseite"
+
+#: includes/admin/metaboxes.php:261
+msgid ""
+"Defines how the next page(s) of images should be loaded when the user "
+"interacts with the Gallery."
+msgstr ""
+"Legt fest, wie die Folgeseite geladen werden soll, wenn der Benutzer mit der "
+"Galerie interagiert."
+
+#: includes/admin/metaboxes.php:273
+msgid "Pagination Lightbox Settings"
+msgstr "Lightbox-Einstellungen bei Seitenaufteilung"
+
+#: includes/admin/metaboxes.php:275
+msgid ""
+"The settings below adjust the Pagination options for the Lightbox output."
+msgstr ""
+"Die untenstehenden Einstellungen passen die Lightbox bei aktiver "
+"Seitenaufteilung an."
+
+#: includes/admin/metaboxes.php:282
+msgid "Display all images in Lightbox?"
+msgstr "Alle Bilder in der Lightbox anzeigen?"
+
+#: includes/admin/metaboxes.php:286
+msgid ""
+"If checked, all Gallery images will be accessible in the Lightbox view, "
+"regardless of which paginated images are displayed in the Gallery view."
+msgstr ""
+"Wenn aktiviert, kann auf alle Bilder der Galerie in der Lightbox zugegriffen "
+"werden, unabhängig davon welche Seite momentan angezeigt wird."
+
+#: includes/admin/metaboxes.php:338
+msgid "%s per Page?"
+msgstr "%s pro Seite?"
+
+#: includes/global/ajax.php:71 includes/global/ajax.php:174
+msgid "No Gallery or Album ID Specified."
+msgstr "Weder Galerie- noch Album-ID angegeben."
+
+#: includes/global/ajax.php:74 includes/global/ajax.php:177
+msgid "No page parameter specified."
+msgstr "Keinen Seiten-Parameter angegeben."
+
+#: includes/global/ajax.php:77 includes/global/ajax.php:180
+msgid "No type parameter specified."
+msgstr "Keinen Typ-Parameter angegeben."
+
+#: includes/global/common.php:72
+msgid "« Previous"
+msgstr "« Vorherige"
+
+#: includes/global/common.php:73
+msgid "Next »"
+msgstr "Nächste »"
+
+#: includes/global/common.php:121
+msgid "On Pagination Click, reloading Page"
+msgstr "Klick auf Seitenzahl lädt Seite"
+
+#: includes/global/common.php:122
+msgid "On Scroll (Lazy Loading)"
+msgstr "Scrollen lädt Seite (träge)"
+
+#: includes/global/common.php:123
+msgid "On Pagination Click (AJAX)"
+msgstr "Klick auf Seitenzahl (AJAX)"
+
+#. Plugin Name of the plugin/theme
+msgid "Envira Gallery - Pagination Addon"
+msgstr "Envira Gallery - Seitenaufteilung Erweiterung"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://enviragallery.com"
+msgstr "http://enviragallery.com"
+
+#. Description of the plugin/theme
+msgid "Enables pagination capabilities for Envira galleries and albums."
+msgstr ""
+"Aktiviert die Seitenaufteilung-Funktionen (Paginierung) für Envira Galerien "
+"und Alben."
+
+#. Author of the plugin/theme
+msgid "Envira Gallery Team"
+msgstr "Envira Gallery Team"

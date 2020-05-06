@@ -1,0 +1,217 @@
+# Copyright (C) 2017 Envira Gallery - Instagram Addon
+# This file is distributed under the same license as the Envira Gallery - Instagram Addon package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Envira Gallery - Instagram Addon 1.2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/envira-instagram\n"
+"POT-Creation-Date: 2018-06-03 13:13+0200\n"
+"PO-Revision-Date: 2018-06-03 17:41+0200\n"
+"Last-Translator: Frédéric Chamsseddine <contact@shemzone.com>\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: includes/admin/metaboxes.php:92 includes/admin/settings.php:87
+msgid "Instagram"
+msgstr "Instagram"
+
+#: includes/admin/metaboxes.php:125 includes/admin/settings.php:134
+msgid "Instagram Authorization Setup"
+msgstr "Configuration de l'autorisation Instagram"
+
+#: includes/admin/metaboxes.php:126
+msgid ""
+"Before you can create Instagram galleries, you need to authenticate Envira "
+"with your Instagram account."
+msgstr ""
+"Avant de pouvoir créer des galeries Instagram, vous devez authentifier "
+"Envira avec votre compte Instagram."
+
+#: includes/admin/metaboxes.php:129
+msgid "Click Here to Authenticate Envira with Instagram"
+msgstr "Cliquez ici pour authentifier Envira avec Instagram"
+
+#: includes/admin/metaboxes.php:138
+msgid "Instagram Settings"
+msgstr "Paramètres Instagram"
+
+#: includes/admin/metaboxes.php:141
+msgid "The settings below adjust the Instagram options for the gallery."
+msgstr ""
+"Les paramètres ci-dessous permettent de régler les options Instagram pour la "
+"galerie."
+
+#: includes/admin/metaboxes.php:149
+msgid "Need some help?"
+msgstr "Besoin d’aide ?"
+
+#: includes/admin/metaboxes.php:151
+msgid "Read the Documentation"
+msgstr "Lire la documentation"
+
+#: includes/admin/metaboxes.php:155
+msgid "Watch a Video"
+msgstr "Regarder une vidéo"
+
+#: includes/admin/metaboxes.php:167
+msgid "Feed Type"
+msgstr "Type d’extraction"
+
+#: includes/admin/metaboxes.php:175
+msgid "The type of images to pull from Instagram."
+msgstr "Le type d'images à récupérer d'Instagram."
+
+#: includes/admin/metaboxes.php:180
+msgid "Number of Instagram Photos"
+msgstr "Nombre de photos Instagram"
+
+#: includes/admin/metaboxes.php:184
+msgid "The number of images to pull from your Instagram feed."
+msgstr "Le nombre d'images à extraire de votre flux Instagram."
+
+#: includes/admin/metaboxes.php:198
+msgid "Image Resolution"
+msgstr "Résolution de l'image"
+
+#: includes/admin/metaboxes.php:206
+msgid "Determines the image resolution and size to use from Instagram."
+msgstr ""
+"Détermine la résolution et la taille de l'image à utiliser à partir "
+"d'Instagram."
+
+#: includes/admin/metaboxes.php:211
+msgid "Link to Photo?"
+msgstr "Lien vers Photo ?"
+
+#: includes/admin/metaboxes.php:220
+msgid ""
+"Links the photo to its original page on Instagram or directly to the image. "
+"If special link is selected image will appear in a lightbox if that is "
+"enabled."
+msgstr ""
+"Relie la photo à sa page originale sur Instagram ou directement à l'image. "
+"Si un lien spécial est sélectionné, l'image apparaîtra dans une lightbox si "
+"celle-ci est activée."
+
+#: includes/admin/metaboxes.php:225
+msgid "Open In New Tab?"
+msgstr "Ouvrir dans un nouvel onglet ?"
+
+#: includes/admin/metaboxes.php:229
+msgid "Opens the link to Instagram in a new browser tab"
+msgstr "Ouvre le lien vers Instagram dans un nouvel onglet du navigateur"
+
+#: includes/admin/metaboxes.php:235
+msgid "Use Photo Caption?"
+msgstr "Utiliser la légende de la photo ?"
+
+#: includes/admin/metaboxes.php:239
+msgid "Displays the photo caption from Instagram on the slide."
+msgstr ""
+"Affiche la légende de la photo à partir d'Instagram sur la diapositive."
+
+#: includes/admin/metaboxes.php:244
+msgid "Limit Caption Length"
+msgstr "Limite de la longueur de la légende"
+
+#: includes/admin/metaboxes.php:248
+msgid "Limits the number of words to display for each caption."
+msgstr "Limite le nombre de mots à afficher pour chaque légende."
+
+#: includes/admin/metaboxes.php:253
+msgid "Cache Data from Instagram?"
+msgstr "Données de cache d'Instagram ?"
+
+#: includes/admin/metaboxes.php:257
+msgid "Caches the data from Instagram to improve performance (recommended)."
+msgstr ""
+"Place les données d'Instagram en cache pour améliorer les performances "
+"(recommandé)."
+
+#: includes/admin/metaboxes.php:304
+msgid "Instagram Gallery Preview"
+msgstr "Aperçu de la galerie Instagram"
+
+#: includes/admin/settings.php:122 includes/admin/settings.php:226
+msgid "Success!"
+msgstr "Succès"
+
+#: includes/admin/settings.php:123 includes/admin/settings.php:227
+msgid "Your Instagram account has been authenticated for use with "
+msgstr "Votre compte Instagram a été authentifié pour une utilisation avec "
+
+#: includes/admin/settings.php:124
+msgid "Click Here to Remove Instagram Authentication from "
+msgstr "Cliquez ici pour supprimer l'authentification Instagram de "
+
+#: includes/admin/settings.php:135
+msgid "Before you can create Instagram sliders, you need to authenticate "
+msgstr ""
+"Avant de pouvoir créer des diaporamas Instagram, vous devez vous authentifier"
+
+#: includes/admin/settings.php:136
+msgid "Click here to Authenticate "
+msgstr "Cliquer ici pour vous authentifier :"
+
+#: includes/global/common.php:121
+msgid "My Instagram Photos"
+msgstr "Photos Instagram"
+
+#: includes/global/common.php:151
+msgid "Thumbnail (150x150)"
+msgstr "Miniature (150x150)"
+
+#: includes/global/common.php:155
+msgid "Low Resolution (306x306)"
+msgstr "Basse résolution (306x306)"
+
+#: includes/global/common.php:159
+msgid "Standard Resolution (640x640)"
+msgstr "Résolution standard (640x640)"
+
+#: includes/global/common.php:183
+msgid "No link"
+msgstr "Aucun lien"
+
+#: includes/global/common.php:187
+msgid "Original Page at Instagram"
+msgstr "Page originale sur Instagram"
+
+#: includes/global/common.php:191
+msgid "Direct Image On Instagram"
+msgstr "Image directe sur Instagram"
+
+#: includes/global/shortcode.php:164
+msgid "Envira Gallery Preview"
+msgstr "Aperçu de la galerie Envira"
+
+#. Plugin Name of the plugin/theme
+msgid "Envira Gallery - Instagram Addon"
+msgstr "Galerie Envira - Instagram Addon"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://enviragallery.com"
+msgstr "http://enviragallery.com"
+
+#. Description of the plugin/theme
+msgid "Populate Envira Galleries with Instagram images."
+msgstr "Alimenter les galeries Envira avec des images issues d'Instagram."
+
+#. Author of the plugin/theme
+msgid "Envira Gallery Team"
+msgstr "Équipe de Envira Gallery"
+
+#~ msgid ""
+#~ "Links the photo to its original page on Instagram, directly to the image, "
+#~ "or no link at all."
+#~ msgstr ""
+#~ "Relie la photo à sa page d'origine sur Instagram, directement sur "
+#~ "l'image, ou aucun lien."
+
+#~ msgid "Full Non-Cropped Resolution"
+#~ msgstr "Résolution intégrale non retaillée"

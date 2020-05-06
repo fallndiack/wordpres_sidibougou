@@ -1,0 +1,184 @@
+# Copyright (C) 2016 Envira Gallery - Lightroom Addon
+# This file is distributed under the same license as the Envira Gallery - Lightroom Addon package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Envira Gallery - Lightroom Addon 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/envira-lightroom\n"
+"POT-Creation-Date: 2016-04-30 17:32+0200\n"
+"PO-Revision-Date: 2016-04-30 17:40+0200\n"
+"Last-Translator: José Luis Pérez-Lozana <joseluis.perez.lozana@gmail.com>\n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: envira-lightroom.php:222
+msgid ""
+"The <strong>%s Addon</strong> requires that either the <a href=\"%s"
+"\">WordPress REST API Version 1 or Version 2 Plugin</a> be installed and "
+"activated."
+msgstr ""
+"El <strong>complemento %s</strong> necesita el plugin <a href=\"%s\" target="
+"\"_blank\">WP REST API versión 1 o versión 2 </a>."
+
+#: envira-lightroom.php:237
+msgid ""
+"The <strong>%s Addon</strong> will not work, as you have activated "
+"<strong>both</strong> the WP REST API v1 <strong>and</strong> v2 plugins.  "
+"Please deactivate one of them."
+msgstr ""
+"El <strong>%s complemento</strong> no funcionará, ya que se han activado "
+"<strong>ambos</strong> plugins WP REST API REST v1 <strong>y</ strong>v2. "
+"Por favor desactivar uno de ellos."
+
+#: envira-lightroom.php:252
+msgid ""
+"The <strong>%s Addon</strong> requires that Pretty Permalinks be enabled. "
+"Visit the <a href=\"%s\" target=\"_blank\">Permalinks Screen</a> to fix this."
+msgstr ""
+"El <strong>complemento %s</strong> necesita que este activado Pretty "
+"Permalinks. Para solucionarlo vaya a <a href=\"%s\" target=\"_blank"
+"\">Pantalla Permalinks </a>."
+
+#: includes/admin/settings.php:89
+msgid "Lightroom"
+msgstr "Lightroom"
+
+#: includes/admin/settings.php:118
+msgid "WordPress User"
+msgstr "Usuario de Wordpress"
+
+#: includes/admin/settings.php:130
+msgid ""
+"The WordPress User that Lightroom will use to create and manage Envira "
+"Galleries. Note that this User must have the relevent role / capabilities."
+msgstr ""
+"El usuario de Wordpress que usará Lightroom para crear y gestionar las "
+"galerías Envira. Tenga en cuenta que este usuario debe tener el rol / las "
+"capacidades pertinentes."
+
+#: includes/admin/settings.php:135
+msgid "Access Token"
+msgstr "Token de acceso"
+
+#: includes/admin/settings.php:139
+msgid "Copy Shortcode to Clipboard"
+msgstr "Copiar código corto al portapapeles"
+
+#: includes/admin/settings.php:141
+msgid "Generate New Access Token"
+msgstr "Genere un nuevo token de acceso "
+
+#: includes/admin/settings.php:142
+msgid ""
+"Copy this access token, and enter it into the Access Token field in "
+"Lightroom Publishing Manager > Envira."
+msgstr ""
+"Copie este token de acceso e introdúzcalo en el campo token de acceso en el "
+"Gestor de publicación de Lightroom > Envira. "
+
+#: includes/admin/settings.php:147
+msgid "Save"
+msgstr "Guardar"
+
+#: includes/admin/settings.php:203
+msgid ""
+"New Access Token generated successfully. Remember to update your Lightroom "
+"Plugin with the new Access Token."
+msgstr ""
+"El nuevo token de acceso se generó con éxito. Recuerde actualizar su plugin "
+"de Lightroom con el nuevo token de acceso."
+
+#: includes/admin/settings.php:218
+msgid ""
+"User ID updated successfully. Any publishing from Lightroom will honor this "
+"user ID's roles and capabilities."
+msgstr ""
+"ID de usuario actualizado con éxito. Cualquier publicación de Lightroom "
+"cumplirá con las funciones y características de este ID de usuario."
+
+#: includes/global/v1/class-wp-json-media.php:46
+#: includes/global/v1/class-wp-json-media.php:102
+#: includes/global/v1/class-wp-json-media.php:366
+msgid "Invalid post ID."
+msgstr "ID de entrada no valido"
+
+#: includes/global/v1/class-wp-json-media.php:52
+#: includes/global/v1/class-wp-json-media.php:108
+#: includes/global/v1/class-wp-json-media.php:153
+#: includes/global/v1/class-wp-json-media.php:372
+msgid "Invalid post type"
+msgstr "Tipo de entrada o valido"
+
+#: includes/global/v1/class-wp-json-media.php:158
+msgid "Sorry, you are not allowed to post on this site."
+msgstr "Lo siento, no está autorizado para publicar en este sitio."
+
+#: includes/global/v1/class-wp-json-media.php:163
+msgid "Sorry, you are not allowed to edit this post."
+msgstr "Lo siento, no está autorizado a editar esta entrada."
+
+#: includes/global/v1/class-wp-json-media.php:218
+msgid "Could not upload the image to the WordPress Media Library"
+msgstr "No se pudo subir la imagen a la biblioteca de medios de WordPress"
+
+#: includes/global/v1/class-wp-json-media.php:280
+msgid "No data supplied"
+msgstr "No se han suministrado datos"
+
+#: includes/global/v1/class-wp-json-media.php:284
+msgid "No Content-Type supplied"
+msgstr "No se ha suministrado el tipo de contenido"
+
+#: includes/global/v1/class-wp-json-media.php:288
+msgid "No Content-Disposition supplied"
+msgstr "No se ha sumistrado la disposición del contenido"
+
+#: includes/global/v1/class-wp-json-media.php:307
+msgid "Invalid Content-Disposition supplied"
+msgstr "No es valida la disposición del contenido que ha sumistrado"
+
+#: includes/global/v1/class-wp-json-media.php:315
+msgid "Content hash did not match expected"
+msgstr "La cadena hash de contenido no coincide con lo esperado"
+
+#: includes/global/v1/class-wp-json-media.php:328
+msgid "Could not open file handle"
+msgstr "No se pudo abrir el identificador de archivo"
+
+#: includes/global/wp-rest-api.php:189 includes/global/wp-rest-api.php:196
+msgid ""
+"The Access Token supplied is invalid. Please double check your access token, "
+"which can be found in your WordPress web site's  Administration Interface > "
+"Envira > Settings > Lightroom"
+msgstr ""
+"El token de acceso que ha suministrado, no es valido. Vuelva a comprobar su "
+"token de acceso, puede encontrarlo en la pagina de administración de su "
+"sitio Wordpress >Envira > Ajustes > Lightroom"
+
+#. Plugin Name of the plugin/theme
+msgid "Envira Gallery - Lightroom Addon"
+msgstr "Envira Gallery - Complemento Lightroom"
+
+#. Plugin URI of the plugin/theme
+msgid "http://enviragallery.com"
+msgstr "http://enviragallery.com"
+
+#. Description of the plugin/theme
+msgid "Create Envira Galleries directly from Adobe Photoshop Lightroom"
+msgstr "Cree galerías Envira directamente desde Adobe Photoshop Lightroom"
+
+#. Author of the plugin/theme
+msgid "Envira Team"
+msgstr "Envira Team"
+
+#. Author URI of the plugin/theme
+msgid "http://enviragallery.com"
+msgstr "http://enviragallery.com"
+
+#~ msgid ""
+#~ "The X-Envira-Lightroom-Access-Token header is missing from the request."
+#~ msgstr "En su solicitud falta la cabecera del token X-Envira-Lightroom."

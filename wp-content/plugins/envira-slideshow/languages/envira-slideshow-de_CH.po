@@ -1,0 +1,87 @@
+# Copyright (C) 2016 Envira Gallery - Slideshow Addon
+# This file is distributed under the same license as the Envira Gallery - Slideshow Addon package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Envira Gallery - Slideshow Addon 1.1.1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/envira-slideshow\n"
+"POT-Creation-Date: 2016-11-13 13:04+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-11-25 16:53+0100\n"
+"Language-Team: mm-design.ch <info@mm-design.ch>\n"
+"X-Generator: Poedit 1.8.11\n"
+"Last-Translator: Rolf Müri - mm-design <rolf.mueri@mm-design.ch>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de_CH\n"
+"X-Poedit-Basepath: D:/xampp/apps/wordpress/htdocs/wp-content/plugins/envira-slideshow\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/admin/metaboxes.php:76
+msgid "Slideshow"
+msgstr "Diashow"
+
+#: includes/admin/metaboxes.php:114
+msgid "Slideshow Lightbox Settings"
+msgstr "Lightbox-Einstellungen bei der Diashow"
+
+#: includes/admin/metaboxes.php:116
+msgid "The settings below adjust the Slideshow options for the Lightbox output."
+msgstr "Die untenstehenden Optionen passen die Lightbox-Anzeige bei der Diashow an."
+
+#: includes/admin/metaboxes.php:118
+msgid "Need some help?"
+msgstr "Wird Hilfe benötigt?"
+
+#: includes/admin/metaboxes.php:120
+msgid "Read the Documentation"
+msgstr "Lesen Sie die Dokumentation"
+
+#: includes/admin/metaboxes.php:124
+msgid "Watch a Video"
+msgstr "Schauen Sie das Video an"
+
+#: includes/admin/metaboxes.php:132
+msgid "Enable Gallery Slideshow?"
+msgstr "Galerie-Diashow einschalten?"
+
+#: includes/admin/metaboxes.php:136
+msgid "Enables or disables the gallery lightbox slideshow."
+msgstr "Aktiviert oder deaktiviert die Diashow bei der Galerie-Lightbox."
+
+#: includes/admin/metaboxes.php:141
+msgid "Autoplay the Slideshow?"
+msgstr "Diashow automatisch abspielen?"
+
+#: includes/admin/metaboxes.php:145
+msgid "Enables or disables autoplaying the slideshow on lightbox open."
+msgstr "Aktiviert oder deaktiviert den automatischen Start der Diashow, wenn die Lightbox geöffnet wird."
+
+#: includes/admin/metaboxes.php:150
+msgid "Slideshow Speed"
+msgstr "Diashow Geschwindigkeit"
+
+#: includes/admin/metaboxes.php:154
+msgid "Sets the speed of the gallery lightbox slideshow."
+msgstr "Setzt die Geschwindigkeit fest, in der die Diashow abgespielt wird (in mSec, d.h. 1000 ist 1 Sekunde)"
+
+#: includes/global/shortcode.php:108 includes/global/shortcode.php:123
+#: includes/global/shortcode.php:153
+msgid "Start Slideshow"
+msgstr "Diashow starten"
+
+#. Plugin Name of the plugin/theme
+msgid "Envira Gallery - Slideshow Addon"
+msgstr "Envira Gallery - Diashow Erweiterung"
+
+#. Plugin URI of the plugin/theme
+msgid "http://enviragallery.com"
+msgstr "http://enviragallery.com"
+
+#. Description of the plugin/theme
+msgid "Enables slideshows for Envira galleries."
+msgstr "Ermöglicht Diashows für Envira Galerien."
+
+#. Author of the plugin/theme
+msgid "Envira Gallery Team"
+msgstr "Envira Gallery Team"

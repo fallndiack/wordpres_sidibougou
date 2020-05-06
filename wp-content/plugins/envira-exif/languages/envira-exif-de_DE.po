@@ -1,0 +1,264 @@
+# Copyright (C) 2016 Envira Gallery - EXIF Addon
+# This file is distributed under the same license as the Envira Gallery - EXIF Addon package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Envira Gallery - EXIF Addon 1.1.9.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/envira-exif\n"
+"POT-Creation-Date: 2016-11-14 12:35+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-11-25 16:40+0100\n"
+"Language-Team: mm-design.ch <info@mm-design.ch>\n"
+"X-Generator: Poedit 1.8.11\n"
+"Last-Translator: Rolf Müri - mm-design <rolf.mueri@mm-design.ch>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de_DE\n"
+"X-Poedit-Basepath: D:/xampp/apps/wordpress/htdocs/wp-content/plugins/envira-"
+"exif\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: envira-exif.php:150
+msgid ""
+"The Exif Addon requires that <a href=\"http://php.net/manual/en/book.exif.php"
+"\" target=\"_blank\">PHP is compiled with Exif support</a>.  Please contact "
+"your webhost to have them add this functionality."
+msgstr ""
+"Die Exif-Erweiterung erfordert , dass <a href=\"http://php.net/manual/en/"
+"book.exif.php\" target=\"_blank\">PHP mit Exif-Unterstützung</a> kompiliert "
+"wird. Bitte kontaktiere deinen Webhoster, damit dieser diese Funktionalität "
+"hinzuzufügt."
+
+#: includes/admin/metaboxes.php:89 includes/admin/settings.php:54
+msgid "EXIF"
+msgstr "EXIF"
+
+#: includes/admin/metaboxes.php:128
+msgid "EXIF Gallery Settings"
+msgstr "EXIF Galerie-Einstellungen"
+
+#: includes/admin/metaboxes.php:130
+msgid "The settings below adjust EXIF metadata options on your Gallery output."
+msgstr ""
+"Die untenstehenden Einstellungen passen die EXIF-Ausgabe bei dieser Galerie "
+"an."
+
+#: includes/admin/metaboxes.php:132
+msgid "Need some help?"
+msgstr "Wird Hilfe benötigt?"
+
+#: includes/admin/metaboxes.php:134
+msgid "Read the Documentation"
+msgstr "Lese bitte die Dokumentation"
+
+#: includes/admin/metaboxes.php:138
+msgid "Watch a Video"
+msgstr "Schaue das Video an"
+
+#: includes/admin/metaboxes.php:147 includes/admin/metaboxes.php:209
+#: includes/admin/metaboxes.php:316
+msgid "Display EXIF Metadata?"
+msgstr "EXIF Metadaten anzeigen?"
+
+#: includes/admin/metaboxes.php:151
+msgid "Enables or disables displaying EXIF metadata in the gallery view."
+msgstr ""
+"Aktiviert oder deaktiviert die Anzeige von EXIF-Metadaten in der Galerie-"
+"Ansicht."
+
+#: includes/admin/metaboxes.php:156 includes/admin/metaboxes.php:218
+msgid "EXIF Metadata to Display"
+msgstr "Folgende EXIF Metadaten anzeigen"
+
+#: includes/admin/metaboxes.php:161 includes/admin/metaboxes.php:223
+msgid "Camera Make"
+msgstr "Kamera-Hersteller"
+
+#: includes/admin/metaboxes.php:166 includes/admin/metaboxes.php:228
+msgid "Camera Model"
+msgstr "Kamera-Modell"
+
+#: includes/admin/metaboxes.php:171 includes/admin/metaboxes.php:233
+msgid "Aperture"
+msgstr "Blende"
+
+#: includes/admin/metaboxes.php:176 includes/admin/metaboxes.php:238
+msgid "Shutter Speed"
+msgstr "Verschlusszeit"
+
+#: includes/admin/metaboxes.php:181 includes/admin/metaboxes.php:243
+msgid "Focal Length"
+msgstr "Brennweite"
+
+#: includes/admin/metaboxes.php:186 includes/admin/metaboxes.php:248
+msgid "ISO"
+msgstr "ISO"
+
+#: includes/admin/metaboxes.php:198
+msgid "EXIF Lightbox Settings"
+msgstr "EXIF Lightbox-Einstellungen"
+
+#: includes/admin/metaboxes.php:200
+msgid ""
+"The settings below adjust EXIF metadata options on your Lightbox output."
+msgstr ""
+"Die untenstehenden Einstellungen passen die EXIF-Ausgabe bei der Lightbox-"
+"Ansicht an."
+
+#: includes/admin/metaboxes.php:213
+msgid "Enables or disables displaying EXIF metadata in the Lightbox view."
+msgstr ""
+"Aktiviert oder deaktiviert die Anzeige von EXIF-Metadaten in der Lightbox-"
+"Ansicht."
+
+#: includes/admin/metaboxes.php:254
+msgid "EXIF Metadata Position"
+msgstr "Position der EXIF Metadaten"
+
+#: includes/admin/metaboxes.php:266
+msgid "Where to display the EXIF metadata relative to the image."
+msgstr "Wo sollen die EXIF Metadaten relativ zum Bild angezeigt werden?"
+
+#: includes/admin/metaboxes.php:271
+msgid "Display EXIF Outside of Image?"
+msgstr "EXIF Metadaten außerhalb des Bildes anzeigen?"
+
+#: includes/admin/metaboxes.php:275
+msgid ""
+"If enabled, displays the EXIF metadata outside of the lightbox/image frame."
+msgstr ""
+"Wenn aktiviert, werden die EXIF Metadaten außerhalb der Lightbox bzw. des "
+"Bildrahmens angezeigt."
+
+#: includes/admin/metaboxes.php:320
+msgid ""
+"If enabled, will display EXIF metadata based on the settings under the "
+"Config and Lightbox tabs. If disabled, no EXIF metadata is displayed on "
+"mobile."
+msgstr ""
+"Wenn aktiviert, werden die EXIF Metadaten so angezeigt, wie sie auf den "
+"Registerkarten \"Konfiguration\" und \"Lightbox\" eingestellt worden sind. "
+"Wenn deaktiviert, werden keine EXIF Metadaten auf Mobiles angezeigt."
+
+#: includes/admin/metaboxes.php:356
+msgid "Enable EXIF Tag Filtering?"
+msgstr "EXIF Schlagwort-Filter aktivieren?"
+
+#: includes/admin/metaboxes.php:360
+msgid "Enables or disables tag filtering by Camera Make and Model"
+msgstr ""
+"Aktiviert oder deaktiviert die Schlagwort-Filtermöglichkeit nach Kamera-"
+"Hersteller und Kamera-Modell"
+
+#: includes/admin/settings.php:81
+msgid "Store EXIF Keywords in Tags Addon?"
+msgstr "Die EXIF Schlüsselwörter in der Schlagwörter Erweiterung speichern?"
+
+#: includes/admin/settings.php:86
+msgid ""
+"If enabled, automatically stores any EXIF keywords as Tags when uploading an "
+"image."
+msgstr ""
+"Wenn aktiviert, werden beim Hochladen eines Bildes alle EXIF Schlüsselwörter "
+"automatisch als Schlüsselwörter gespeichert."
+
+#: includes/admin/settings.php:91
+msgid "Save"
+msgstr "Speichern"
+
+#: includes/admin/settings.php:142
+msgid "Settings updated successfully!"
+msgstr "Die Einstellungen wurden erfolgreich aktualisiert!"
+
+#: includes/global/common.php:126
+msgid "Top Left"
+msgstr "Oben links"
+
+#: includes/global/common.php:127
+msgid "Top Right"
+msgstr "Oben rechts"
+
+#: includes/global/common.php:128
+msgid "Bottom Left"
+msgstr "Unten links"
+
+#: includes/global/common.php:129
+msgid "Bottom Right"
+msgstr "Unten rechts"
+
+#: includes/global/shortcode.php:610
+msgid "Filter by %s"
+msgstr "Filtern nach %s"
+
+#: includes/global/taxonomy.php:48 includes/global/taxonomy.php:63
+#: includes/global/taxonomy.php:96
+msgid "Manufacturers"
+msgstr "Hersteller"
+
+#: includes/global/taxonomy.php:49
+msgid "Manufacturer"
+msgstr "Hersteller"
+
+#: includes/global/taxonomy.php:50
+msgid "Search Manufacturers"
+msgstr "Hersteller suchen"
+
+#: includes/global/taxonomy.php:51
+msgid "Popular Manufacturers"
+msgstr "Beliebte Hersteller"
+
+#: includes/global/taxonomy.php:52
+msgid "All Manufacturers"
+msgstr "Alle Hersteller"
+
+#: includes/global/taxonomy.php:55
+msgid "Edit Manufacturer"
+msgstr "Hersteller bearbeiten"
+
+#: includes/global/taxonomy.php:56
+msgid "Update Manufacturer"
+msgstr "Hersteller aktualisieren"
+
+#: includes/global/taxonomy.php:57
+msgid "Add New Manufacturer"
+msgstr "Neuen Hersteller dazufügen"
+
+#: includes/global/taxonomy.php:58
+msgid "New Manufacturer Name"
+msgstr "Name des neuen Herstellers"
+
+#: includes/global/taxonomy.php:59
+msgid "Separate manufacturers with commas"
+msgstr "Hersteller durch Kommas trennen"
+
+#: includes/global/taxonomy.php:60
+msgid "Add or remove manufacturers"
+msgstr "Hinzufügen oder Entfernen von Herstellern"
+
+#: includes/global/taxonomy.php:61
+msgid "Choose from the most used manufacturers"
+msgstr "Wähle aus den am häufigsten verwendeten Herstellern"
+
+#: includes/global/taxonomy.php:62
+msgid "No manufacturers found."
+msgstr "Kein Hersteller gefunden."
+
+#. Plugin Name of the plugin/theme
+msgid "Envira Gallery - EXIF Addon"
+msgstr "Envira Gallery - EXIF Erweiterung"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://enviragallery.com"
+msgstr "http://enviragallery.com"
+
+#. Description of the plugin/theme
+msgid ""
+"Displays EXIF data in thumbnail and/or Lightbox views for Envira galleries"
+msgstr ""
+"Zeigt EXIF Metadaten in Miniaturansicht und/oder Lightbox Ansichten für "
+"Envira Galerien an"
+
+#. Author of the plugin/theme
+msgid "Envira Gallery Team"
+msgstr "Envira Gallery Team"

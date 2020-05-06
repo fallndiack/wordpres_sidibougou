@@ -1,0 +1,220 @@
+# Copyright (C) 2018 envira-exif
+# This file is distributed under the same license as the envira-exif package.
+msgid ""
+msgstr ""
+"Project-Id-Version: envira-exif\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Evnira Gallery Team <support@enviragallery.com>\n"
+"Report-Msgid-Bugs-To: https://enviragallery.com/contact\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../envira-exif.php:153
+msgid "The Exif Addon requires that <a href=\"http://php.net/manual/en/book.exif.php\" target=\"_blank\">PHP is compiled with Exif support</a>.  Please contact your webhost to have them add this functionality."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:91, ../includes/admin/settings.php:54
+msgid "EXIF"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:130
+msgid "EXIF Gallery Settings"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:132
+msgid "The settings below adjust EXIF metadata options on your Gallery output."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:134
+msgid "Need some help?"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:136
+msgid "Read the Documentation"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:140
+msgid "Watch a Video"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:149, ../includes/admin/metaboxes.php:243, ../includes/admin/metaboxes.php:370, ../includes/admin/metaboxes.php:413
+msgid "Display EXIF Metadata?"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:153
+msgid "Enables or disables displaying EXIF metadata in the gallery view."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:158, ../includes/admin/metaboxes.php:252
+msgid "EXIF Metadata to Display"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:163, ../includes/admin/metaboxes.php:257
+msgid "Camera Make"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:168, ../includes/admin/metaboxes.php:262
+msgid "Camera Model"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:173, ../includes/admin/metaboxes.php:267
+msgid "Aperture"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:178, ../includes/admin/metaboxes.php:272
+msgid "Shutter Speed"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:183, ../includes/admin/metaboxes.php:277
+msgid "Focal Length"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:188, ../includes/admin/metaboxes.php:282
+msgid "ISO"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:193, ../includes/admin/metaboxes.php:288
+msgid "Capture Time"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:199, ../includes/admin/metaboxes.php:294
+msgid "Capture Time Format"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:206, ../includes/admin/metaboxes.php:301
+msgid "Default is <code>F j, Y</code>. <a target=\"_blank\" href=\"%s\">Documentation on date and time formatting.</a>"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:219
+msgid "EXIF Lightbox Settings"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:221
+msgid "The settings below adjust EXIF metadata options on your Lightbox output."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:247
+msgid "Enables or disables displaying EXIF metadata in the Lightbox view."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:308
+msgid "EXIF Metadata Position"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:320
+msgid "Where to display the EXIF metadata relative to the image."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:325
+msgid "Display EXIF Outside of Image?"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:329
+msgid "If enabled, displays the EXIF metadata outside of the lightbox/image frame."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:374
+msgid "If enabled, will display EXIF metadata based on the settings under the EXIF tab. If disabled, no EXIF metadata is displayed on mobile."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:417
+msgid "If enabled, will display EXIF metadata based on the settings under the EXIF tab. If disabled, no EXIF metadata is displayed on mobile lightboxes."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:460
+msgid "Enable EXIF Tag Filtering?"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:464
+msgid "Enables or disables tag filtering by Camera Make and Model"
+msgstr ""
+
+#: ../includes/admin/settings.php:81
+msgid "Store EXIF Keywords in Tags Addon?"
+msgstr ""
+
+#: ../includes/admin/settings.php:86
+msgid "If enabled, automatically stores any EXIF keywords as Tags when uploading an image."
+msgstr ""
+
+#: ../includes/admin/settings.php:91
+msgid "Save"
+msgstr ""
+
+#: ../includes/admin/settings.php:142
+msgid "Settings updated successfully!"
+msgstr ""
+
+#: ../includes/global/common.php:131
+msgid "Top Left"
+msgstr ""
+
+#: ../includes/global/common.php:132
+msgid "Top Right"
+msgstr ""
+
+#: ../includes/global/common.php:133
+msgid "Bottom Left"
+msgstr ""
+
+#: ../includes/global/common.php:134
+msgid "Bottom Right"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:48, ../includes/global/taxonomy.php:63, ../includes/global/taxonomy.php:181, ../includes/global/taxonomy.php:181
+msgid "Manufacturers"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:49
+msgid "Manufacturer"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:50
+msgid "Search Manufacturers"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:51
+msgid "Popular Manufacturers"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:52
+msgid "All Manufacturers"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:55
+msgid "Edit Manufacturer"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:56
+msgid "Update Manufacturer"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:57
+msgid "Add New Manufacturer"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:58
+msgid "New Manufacturer Name"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:59
+msgid "Separate manufacturers with commas"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:60
+msgid "Add or remove manufacturers"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:61
+msgid "Choose from the most used manufacturers"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:62
+msgid "No manufacturers found."
+msgstr ""

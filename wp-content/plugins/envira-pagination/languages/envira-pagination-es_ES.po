@@ -1,0 +1,212 @@
+# Copyright (C) 2015 Envira Gallery - Pagination Addon
+# This file is distributed under the same license as the Envira Gallery - Pagination Addon package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Envira Gallery - Pagination Addon 1.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/envira-"
+"pagination\n"
+"POT-Creation-Date: 2016-04-30 17:07+0200\n"
+"PO-Revision-Date: 2016-04-30 17:30+0200\n"
+"Last-Translator: José Luis Pérez-Lozana <joseluis.perez.lozana@gmail.com>\n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/admin/metaboxes.php:72
+msgid "Above Images"
+msgstr "Encima de las imágenes"
+
+#: includes/admin/metaboxes.php:76
+msgid "Below Images"
+msgstr "Debajo de las imágenes"
+
+#: includes/admin/metaboxes.php:80
+msgid "Above and Below Images"
+msgstr "Arriba y abajo de las imágenes"
+
+#: includes/admin/metaboxes.php:98 includes/admin/metaboxes.php:321
+msgid "Pagination"
+msgstr "Paginación"
+
+#: includes/admin/metaboxes.php:122 includes/admin/metaboxes.php:306
+msgid "Images"
+msgstr "Imágenes"
+
+#: includes/admin/metaboxes.php:131 includes/admin/metaboxes.php:315
+msgid "Galleries"
+msgstr "Galerías"
+
+#: includes/admin/metaboxes.php:137
+msgid "The settings below adjust the Pagination settings."
+msgstr "Los siguientes ajustes configuran la paginación"
+
+#: includes/admin/metaboxes.php:139 includes/admin/metaboxes.php:256
+msgid "Need some help?"
+msgstr "¿Necesita ayuda?"
+
+#: includes/admin/metaboxes.php:141 includes/admin/metaboxes.php:258
+msgid "Read the Documentation"
+msgstr "Lea la documentación"
+
+#: includes/admin/metaboxes.php:145 includes/admin/metaboxes.php:262
+msgid "Watch a Video"
+msgstr "Vea el video"
+
+#: includes/admin/metaboxes.php:153
+msgid "Enable Pagination?"
+msgstr "¿Activar paginación?"
+
+#: includes/admin/metaboxes.php:157
+msgid "Enables or disables Pagination."
+msgstr "Activa o desactiva la paginación."
+
+#: includes/admin/metaboxes.php:163
+msgid "Pagination Position"
+msgstr "Posición de la paginación"
+
+#: includes/admin/metaboxes.php:175
+msgid "Choose where to display Pagination."
+msgstr "Elige donde se visualiza la paginación."
+
+#: includes/admin/metaboxes.php:180
+msgid "%s per Page"
+msgstr "%s por página"
+
+#: includes/admin/metaboxes.php:184 includes/admin/metaboxes.php:330
+msgid "The number of %s to display on each page."
+msgstr "Número de %s  que se muestran en cada página."
+
+#: includes/admin/metaboxes.php:189 includes/admin/metaboxes.php:335
+msgid "Display Previous and Next Links?"
+msgstr "¿Mostar los enlaces Anterior y Siguiente? "
+
+#: includes/admin/metaboxes.php:193 includes/admin/metaboxes.php:339
+msgid ""
+"Displays Previous and Next links either side of the numerical pagination."
+msgstr ""
+"Muestra los enlaces Anterior y Siguiente a ambos lados de la paginación "
+"numérica."
+
+#: includes/admin/metaboxes.php:199
+msgid "Previous Link Label"
+msgstr "Etiqueta del enlace Anterior"
+
+#: includes/admin/metaboxes.php:203
+msgid "The text to display when the Previous Link is displayed."
+msgstr "Texto que aparece cuando se visualiza el enlace Anterior."
+
+#: includes/admin/metaboxes.php:209
+msgid "Next Link Label"
+msgstr "Etiqueta del enlace Siguiente"
+
+#: includes/admin/metaboxes.php:213
+msgid "The text to display when the Next Link is displayed."
+msgstr "Texto que aparece cuando se visualiza el enlace Siguiente."
+
+#: includes/admin/metaboxes.php:219
+msgid "Scroll to Gallery?"
+msgstr "¿Desplazarse a la Galería?"
+
+#: includes/admin/metaboxes.php:223
+msgid "If enabled, scrolls / jumps to the gallery when the pagination is used."
+msgstr ""
+"Si se activa, se desplaza / salta a la galería cuando se usa la paginación. "
+
+#: includes/admin/metaboxes.php:229
+msgid "Load Paginated Items"
+msgstr "Carga los elementos paginados"
+
+#: includes/admin/metaboxes.php:242
+msgid ""
+"Defines how the next page(s) of images should be loaded when the user "
+"interacts with the Gallery."
+msgstr ""
+"Define cómo debe cargarse la(s) página(s) siguiente(s) de imágenes cuando el "
+"usuario interactúa con la galería."
+
+#: includes/admin/metaboxes.php:254
+msgid "Lightbox Options."
+msgstr "Opciones de lightbox."
+
+#: includes/admin/metaboxes.php:270
+msgid "Display all images in Lightbox?"
+msgstr "¿Mostrar todas las imágenes en lightbox?"
+
+#: includes/admin/metaboxes.php:274
+msgid ""
+"If checked, all Gallery images will be accessible in the Lightbox view, "
+"regardless of which paginated images are displayed in the Gallery view."
+msgstr ""
+"Si se marca, todas las imágenes de la galería serán accesibles en lightbox, "
+"sin tener en cuenta que imágenes paginadas se muestran en la vista de "
+"galería."
+
+#: includes/admin/metaboxes.php:326
+msgid "%s per Page?"
+msgstr "¿%s por página?"
+
+#: includes/global/ajax.php:71 includes/global/ajax.php:169
+msgid "No Gallery or Album ID Specified."
+msgstr "No se ha especificado ningún  ID de galería o de álbum."
+
+#: includes/global/ajax.php:74 includes/global/ajax.php:172
+msgid "No page parameter specified."
+msgstr "No se ha especificado el parámetro de página."
+
+#: includes/global/ajax.php:77 includes/global/ajax.php:175
+msgid "No type parameter specified."
+msgstr "No se ha especificado el parámetro tipo."
+
+#: includes/global/common.php:72
+msgid "« Previous"
+msgstr "&larr; Anterior"
+
+#: includes/global/common.php:73
+msgid "Next »"
+msgstr "Siguiente &rarr;"
+
+#: includes/global/common.php:121
+msgid "On Pagination Click, reloading Page"
+msgstr "Haciendo clic en paginación se recarga la página"
+
+#: includes/global/common.php:122
+msgid "On Scroll (Lazy Loading)"
+msgstr "On Scroll (Lazy Loading)"
+
+#: includes/global/common.php:123
+msgid "On Pagination Click (AJAX)"
+msgstr "Haciendo clic en paginación (AJAX)"
+
+#. Plugin Name of the plugin/theme
+msgid "Envira Gallery - Pagination Addon"
+msgstr "Envira Gallery - Complemento de pagination"
+
+#. Plugin URI of the plugin/theme
+msgid "http://enviragallery.com"
+msgstr "http://enviragallery.com"
+
+#. Description of the plugin/theme
+msgid "Enables pagination capabilities for Envira galleries and albums."
+msgstr ""
+"Activa las funciones de paginación para las galerías y álbumes de Envira."
+
+#. Author of the plugin/theme
+msgid "Envira Team"
+msgstr "Envira Team"
+
+#. Author URI of the plugin/theme
+msgid "http://enviragallery.com"
+msgstr "http://enviragallery.com"
+
+#~ msgid ""
+#~ "If enabled, automatically appends the next page of images to the gallery, "
+#~ "when the user scrolls to the pagination (sometimes called AJAX loading or "
+#~ "lazy loading)."
+#~ msgstr ""
+#~ "Si se activa, se anexa automáticamente la siguiente página de imágenes a "
+#~ "la galería, cuando el usuario se desplaza a la paginación (a veces "
+#~ "llamada AJAX carga o carga lenta)."

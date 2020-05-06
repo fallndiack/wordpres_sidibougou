@@ -1,0 +1,331 @@
+# Copyright (C) 2018 envira-tags
+# This file is distributed under the same license as the envira-tags package.
+msgid ""
+msgstr ""
+"Project-Id-Version: envira-tags\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Evnira Gallery Team <support@enviragallery.com>\n"
+"Report-Msgid-Bugs-To: https://enviragallery.com/contact\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../includes/admin/admin.php:68, ../includes/admin/admin.php:68, ../includes/admin/media-view.php:54, ../includes/admin/metaboxes.php:201, ../includes/admin/metaboxes.php:368, ../includes/admin/metaboxes.php:370, ../includes/admin/settings.php:67
+msgid "Tags"
+msgstr ""
+
+#: ../includes/admin/imagga.php:131
+msgid "No response from Imagga"
+msgstr ""
+
+#: ../includes/admin/imagga.php:137
+msgid "Invalid JSON response from Imagga"
+msgstr ""
+
+#: ../includes/admin/media-view.php:85
+msgid "Enter a comma separated list of Tags to apply to this item."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:86
+msgid "Enter one or more tags, separated by commas. These will be applied to the selected images."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:175
+msgid "TAGS: "
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:228
+msgid "Gallery"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:229
+msgid "Images"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:254
+msgid "Album"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:255
+msgid "Galleries"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:301
+msgid "Tags %s Settings"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:306
+msgid "The settings below adjust the Tag options for the %s output."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:313
+msgid "Need some help?"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:315
+msgid "Read the Documentation"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:319
+msgid "Watch a Video"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:331
+msgid "Enable Tag Filtering?"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:335
+msgid "Enables or disables tag filtering for the %s display."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:340
+msgid "Tags Position?"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:352
+msgid "Define where you would like the tags displayed - above or below the gallery images."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:357
+msgid "Tags to include in Filtering"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:393
+msgid "Optionally define which tags to display. If none are set, the list of tags will be automatically generated."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:398
+msgid "Enable \"All Tags\" Option"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:402
+msgid "Enables or disables the \"All\" tag, which shows all %s."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:407
+msgid "All Tags Label"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:411
+msgid "The label to display for the All Tags link."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:416
+msgid "Sort Tags"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:428
+msgid "Define the display order for the Tag Filtering."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:433
+msgid "Manual Sorting Order"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:470
+msgid "Drag and drop the tags to sort their display order. If %1$s in this %2$s has a tag which is not in the above list, Publish/Update the %3$s first."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:475
+msgid "Display Specific %s on Load"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:479
+msgid "Display All %s"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:488
+msgid "If selected, only displays %s assigned to the selected tag on load."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:493
+msgid "Scroll to %s?"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:497
+msgid "If enabled, scrolls / jumps to the %s when a tag is clicked."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:505
+msgid "Number of %s"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:509
+msgid "Limit the number of %1$s to display when using the Dynamic Addon. Zero = all %2$s will be displayed."
+msgstr ""
+
+#: ../includes/admin/settings.php:95
+msgid "Imagga: Enable Auto Tagging?"
+msgstr ""
+
+#: ../includes/admin/settings.php:99
+msgstr ""
+
+#: ../includes/admin/settings.php:105
+msgid "Imagga: Authorization Code"
+msgstr ""
+
+#: ../includes/admin/settings.php:109
+msgid "<a href=\"%s\" target=\"_blank\">Sign up for the Imagga API</a>, and make a note of your Authorization code once completed. Enter the code here."
+msgstr ""
+
+#: ../includes/admin/settings.php:115
+msgid "Imagga: Minimum Confidence"
+msgstr ""
+
+#: ../includes/admin/settings.php:120
+msgid "If specified, only adds tags to images where Imagga matches or exceeds the above confidence percentage rating. A lower confidence means it is more likely less accurate tags will be included in an image."
+msgstr ""
+
+#: ../includes/admin/settings.php:188
+msgid "The nonce field is invalid."
+msgstr ""
+
+#: ../includes/admin/settings.php:203
+msgid "Tags settings updated successfully!"
+msgstr ""
+
+#: ../includes/global/common.php:60
+msgid "All"
+msgstr ""
+
+#: ../includes/global/common.php:83
+msgid "Ascending (A-Z)"
+msgstr ""
+
+#: ../includes/global/common.php:87
+msgid "Descending (Z-A)"
+msgstr ""
+
+#: ../includes/global/common.php:91
+msgid "Manual"
+msgstr ""
+
+#: ../includes/global/common.php:111
+msgid "Above Images"
+msgstr ""
+
+#: ../includes/global/common.php:115
+msgid "Below Images"
+msgstr ""
+
+#: ../includes/global/shortcode.php:974, ../includes/global/shortcode.php:1636
+msgid "Filter by All"
+msgstr ""
+
+#: ../includes/global/shortcode.php:1006, ../includes/global/shortcode.php:1671
+msgid "Filter by %s"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:51, ../includes/global/taxonomy.php:66
+msgid "Envira Tags"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:52
+msgid "Envira Tag"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:53
+msgid "Search Tags"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:54
+msgid "Popular Tags"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:55
+msgid "All Tags"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:58
+msgid "Edit Tag"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:59
+msgid "Update Tag"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:60
+msgid "Add New Tag"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:61
+msgid "New Tag Name"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:62
+msgid "Separate tags with commas"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:63
+msgid "Add or remove tags"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:64
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:65
+msgid "No tags found."
+msgstr ""
+
+#: ../includes/global/taxonomy.php:89
+msgid "Envira Categories"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:90
+msgid "Envira Category"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:91
+msgid "Search Categories"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:92
+msgid "Popular Categories"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:93
+msgid "All Categories"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:96
+msgid "Edit Category"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:97
+msgid "Update Category"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:98
+msgid "Add New Category"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:99
+msgid "New Category Name"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:100
+msgid "Separate categories with commas"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:101
+msgid "Add or remove categories"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:102
+msgid "Choose from the most used categories"
+msgstr ""
+
+#: ../includes/global/taxonomy.php:103
+msgid "No categories found."
+msgstr ""
+
+#: ../includes/global/taxonomy.php:104
+msgid "Categories"
+msgstr ""

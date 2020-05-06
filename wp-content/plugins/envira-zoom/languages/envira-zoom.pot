@@ -1,0 +1,192 @@
+# Copyright (C) 2018 envira-zoom
+# This file is distributed under the same license as the envira-zoom package.
+msgid ""
+msgstr ""
+"Project-Id-Version: envira-zoom\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Evnira Gallery Team <support@enviragallery.com>\n"
+"Report-Msgid-Bugs-To: https://enviragallery.com/contact\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../includes/admin/metaboxes.php:93, ../includes/global/shortcode.php:525, ../includes/global/shortcode.php:575
+msgid "Zoom"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:133
+msgid "The settings below adjust the Zoom settings."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:135
+msgid "Need some help?"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:137
+msgid "Read the Documentation"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:141
+msgid "Watch a Video"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:149
+msgid "Enable Zoom Functionality?"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:153
+msgid "Enables or disables displaying zoom functionality on each image in the lightbox view in the gallery."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:163
+msgid "Zoom on Hover"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:167
+msgid "Check this if you want the zoom effect shown when you hover over an image (desktop only), otherwise a zoom button will be added to the toolbar. Since no hover is available on most mobile devices, the zoom button will be added regardless of this setting. <a href=\"#\">Please make sure you make your toolbar visible</a>."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:173
+msgid "Zoom Effect"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:181
+msgid "You can have the lens fade in or out, or allow easing as the lens moves"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:187
+msgid "Zoom Type"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:195
+msgid "Basic mode gives you a zoom preview window, or select from a full-inner or lens zooms."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:201
+msgid "Zoom Window Position"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:209
+msgid "relative to image i.e. above, below, left, right"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:217
+msgid "Zoom Window Size"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:225
+msgid "small, default, large, huge"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:231
+msgid "Tint Color"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:235
+msgid "Select a tint color or leave blank for no tint."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:241
+msgid "Tint Color Opacity"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:247
+msgid "Select an opacity for your tint."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:254
+msgid "Zoom Lens Shape"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:262
+msgid "Note: older browsers might display a square, even if you select 'circle'."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:268
+msgid "Enable Lens Cursor"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:272
+msgid "Determines if a cursor appears above the zoom lens."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:346
+msgid "Disable Zoom On Mobile?"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:350
+msgid "If enabled, no zoom functionality or buttons will be displayed on mobile."
+msgstr ""
+
+#: ../includes/global/common.php:107
+msgid "Upper Left"
+msgstr ""
+
+#: ../includes/global/common.php:108
+msgid "Upper Right"
+msgstr ""
+
+#: ../includes/global/common.php:109
+msgid "Lower Left"
+msgstr ""
+
+#: ../includes/global/common.php:110
+msgid "Lower Right"
+msgstr ""
+
+#: ../includes/global/common.php:127
+msgid "Basic"
+msgstr ""
+
+#: ../includes/global/common.php:128
+msgid "Inner"
+msgstr ""
+
+#: ../includes/global/common.php:129
+msgid "Lens"
+msgstr ""
+
+#: ../includes/global/common.php:146
+msgid "No Effect"
+msgstr ""
+
+#: ../includes/global/common.php:147
+msgid "Fade In"
+msgstr ""
+
+#: ../includes/global/common.php:148
+msgid "Fade Out"
+msgstr ""
+
+#: ../includes/global/common.php:149
+msgid "Easing"
+msgstr ""
+
+#: ../includes/global/common.php:166
+msgid "Round"
+msgstr ""
+
+#: ../includes/global/common.php:167
+msgid "Square"
+msgstr ""
+
+#: ../includes/global/common.php:184
+msgid "Small"
+msgstr ""
+
+#: ../includes/global/common.php:185
+msgid "Medium"
+msgstr ""
+
+#: ../includes/global/common.php:186
+msgid "Large"
+msgstr ""
+
+#: ../includes/global/common.php:187
+msgid "Extra Large"
+msgstr ""

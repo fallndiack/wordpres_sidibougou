@@ -1,0 +1,577 @@
+# Copyright (C) 2017 Envira Gallery - Social Addon
+# This file is distributed under the same license as the Envira Gallery - Social Addon package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Envira Gallery - Social Addon 1.3.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/envira-social\n"
+"POT-Creation-Date: 2018-06-03 13:16+0200\n"
+"PO-Revision-Date: 2018-06-03 18:05+0200\n"
+"Last-Translator: Frédéric Chamsseddine <contact@shemzone.com>\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: includes/admin/metaboxes.php:109
+#, php-format
+msgid ""
+"<strong>Envira Gallery:</strong> The Social Addon requires configuration "
+"with Facebook and Twitter. Please visit the <a href=\"%s\" title=\"Settings"
+"\" target=\"_blank\">Settings</a> screen to complete setup."
+msgstr ""
+"<strong>Envira Gallery :</strong> L'addon Social Addon requiert une "
+"connexion avec Facebook et Twitter. Veuillez consulter l’écran des <a href="
+"\"%s\" title=\"Settings\" target=\"_blank\">paramètres</a> pour compléter "
+"l’installation."
+
+#: includes/admin/metaboxes.php:127 includes/admin/settings.php:76
+msgid "Social"
+msgstr "Social"
+
+#: includes/admin/metaboxes.php:167
+msgid "Social Gallery Settings"
+msgstr "Paramètres sociaux Gallery"
+
+#: includes/admin/metaboxes.php:171
+msgid ""
+"The settings below adjust the Social Sharing options for the Gallery output."
+msgstr ""
+"Les paramètres ci-dessous règlent les options de partage Social pour la "
+"Galerie."
+
+#: includes/admin/metaboxes.php:181 includes/admin/metaboxes.php:358
+msgid "Need some help?"
+msgstr "Besoin d’aide ?"
+
+#: includes/admin/metaboxes.php:183 includes/admin/metaboxes.php:360
+msgid "Read the Documentation"
+msgstr "Lire la documentation"
+
+#: includes/admin/metaboxes.php:187
+msgid "Watch a Video"
+msgstr "Regarder une vidéo"
+
+#: includes/admin/metaboxes.php:197 includes/admin/metaboxes.php:282
+msgid "Display Social Sharing Buttons?"
+msgstr "Afficher les boutons de partage sur les réseaux sociaux ?"
+
+#: includes/admin/metaboxes.php:201
+msgid ""
+"Enables or disables displaying social sharing buttons on each image in the "
+"gallery view."
+msgstr ""
+"Active ou désactive les boutons de partage sur les réseaux sociaux sur "
+"chaque image dans la galerie."
+
+#: includes/admin/metaboxes.php:207
+msgid "Social Buttons"
+msgstr "Boutons Réseaux sociaux"
+
+#: includes/admin/metaboxes.php:224 includes/admin/metaboxes.php:310
+msgid "Social Buttons Position"
+msgstr "Position des boutons de réseaux sociaux"
+
+#: includes/admin/metaboxes.php:232 includes/admin/metaboxes.php:318
+msgid "Where to display the social sharing buttons over the image."
+msgstr ""
+"Où afficher les boutons de partage sur les réseaux sociaux sur l’image."
+
+#: includes/admin/metaboxes.php:238 includes/admin/metaboxes.php:326
+msgid "Social Buttons Orientation"
+msgstr "Orientation des boutons de partage sur les réseaux sociaux"
+
+#: includes/admin/metaboxes.php:246 includes/admin/metaboxes.php:334
+msgid "Displays the social sharing buttons horizontally or vertically."
+msgstr ""
+"Affiche les boutons de partage sur les réseaux sociaux horizontalement ou "
+"verticalement."
+
+#: includes/admin/metaboxes.php:260
+msgid "Social Lightbox Settings"
+msgstr ""
+"Paramètres des boutons de partage sur les réseaux sociaux sur la Lightbox"
+
+#: includes/admin/metaboxes.php:264
+msgid ""
+"The settings below adjust the Social Sharing options for the Lightbox output."
+msgstr ""
+"Les paramètres ci-dessous règlent les options de partage Social pour la "
+"Lightbox."
+
+#: includes/admin/metaboxes.php:286
+msgid ""
+"Enables or disables displaying social sharing buttons on each image in the "
+"Lightbox view."
+msgstr ""
+"Active ou désactive les boutons de partage sur les réseaux sociaux sur "
+"chaque image dans une Lightbox."
+
+#: includes/admin/metaboxes.php:291 includes/admin/metaboxes.php:675
+#: includes/admin/metaboxes.php:737
+msgid "Social Networks"
+msgstr "Réseaux Sociaux"
+
+#: includes/admin/metaboxes.php:340
+msgid "Display Social Buttons Outside of Image?"
+msgstr ""
+"Afficher les boutons de partage sur les réseaux sociaux en dehors de "
+"l’Image ?"
+
+#: includes/admin/metaboxes.php:344
+msgid ""
+"If enabled, displays the social sharing buttons outside of the lightbox/"
+"image frame."
+msgstr ""
+"Si activé, affiche les boutons de partage sur les réseaux sociaux en dehors "
+"de la Lightbox/cadre des images."
+
+#: includes/admin/metaboxes.php:354
+msgid "Advanced Settings"
+msgstr "Paramètres avancés"
+
+#: includes/admin/metaboxes.php:356
+msgid ""
+"The settings below apply to social sharing in both lighboxes and galleries."
+msgstr ""
+"Les paramètres ci-dessous règlent les options de partage Social pour la "
+"Lightbox et les galeries."
+
+#: includes/admin/metaboxes.php:376
+msgid "Facebook Options"
+msgstr "Options de Facebook"
+
+#: includes/admin/metaboxes.php:383
+msgid "What To Share"
+msgstr "Ce qu’il faut partager"
+
+#: includes/admin/metaboxes.php:397
+msgid "Select the information that should be shared with each image."
+msgstr ""
+"Sélectionnez les informations qui doivent être partagées avec chaque image."
+
+#: includes/admin/metaboxes.php:403
+msgid "Facebook Optional Text"
+msgstr "Texte facultatif de Facebook"
+
+#: includes/admin/metaboxes.php:408
+msgid ""
+"Enter an optional message to append to Facebook shares. The image, image "
+"URL, title and caption are automatically shared."
+msgstr ""
+"Saisir un message facultatif à ajouter aux actions de Facebook. L’image, "
+"l’URL de l’image, le titre et la légende sont automatiquement partagés."
+
+#: includes/admin/metaboxes.php:415
+msgid "Facebook Tag Options"
+msgstr "Options des tags Facebook"
+
+#: includes/admin/metaboxes.php:424
+msgid ""
+"You can manually set one tag for all gallery images or automatically use "
+"tags assigned with the <a href=\"http://enviragallery.com/addons/tags-addon/"
+"\" target=\"_blank\">Tags Addon</a>. Note that you are allowed only one "
+"Facebook tag when using the Manual option."
+msgstr ""
+"Vous pouvez définir manuellement un tag pour toutes les images de la galerie "
+"ou utiliser automatiquement des tags associés avec l'<a href=\"http://"
+"enviragallery.com/addons/tags-addon/\" target=\"_blank\">Addon Tags</a>. "
+"Notez que Facebook n'autorise qu'un seul tag en mode manuelle."
+
+#: includes/admin/metaboxes.php:431
+msgid "Facebook Hashtag"
+msgstr "Hashtag Facebook"
+
+#: includes/admin/metaboxes.php:436
+msgid ""
+"Add one tag, starting with the \"#\" symbol. <strong>Example:</strong> "
+"#Envira."
+msgstr ""
+"Ajouter un hashtag, commençant par le symbole \"#\". <strong>Par exemple :</"
+"strong> #Envira."
+
+#: includes/admin/metaboxes.php:443
+msgid "Facebook Quote"
+msgstr "Citation Facebook"
+
+#: includes/admin/metaboxes.php:448
+msgid ""
+"Add a short text statement to be included with each image shared from this "
+"gallery. <a href=\"http://enviragallery.com/docs/social-addon/\" target="
+"\"_blank\">See our documentation</a> for additional information. Field "
+"accepts text only, no HTML."
+msgstr ""
+"Ajouter un texte court à inclure avec chaque image partagée dans cette "
+"galerie. <a href=\"http://enviragallery.com/docs/social-addon/\" target="
+"\"_blank\">Consulter notre documentation</a> pour toute information "
+"complémentaire. Le champ n'accepte que du texte brut, pas de format HTML."
+
+#: includes/admin/metaboxes.php:460
+msgid "Pinterest Options"
+msgstr "Options Pinterest"
+
+#: includes/admin/metaboxes.php:467
+msgid "Pinterest Sharing Type"
+msgstr "Type de partage Pinterest"
+
+#: includes/admin/metaboxes.php:476
+msgid ""
+"Pin One includes the image and caption of the image being shared. Pin All "
+"displays all available images and allows users to select the specific image "
+"they wish to share."
+msgstr ""
+"Épingler inclut l’image et la légende de l’image à partager. Épingler tout "
+"affiche toutes les images disponibles et permet aux utilisateurs de "
+"sélectionner l’image qu’ils souhaitent partager."
+
+#: includes/admin/metaboxes.php:483
+msgid "Pinterest Rich Pins"
+msgstr "Pinterest Épingles enrichies"
+
+#: includes/admin/metaboxes.php:487
+msgid ""
+"Enable Pinterest's Rich Pins on the page where this gallery is displayed. "
+"Important: Pinterest must pre-approve your site for this option to work. <a "
+"href=\"http://enviragallery.com/docs/social-addon/\" target=\"_blank\">See "
+"our documentation</a> for additional information."
+msgstr ""
+"Activer les épingles enrichies de Pinterest sur la page où cette galerie est "
+"affichée. Important : Pinterest doit pré-approuver votre site pour que cette "
+"option fonctionne. Pour plus d’informations, <a href=\"http://enviragallery."
+"com/docs/social-addon/\" target=\"_blank\">consultez notre documentation</a>."
+
+#: includes/admin/metaboxes.php:499
+msgid "Twitter Options"
+msgstr "Options Twitter"
+
+#: includes/admin/metaboxes.php:506
+msgid "Twitter Optional Text"
+msgstr "Texte facultatif de Twitter"
+
+#: includes/admin/metaboxes.php:511
+msgid ""
+"Enter an optional message to append to Tweets. The image, image URL and "
+"caption are automatically shared."
+msgstr ""
+"Saisir un message facultatif à ajouter aux Tweets. L’image, l’URL de l’image "
+"et la légende sont automatiquement partagés."
+
+#: includes/admin/metaboxes.php:518
+msgid "Twitter Summary Card"
+msgstr "Twitter Summary Card"
+
+#: includes/admin/metaboxes.php:527
+msgid ""
+"Twitter summary cards share additional details (such as an image, title, and "
+"caption) than a standard text Tweet."
+msgstr ""
+"Les Twitter Summary Cards intègrent plus de détails (par exemple, une image, "
+"title et légende) qu’un Tweet standard."
+
+#: includes/admin/metaboxes.php:528
+msgid ""
+"<strong>No Summary Card</strong> disables Summary Cards and shares only a "
+"text link."
+msgstr ""
+"<strong>Pas de carte de résumé</strong> désactive les Twitter Summary Card "
+"et partage un lien texte seulement."
+
+#: includes/admin/metaboxes.php:529
+msgid ""
+"<strong>Summary Card + Thumbnail</strong> shares a 120 x 120 pixel image "
+"with Title and Caption. <a href=\"https://dev.twitter.com/cards/types/summary"
+"\">Learn more</a>."
+msgstr ""
+"<strong>Twitter Summary Card + vignette</strong> partage une image 120 x 120 "
+"pixels avec titre et une légende. <a href=\"https://dev.twitter.com/cards/"
+"types/summary\">En savoir plus</a>."
+
+#: includes/admin/metaboxes.php:530
+msgid ""
+"<strong>Summary Card + Large Image</strong> shares a larger image with Title "
+"and Caption. <a href=\"https://dev.twitter.com/cards/types/summary-large-"
+"image\">Learn more</a>."
+msgstr ""
+"<strong>Twitter Summary Card + grande image</strong> partage une grande "
+"image avec un titre et une légende. <a href=\"https://dev.twitter.com/cards/"
+"types/summary-large-image\">En savoir plus</a>."
+
+#: includes/admin/metaboxes.php:531
+msgid ""
+"The image shared from the gallery is used for the Summary Card image. <a "
+"href=\"http://enviragallery.com/docs/social-addon/\" target=\"_blank\">See "
+"our documentation</a> for additional information."
+msgstr ""
+"L’image partagée à partir de la galerie est utilisé comme image de la "
+"Twitter Summary Card. Pour plus d’informations, <a href=\"http://"
+"enviragallery.com/docs/social-addon/\" target=\"_blank\">consultez notre "
+"documentation</a>."
+
+#: includes/admin/metaboxes.php:538
+msgid "Twitter Summary Card Username"
+msgstr "Utilisateur Twitter dans la Summary Card"
+
+#: includes/admin/metaboxes.php:543
+msgid ""
+"The Twitter username to attribute the Summary Card to, starting with the \"@"
+"\" sign. <strong>Example:</strong> @enviragallery"
+msgstr ""
+"Le nom d’utilisateur Twitter dans la Summary Card, il commence par le signe "
+"arobase (@). <strong>Par exemple :</strong> @enviragallery"
+
+#: includes/admin/metaboxes.php:550
+msgid "Twitter Summary Card Description"
+msgstr "Description de la Twitter Summary Card"
+
+#: includes/admin/metaboxes.php:555
+msgid ""
+"Twitter requires a description for Summary Cards. Envira will attempt to "
+"find and use the image caption, gallery description, or Twitter Optional "
+"Text setting (in that order). Optionally, Envira can pass the custom text "
+"entered in this field to Twitter instead. <a href=\"http://enviragallery.com/"
+"docs/social-addon/\" target=\"_blank\">See our documentation</a> for "
+"additional information."
+msgstr ""
+"Twitter impose une description pour les Twitter Summary Card. Envira "
+"essayera de trouver et d’utiliser la légende de l’image, la description de "
+"la galerie ou le paramètre de texte optionnel Twitter (dans cet ordre). "
+"Optionnellement, Envira peut à la place utiliser le texte personnalisé saisi "
+"dans ce champ. Pour plus d’informations, <a href=\"http://enviragallery.com/"
+"docs/social-addon/\" target=\"_blank\">consultez notre documentation</a>."
+
+#: includes/admin/metaboxes.php:568
+msgid "Google+ Options"
+msgstr "Google+ Options"
+
+#: includes/admin/metaboxes.php:576
+msgid "Google+ Default Description"
+msgstr "Google+ Description par défaut"
+
+#: includes/admin/metaboxes.php:581
+msgid ""
+"Enter the text you would like Google+ to use if no description or caption is "
+"found for your gallery or image being shared. <a href=\"http://enviragallery."
+"com/docs/social-addon/\" target=\"_blank\">See our documentation</a> for "
+"additional information.\n"
+"    Field accepts text only, no HTML."
+msgstr ""
+"Saisir le texte que Google+ utilisera si aucune description ou légende n’est "
+"trouvée pour votre galerie ou image partagée. Pour plus d’informations, <a "
+"href=\"http://enviragallery.com/docs/social-addon/\" target=\"_blank"
+"\">consultez notre documentation</a>.\n"
+"Ce champ accepte uniquement du texte brut, pas de HTML."
+
+#: includes/admin/metaboxes.php:597
+msgid "Email Options"
+msgstr "Options d'emails"
+
+#: includes/admin/metaboxes.php:605
+msgid "Image Size To Share"
+msgstr "Taille de l’image à partager"
+
+#: includes/admin/metaboxes.php:619
+msgid ""
+"Select if you want to share the url of the full sized image or a smaller "
+"image via email."
+msgstr ""
+"Indiquer si vous souhaitez partager l’url de l’image en plein format ou une "
+"petite image par e-mail."
+
+#: includes/admin/metaboxes.php:666
+msgid "Display Social Sharing Buttons On Gallery?"
+msgstr ""
+"Afficher les boutons de partage sur les réseaux sociaux dans Envira Gallery ?"
+
+#: includes/admin/metaboxes.php:670
+msgid ""
+"If enabled, will display social sharing buttons based on the settings in the "
+"Social Addon: Gallery settings. If disabled, no social sharing buttons for "
+"galleries will be displayed on mobile."
+msgstr ""
+"Si activé, affichera des boutons de partage sur les réseaux sociaux selon "
+"les paramètres de la galerie dans l’Addon Social. Si désactivé, aucun bouton "
+"de partage sur les réseaux sociaux pour les galeries ne s’affichera sur "
+"mobile."
+
+#: includes/admin/metaboxes.php:728
+msgid "Display Social Sharing Buttons In Lightboxes?"
+msgstr "Afficher les boutons de partage sur les réseaux sociaux sur Lightbox ?"
+
+#: includes/admin/metaboxes.php:732
+msgid ""
+"If enabled, will display social sharing buttons based on the settings in the "
+"Social Addon: Lightbox settings. If disabled, no social sharing buttons in "
+"lightboxes will be displayed on mobile."
+msgstr ""
+"Si activé, affichera des boutons de partage sur les réseaux sociaux selon "
+"les paramètres de la Light box dans l’Addon Social. Si désactivé, aucun "
+"bouton de partage sur les réseaux sociaux pour les Lightbox ne s’affichera "
+"sur mobile."
+
+#: includes/admin/settings.php:104
+msgid "Facebook Application ID"
+msgstr "Facebook Application ID"
+
+#: includes/admin/settings.php:109 includes/admin/settings.php:122
+msgid "Required: "
+msgstr "Obligatoire :"
+
+#: includes/admin/settings.php:110
+msgid ""
+"Visit https://developers.facebook.com/quickstarts/?platform=web, and "
+"register a new app.  The URL must = "
+msgstr ""
+"Visitez https://developers.facebook.com/quickstarts/?platform=web et "
+"enregistrez une nouvelle application. L'URL doit être ="
+
+#: includes/admin/settings.php:117
+msgid "Twitter Username"
+msgstr "Nom d’utilisateur Twitter"
+
+#: includes/admin/settings.php:123
+msgid "Visit https://cards-dev.twitter.com/validator, and enter "
+msgstr "Visitez https://cards-dev.twitter.com/validator, et saisissez "
+
+#: includes/admin/settings.php:129
+msgid "Save"
+msgstr "Enregistrer"
+
+#: includes/admin/settings.php:185
+msgid "The nonce field is invalid."
+msgstr "Le champ nonce est invalide."
+
+#: includes/admin/settings.php:200
+msgid "Social settings saved!"
+msgstr "Paramètres de partage sur les réseaux sociaux enregistrés !"
+
+#: includes/global/common.php:187
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/global/common.php:188
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/global/common.php:189
+msgid "Google+"
+msgstr "Google+"
+
+#: includes/global/common.php:190
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: includes/global/common.php:191
+msgid "Email"
+msgstr "Adresse de messagerie"
+
+#: includes/global/common.php:208
+msgid "Top Left"
+msgstr "En haut à gauche"
+
+#: includes/global/common.php:209
+msgid "Top Right"
+msgstr "En haut à droite"
+
+#: includes/global/common.php:210
+msgid "Bottom Left"
+msgstr "En bas à gauche"
+
+#: includes/global/common.php:211
+msgid "Bottom Right"
+msgstr "En bas à droite"
+
+#: includes/global/common.php:228
+msgid "No Summary Card"
+msgstr "Pas de description courte"
+
+#: includes/global/common.php:229
+msgid "Summary Card + Thumbnail"
+msgstr "Description courte + miniature d'image"
+
+#: includes/global/common.php:230
+msgid "Summary Card + Large Image"
+msgstr "Description courte + grande image"
+
+#: includes/global/common.php:247
+msgid "Optional Text"
+msgstr "Texte optionnel"
+
+#: includes/global/common.php:248
+msgid "Tags"
+msgstr "Tags"
+
+#: includes/global/common.php:249
+msgid "Caption"
+msgstr "Légende"
+
+#: includes/global/common.php:250
+msgid "Quote"
+msgstr "Citation"
+
+#: includes/global/common.php:267
+msgid "Manual"
+msgstr "Manuelle"
+
+#: includes/global/common.php:272
+msgid "Envira Tags"
+msgstr "Envira Tags"
+
+#: includes/global/common.php:290
+msgid "Pin One"
+msgstr "Epingler"
+
+#: includes/global/common.php:291
+msgid "Pin All"
+msgstr "Épingler tout"
+
+#: includes/global/common.php:312
+msgid "Fullsize"
+msgstr "Plein largeur"
+
+#: includes/global/common.php:336
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: includes/global/common.php:337
+msgid "Vertical"
+msgstr "Vertical"
+
+#: includes/global/shortcode.php:1126 includes/global/shortcode.php:1146
+#: includes/global/shortcode.php:1167 includes/global/shortcode.php:1197
+#: includes/global/shortcode.php:1244 includes/global/shortcode.php:1370
+#: includes/global/shortcode.php:1389 includes/global/shortcode.php:1401
+#: includes/global/shortcode.php:1414 includes/global/shortcode.php:1427
+msgid "Share"
+msgstr "Partagez"
+
+#. Plugin Name of the plugin/theme
+msgid "Envira Gallery - Social Addon"
+msgstr "Envira Gallery - Social Addon"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://enviragallery.com"
+msgstr "http://enviragallery.com"
+
+#. Description of the plugin/theme
+msgid "Enables Social Media Sharing Buttons for Envira Galleries"
+msgstr ""
+"Active les boutons de partage sur les réseaux sociaux pour les galeries de "
+"Envira"
+
+#. Author of the plugin/theme
+msgid "Envira Gallery Team"
+msgstr "Équipe de Envira Gallery"
+
+#~ msgid ""
+#~ "The Social Addon requires configuration with Facebook and Twitter. Please "
+#~ "visit the <a href=\"edit.php?post_type=envira&page=envira-gallery-settings"
+#~ "\" title=\"Settings\" target=\"_blank\">Settings</a> screen to complete "
+#~ "setup."
+#~ msgstr ""
+#~ "L'addon Social Addon requiert une connexion avec Facebook et Twitter. "
+#~ "Veuillez consulter l’écran des <a href=\"edit.php?"
+#~ "post_type=envira&page=envira-gallery-settings\" title=\"Settings\" target="
+#~ "\"_blank\">paramètres</a> pour achever l’installation."

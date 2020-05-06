@@ -1,0 +1,28 @@
+# Copyright (C) 2018 envira-css
+# This file is distributed under the same license as the envira-css package.
+msgid ""
+msgstr ""
+"Project-Id-Version: envira-css\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Evnira Gallery Team <support@enviragallery.com>\n"
+"Report-Msgid-Bugs-To: https://enviragallery.com/contact\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../envira-css.php:208
+msgid "Custom Gallery CSS"
+msgstr ""
+
+#: ../envira-css.php:223, ../envira-css.php:260
+msgid "All custom CSS for this gallery should start with <code>%1$s</code>. <a href=\"%2$s\" title=\"Need help?\" target=\"_blank\">Help?</a>"
+msgstr ""
+
+#: ../envira-css.php:245
+msgid "Custom Album CSS"
+msgstr ""

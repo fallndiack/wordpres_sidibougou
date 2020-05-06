@@ -12,13 +12,8 @@ Page pour nous contacter
 
 
 <div class="row container">
-    <div class="col-md-8">
-        <?= do_shortcode('[contact-form-7 id="295" title="Monochrome light"]'); ?>
-
-    </div>
-    <div class="col-md-4">
-
-    </div>
+    <?= do_shortcode('[contact-form-7 id="295" title="Monochrome light"]'); ?>
+    <?= do_shortcode('[envira-gallery id="384"]'); ?>
 </div>
 
 

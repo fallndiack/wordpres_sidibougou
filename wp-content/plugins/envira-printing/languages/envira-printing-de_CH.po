@@ -1,0 +1,124 @@
+# Copyright (C) 2016 Envira Gallery - Printing Addon
+# This file is distributed under the same license as the Envira Gallery - Printing Addon package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Envira Gallery - Printing Addon 1.0.2.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/envira-printing\n"
+"POT-Creation-Date: 2016-11-17 13:51+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-11-25 16:51+0100\n"
+"Language-Team: mm-design.ch <info@mm-design.ch>\n"
+"X-Generator: Poedit 1.8.11\n"
+"Last-Translator: Rolf Müri - mm-design <rolf.mueri@mm-design.ch>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de_CH\n"
+"X-Poedit-Basepath: D:/xampp/apps/wordpress/htdocs/wp-content/plugins/envira-"
+"printing\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/admin/metaboxes.php:85
+msgid "Printing"
+msgstr "Drucken"
+
+#: includes/admin/metaboxes.php:124
+msgid "Printing Gallery Settings"
+msgstr "Druck-Einstellungen für die Galerie"
+
+#: includes/admin/metaboxes.php:126
+msgid "The settings below adjust the Printing options for the Gallery output."
+msgstr ""
+"Die untenstehenden Einstellungen passen die Druck-Optionen für die Galerie "
+"an."
+
+#: includes/admin/metaboxes.php:128
+msgid "Need some help?"
+msgstr "Wird Hilfe benötigt?"
+
+#: includes/admin/metaboxes.php:130
+msgid "Read the Documentation"
+msgstr "Lesen Sie die Dokumentation"
+
+#: includes/admin/metaboxes.php:134
+msgid "Watch a Video"
+msgstr "Schauen Sie das Video an"
+
+#: includes/admin/metaboxes.php:142 includes/admin/metaboxes.php:179
+msgid "Display Print Button?"
+msgstr "Schaltfläche „Drucken“ anzeigen?"
+
+#: includes/admin/metaboxes.php:146
+msgid ""
+"Enables or disables displaying a print button on each image in the gallery "
+"view."
+msgstr ""
+"Aktiviert oder deaktiviert eine Schaltfläche \"Drucken\" auf jedem Bild in "
+"der Galerie-Ansicht."
+
+#: includes/admin/metaboxes.php:151 includes/admin/metaboxes.php:188
+msgid "Print Button Position"
+msgstr "Position der Schaltfläche \"Drucken\""
+
+#: includes/admin/metaboxes.php:159 includes/admin/metaboxes.php:196
+msgid "Where to display the print button over the image."
+msgstr "Wo soll die Schaltfläche \"Drucken\" auf Bild angezeigt werden?"
+
+#: includes/admin/metaboxes.php:170
+msgid "Printing Lightbox Settings"
+msgstr "Druck-Einstellungen für die Lightbox"
+
+#: includes/admin/metaboxes.php:172
+msgid "The settings below adjust the Printing options for the Lightbox output."
+msgstr ""
+"Die untenstehenden Einstellungen passen die Druck-Optionen für die Lightbox "
+"an."
+
+#: includes/admin/metaboxes.php:183
+msgid ""
+"Enables or disables displaying the print button on each image in the "
+"Lightbox view."
+msgstr ""
+"Aktiviert oder deaktiviert eine Schaltfläche \"Drucken\" auf jedem Bild in "
+"der Lightbox-Ansicht."
+
+#: includes/global/common.php:85
+msgid "Top Left"
+msgstr "Oben links"
+
+#: includes/global/common.php:86
+msgid "Top Right"
+msgstr "Oben rechts"
+
+#: includes/global/common.php:87
+msgid "Bottom Left"
+msgstr "Unten links"
+
+#: includes/global/common.php:88
+msgid "Bottom Right"
+msgstr "Unten rechts"
+
+#: includes/global/shortcode.php:133 includes/global/shortcode.php:204
+msgid "Please enter the password to print this image."
+msgstr "Bitte geben Sie das Passwort ein, um dieses Bild zu drucken."
+
+#: includes/global/shortcode.php:298 includes/global/shortcode.php:323
+msgid "Print"
+msgstr "Drucken"
+
+#. Plugin Name of the plugin/theme
+msgid "Envira Gallery - Printing Addon"
+msgstr "Envira Gallery - Drucken Erweiterung"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://enviragallery.com"
+msgstr "http://enviragallery.com"
+
+#. Description of the plugin/theme
+msgid "Display a Print Icon on Gallery Images"
+msgstr "Zeigt ein Drucken-Symbol auf den Bildern der Galerie an"
+
+#. Author of the plugin/theme
+msgid "Envira Gallery Team"
+msgstr "Envira Gallery Team"

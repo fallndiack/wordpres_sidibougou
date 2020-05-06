@@ -1,0 +1,40 @@
+# Copyright (C) 2018 envira-fullscreen
+# This file is distributed under the same license as the envira-fullscreen package.
+msgid ""
+msgstr ""
+"Project-Id-Version: envira-fullscreen\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Evnira Gallery Team <support@enviragallery.com>\n"
+"Report-Msgid-Bugs-To: https://enviragallery.com/contact\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../includes/admin/metaboxes.php:60, ../includes/admin/metaboxes.php:111
+msgid "Enable Fullscreen View?"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:64
+msgid "Enables or disables native fullscreen mode (for browsers that support it) for the gallery."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:69, ../includes/admin/metaboxes.php:120
+msgid "Enable Fullscreen on Open?"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:73, ../includes/admin/metaboxes.php:124
+msgid "Enables Lightbox opening in fullscreen mode."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:115
+msgid "Enables or disables native fullscreen mode (for browsers that support it) for each gallery in the Album. Requires Lightbox to be enabled."
+msgstr ""
+
+#: ../includes/global/shortcode-album.php:146, ../includes/global/shortcode-gallery.php:71, ../includes/global/shortcode-gallery.php:80, ../includes/global/shortcode-gallery.php:111
+msgid "Toggle Fullscreen"
+msgstr ""

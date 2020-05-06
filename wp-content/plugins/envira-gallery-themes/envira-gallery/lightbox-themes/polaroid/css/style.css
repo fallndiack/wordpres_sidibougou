@@ -1,0 +1,316 @@
+/* ==========================================================================
+     Subtle Theme Styles
+     ========================================================================== */
+.envirabox-theme-polaroid {
+  border-radius: 2px;
+  padding: 4px !important;
+  background: none;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  /**
+     * Actions
+     */
+  /** 
+     * Navigation
+     */
+  /** 
+     * Navigation
+     */
+  /* VIDEO */ }
+  .envirabox-theme-polaroid .envirabox-close, .envirabox-theme-polaroid .envirabox-arrow--left span, .envirabox-theme-polaroid .envirabox-arrow--right span {
+    background-image: url("images/envirabox_sprite.png"); }
+  .envirabox-theme-polaroid .envirabox-toolbar {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    z-index: 988061;
+    height: 16px; }
+    .envirabox-theme-polaroid .envirabox-toolbar > div {
+      display: inline-block;
+      margin-left: 9px;
+      width: 16px;
+      height: 16px;
+      text-indent: -9999px;
+      position: relative; }
+      .envirabox-theme-polaroid .envirabox-toolbar > div:before {
+        font-size: 16px;
+        text-indent: 0;
+        position: absolute;
+        top: 0;
+        right: 0; }
+      .envirabox-theme-polaroid .envirabox-toolbar > div a {
+        display: block;
+        width: 16px;
+        height: 16px;
+        position: relative;
+        z-index: 1;
+        background: none; }
+    .envirabox-theme-polaroid .envirabox-toolbar a {
+      outline: none; }
+    .envirabox-theme-polaroid .envirabox-toolbar .envira-download-button:before {
+      content: "\e90d"; }
+    .envirabox-theme-polaroid .envirabox-toolbar .envira-printing-button:before {
+      content: "\e90e"; }
+    .envirabox-theme-polaroid .envirabox-toolbar .envira-thumbs-button:before {
+      content: "\e90e"; }
+    .envirabox-theme-polaroid .envirabox-toolbar .envira-fullscreen-button:before {
+      content: "\e903"; }
+    .envirabox-theme-polaroid .envirabox-toolbar .envirabox-slideshow-button:before {
+      content: "\e908"; }
+    .envirabox-theme-polaroid .envirabox-toolbar .envirabox-slideshow-button.playing:before {
+      content: "\e906"; }
+    .envirabox-theme-polaroid .envirabox-toolbar .envira-zoom-button:before {
+      content: "\e90c"; }
+    .envirabox-theme-polaroid .envirabox-toolbar .envira-zoom-button a:before {
+      content: ''; }
+    .envirabox-theme-polaroid .envirabox-toolbar .envira-zoom-button.zoom-on:before {
+      content: "\e90b"; }
+  .envirabox-theme-polaroid.envira-supersize .envirabox-outer {
+    background-color: rgba(0, 0, 0, 0.85);
+    background-image: none;
+    overflow: hidden;
+    overflow-y: hidden; }
+  .envirabox-theme-polaroid .envirabox-close {
+    position: absolute;
+    top: -18px;
+    right: -18px;
+    width: 36px;
+    height: 36px;
+    cursor: pointer;
+    z-index: 999999; }
+  .envirabox-theme-polaroid .envirabox-navigation {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    z-index: 99999;
+    /**
+         * Previous Navigation
+         */
+    /**
+         * Next Navigation
+         */ }
+    .envirabox-theme-polaroid .envirabox-navigation a {
+      position: absolute;
+      width: 35px;
+      height: 35px; }
+      .envirabox-theme-polaroid .envirabox-navigation a span {
+        visibility: visible;
+        width: 35px;
+        height: 35px;
+        display: block; }
+    .envirabox-theme-polaroid .envirabox-navigation .envirabox-arrow--left {
+      left: 10px; }
+      .envirabox-theme-polaroid .envirabox-navigation .envirabox-arrow--left span {
+        left: 10px;
+        background-position: 0 -36px;
+        visibility: visible; }
+    .envirabox-theme-polaroid .envirabox-navigation .envirabox-arrow--right {
+      right: 10px; }
+      .envirabox-theme-polaroid .envirabox-navigation .envirabox-arrow--right span {
+        background-position: 0 -72px;
+        right: 10px;
+        visibility: visible; }
+  .envirabox-theme-polaroid .envirabox-navigation-inside {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    z-index: 99999;
+    /**
+         * Previous Navigation
+         */
+    /**
+         * Next Navigation
+         */ }
+    .envirabox-theme-polaroid .envirabox-navigation-inside a {
+      position: absolute;
+      width: 35px;
+      height: 35px; }
+      .envirabox-theme-polaroid .envirabox-navigation-inside a span {
+        visibility: visible;
+        width: 35px;
+        height: 35px;
+        display: block; }
+    .envirabox-theme-polaroid .envirabox-navigation-inside .envirabox-arrow--left {
+      left: 10px; }
+      .envirabox-theme-polaroid .envirabox-navigation-inside .envirabox-arrow--left span {
+        left: 10px;
+        background-position: 0 -36px;
+        visibility: visible; }
+    .envirabox-theme-polaroid .envirabox-navigation-inside .envirabox-arrow--right {
+      right: 10px; }
+      .envirabox-theme-polaroid .envirabox-navigation-inside .envirabox-arrow--right span {
+        background-position: 0 -72px;
+        right: 10px;
+        visibility: visible; }
+  .envirabox-theme-polaroid .envirabox-position-overlay {
+    opacity: 0;
+    visibility: hidden; }
+  .envirabox-theme-polaroid .envirabox-image-wrap {
+    border-radius: 3px;
+    border: 5px solid white;
+    /**
+        * Dynamic Positioning
+        */ }
+    .envirabox-theme-polaroid .envirabox-image-wrap .envirabox-position-overlay {
+      opacity: 1;
+      visibility: visible;
+      box-sizing: border-box;
+      position: absolute;
+      overflow: visible;
+      z-index: 988041;
+      /* Beat the prev/next controls */
+      padding: 0;
+      /**
+            * Top Left
+            */
+      /**
+            * Top Right
+            */
+      /**
+            * Bottom Left
+            */
+      /**
+            * Bottom Right
+            */ }
+      .envirabox-theme-polaroid .envirabox-image-wrap .envirabox-position-overlay.envira-gallery-top-left {
+        top: 0;
+        left: 0;
+        text-align: left; }
+      .envirabox-theme-polaroid .envirabox-image-wrap .envirabox-position-overlay.envira-gallery-top-right {
+        top: 0;
+        right: 0;
+        text-align: right; }
+      .envirabox-theme-polaroid .envirabox-image-wrap .envirabox-position-overlay.envira-gallery-bottom-left {
+        bottom: 0;
+        left: 0;
+        text-align: left; }
+      .envirabox-theme-polaroid .envirabox-image-wrap .envirabox-position-overlay.envira-gallery-bottom-right {
+        bottom: 0;
+        right: 0;
+        text-align: right; }
+  .envirabox-theme-polaroid .envirabox-thumbs > ul > li:before {
+    border: none; }
+  .envirabox-theme-polaroid .envirabox-stage {
+    /* pointer-events: none; */
+    /* goes along with the z-index: 9999 change below to envirabox-thumbs... see GH 2543 */ }
+  .envirabox-theme-polaroid .envirabox-outer {
+    z-index: 8888; }
+  .envirabox-theme-polaroid .envirabox-thumbs {
+    top: auto;
+    width: auto;
+    left: 0;
+    right: 0;
+    background: transparent;
+    z-index: 8890;
+    /* should appear 'behind' outside caption boxes, especially on supersize */ }
+    .envirabox-theme-polaroid .envirabox-thumbs > ul {
+      overflow: hidden; }
+    .envirabox-theme-polaroid .envirabox-thumbs.envirabox-thumbs-bottom {
+      bottom: 10px; }
+    .envirabox-theme-polaroid .envirabox-thumbs.envirabox-thumbs-top {
+      top: 10px;
+      z-index: 8886; }
+    .envirabox-theme-polaroid .envirabox-thumbs ul li a {
+      border: none; }
+    .envirabox-theme-polaroid .envirabox-thumbs ul li {
+      opacity: 1; }
+      .envirabox-theme-polaroid .envirabox-thumbs ul li img {
+        border: 3px solid #fff; }
+    .envirabox-theme-polaroid .envirabox-thumbs ul li.envirabox-thumbs-active {
+      opacity: 0.75; }
+    .envirabox-theme-polaroid .envirabox-thumbs.bottom {
+      bottom: 0; }
+    .envirabox-theme-polaroid .envirabox-thumbs ul.mobile li {
+      margin: 10px 5px; }
+  .envirabox-theme-polaroid .envirabox-container--thumbs .envirabox-caption-wrap,
+  .envirabox-theme-polaroid .envirabox-container--thumbs .envirabox-controls,
+  .envirabox-theme-polaroid .envirabox-container--thumbs .envirabox-slider-wrap {
+    right: 0;
+    bottom: 90px; }
+  .envirabox-theme-polaroid .envirabox-caption-wrap {
+    position: absolute;
+    bottom: -50px;
+    text-align: center;
+    width: 100%; }
+    .envirabox-theme-polaroid .envirabox-caption-wrap div {
+      background: #f7f7f8;
+      display: inline-block;
+      margin: 0 auto;
+      color: #000;
+      padding: 5px 15px;
+      text-shadow: none;
+      border-radius: 0;
+      font-size: 14px;
+      line-height: 14px; }
+    .envirabox-theme-polaroid .envirabox-caption-wrap.inside {
+      bottom: 0;
+      background: white; }
+      .envirabox-theme-polaroid .envirabox-caption-wrap.inside .envirabox-caption {
+        padding: 10px 0 0 0;
+        text-align: left;
+        color: black; }
+    .envirabox-theme-polaroid .envirabox-caption-wrap.outside {
+      bottom: -47px; }
+    .envirabox-theme-polaroid .envirabox-caption-wrap.over {
+      bottom: 0px;
+      background-color: white;
+      text-align: left;
+      width: 100%; }
+      .envirabox-theme-polaroid .envirabox-caption-wrap.over .envirabox-caption {
+        color: black;
+        background: transparent;
+        padding: 10px; }
+  .envirabox-theme-polaroid .envirabox-title-inside-wrap {
+    padding: 10px;
+    color: #000;
+    text-shadow: none; }
+  .envirabox-theme-polaroid .envirabox-title-over-wrap {
+    background: #f7f7f8;
+    color: #000;
+    text-shadow: none; }
+  .envirabox-theme-polaroid .envirabox-slide.envirabox-slide--iframe .envirabox-content,
+  .envirabox-theme-polaroid .envirabox-slide.envirabox-slide--genericDiv .envirabox-content {
+    padding: 5px;
+    background-color: #fff; }
+  .envirabox-theme-polaroid .envirabox-slide.envirabox-slide--iframe .envirabox-content a.envirabox-next,
+  .envirabox-theme-polaroid .envirabox-slide.envirabox-slide--genericDiv .envirabox-content a.envirabox-next {
+    right: 20px; }
+  .envirabox-theme-polaroid .envirabox-slide.envirabox-slide--iframe .envirabox-content a.envirabox-close,
+  .envirabox-theme-polaroid .envirabox-slide.envirabox-slide--genericDiv .envirabox-content a.envirabox-close {
+    top: -15px;
+    right: -15px; }
+  .envirabox-theme-polaroid .envirabox-slide.envirabox-slide--video .envirabox-content {
+    padding: 5px;
+    background-color: #fff; }
+    .envirabox-theme-polaroid .envirabox-slide.envirabox-slide--video .envirabox-content .envirabox-position-overlay.envira-gallery-top-left {
+      top: 0;
+      left: 0; }
+    .envirabox-theme-polaroid .envirabox-slide.envirabox-slide--video .envirabox-content .envirabox-position-overlay.envira-gallery-top-right {
+      top: 0;
+      right: 0; }
+    .envirabox-theme-polaroid .envirabox-slide.envirabox-slide--video .envirabox-content .envirabox-position-overlay.envira-gallery-bottom-left {
+      bottom: 0;
+      left: 0; }
+    .envirabox-theme-polaroid .envirabox-slide.envirabox-slide--video .envirabox-content .envirabox-position-overlay.envira-gallery-bottom-right {
+      bottom: 0;
+      right: 0; }
+    .envirabox-theme-polaroid .envirabox-slide.envirabox-slide--video .envirabox-content a.envirabox-next {
+      right: 20px; }
+    .envirabox-theme-polaroid .envirabox-slide.envirabox-slide--video .envirabox-content a.envirabox-close {
+      top: -15px;
+      right: -15px; }
+  .envirabox-theme-polaroid .envirabox-video-container {
+    border-top: 3px solid #fff;
+    border-left: 3px solid #fff;
+    border-right: 3px solid #fff;
+    border-bottom: 0px solid #fff;
+    background-color: #fff; }
+
+@media all and (max-width: 800px) {
+  .envirabox-theme-base_dark .envirabox-thumbs {
+    display: none !important; }
+  .envirabox-theme-base_dark .envirabox-container--thumbs .envirabox-controls,
+  .envirabox-theme-base_dark .envirabox-container--thumbs .envirabox-slider-wrap,
+  .envirabox-theme-base_dark .envirabox-container--thumbs .envirabox-caption-wrap {
+    bottom: 0; } }

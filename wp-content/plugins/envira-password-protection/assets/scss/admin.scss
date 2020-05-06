@@ -1,0 +1,83 @@
+/**
+* Quick Edit - Show Password Option
+*/
+body.post-type-envira,
+body.post-type-envira_album {
+	td.colspanchange {
+		/**
+		* Left Col
+		*/
+		fieldset.inline-edit-col-left {
+			div.inline-edit-col {
+				/* Password/Private */
+				.inline-edit-group {
+					display: block;
+					
+					label {
+						display: block;
+					}
+				}
+			}
+		}
+	}
+	.new-link-code-box {
+		margin: 15px auto;
+		input[type="text"],
+		a.button {
+			min-height: 30px;
+			max-height: 30px;
+			height: 30px;
+		}
+		.new-link-code {
+			max-width: auto;
+		}
+		.spinner {
+			display: inline-block;
+		}
+	}
+	div.wrap .envira-code.envira-password-code {
+		margin : 0 0 0 0;
+		width:  100%;
+		code {
+			width:  100%;
+			padding: 5px 0px 5px 5px;
+		}
+		a.envira-clipboard {
+			right: -3px;
+		}
+	}
+	td.total {
+		max-width: 40px;
+	}
+	.dashicons {
+		color:  black;
+	}
+	.envira-private-links {
+		th {
+			text-align: left;
+		}
+		td.total,
+		th.used {
+			text-align: center;
+		}
+		.remove-row {
+			text-decoration: none;
+			background-color: transparent;
+			color: green;
+			padding:  2px 3px;
+		}
+	}
+	#envira-repeatable-fieldset-private-links td {
+		padding-top:  0;
+		padding-bottom: 0;
+	}
+	#envira-password-protection-message {
+		min-height: 60px;
+	}
+	#envira-password-protection-message,
+	#envira-wrong-password-message,
+	#envira-password-protection-email {
+		width: 95%;
+		font-size: 12px;
+	}
+}

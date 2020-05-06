@@ -1,0 +1,89 @@
+/**
+* Quick Edit - Show Password Option
+*/
+body.post-type-envira td.colspanchange,
+body.post-type-envira_album td.colspanchange {
+  /**
+		* Left Col
+		*/ }
+  body.post-type-envira td.colspanchange fieldset.inline-edit-col-left div.inline-edit-col,
+  body.post-type-envira_album td.colspanchange fieldset.inline-edit-col-left div.inline-edit-col {
+    /* Password/Private */ }
+    body.post-type-envira td.colspanchange fieldset.inline-edit-col-left div.inline-edit-col .inline-edit-group,
+    body.post-type-envira_album td.colspanchange fieldset.inline-edit-col-left div.inline-edit-col .inline-edit-group {
+      display: block; }
+      body.post-type-envira td.colspanchange fieldset.inline-edit-col-left div.inline-edit-col .inline-edit-group label,
+      body.post-type-envira_album td.colspanchange fieldset.inline-edit-col-left div.inline-edit-col .inline-edit-group label {
+        display: block; }
+
+body.post-type-envira .new-link-code-box,
+body.post-type-envira_album .new-link-code-box {
+  margin: 15px auto; }
+  body.post-type-envira .new-link-code-box input[type="text"],
+  body.post-type-envira .new-link-code-box a.button,
+  body.post-type-envira_album .new-link-code-box input[type="text"],
+  body.post-type-envira_album .new-link-code-box a.button {
+    min-height: 30px;
+    max-height: 30px;
+    height: 30px; }
+  body.post-type-envira .new-link-code-box .new-link-code,
+  body.post-type-envira_album .new-link-code-box .new-link-code {
+    max-width: auto; }
+  body.post-type-envira .new-link-code-box .spinner,
+  body.post-type-envira_album .new-link-code-box .spinner {
+    display: inline-block; }
+
+body.post-type-envira div.wrap .envira-code.envira-password-code,
+body.post-type-envira_album div.wrap .envira-code.envira-password-code {
+  margin: 0 0 0 0;
+  width: 100%; }
+  body.post-type-envira div.wrap .envira-code.envira-password-code code,
+  body.post-type-envira_album div.wrap .envira-code.envira-password-code code {
+    width: 100%;
+    padding: 5px 0px 5px 5px; }
+  body.post-type-envira div.wrap .envira-code.envira-password-code a.envira-clipboard,
+  body.post-type-envira_album div.wrap .envira-code.envira-password-code a.envira-clipboard {
+    right: -3px; }
+
+body.post-type-envira td.total,
+body.post-type-envira_album td.total {
+  max-width: 40px; }
+
+body.post-type-envira .dashicons,
+body.post-type-envira_album .dashicons {
+  color: black; }
+
+body.post-type-envira .envira-private-links th,
+body.post-type-envira_album .envira-private-links th {
+  text-align: left; }
+
+body.post-type-envira .envira-private-links td.total,
+body.post-type-envira .envira-private-links th.used,
+body.post-type-envira_album .envira-private-links td.total,
+body.post-type-envira_album .envira-private-links th.used {
+  text-align: center; }
+
+body.post-type-envira .envira-private-links .remove-row,
+body.post-type-envira_album .envira-private-links .remove-row {
+  text-decoration: none;
+  background-color: transparent;
+  color: green;
+  padding: 2px 3px; }
+
+body.post-type-envira #envira-repeatable-fieldset-private-links td,
+body.post-type-envira_album #envira-repeatable-fieldset-private-links td {
+  padding-top: 0;
+  padding-bottom: 0; }
+
+body.post-type-envira #envira-password-protection-message,
+body.post-type-envira_album #envira-password-protection-message {
+  min-height: 60px; }
+
+body.post-type-envira #envira-password-protection-message,
+body.post-type-envira #envira-wrong-password-message,
+body.post-type-envira #envira-password-protection-email,
+body.post-type-envira_album #envira-password-protection-message,
+body.post-type-envira_album #envira-wrong-password-message,
+body.post-type-envira_album #envira-password-protection-email {
+  width: 95%;
+  font-size: 12px; }

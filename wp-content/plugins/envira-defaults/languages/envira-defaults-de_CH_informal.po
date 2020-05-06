@@ -1,0 +1,296 @@
+# Copyright (C) 2016 Envira Gallery - Defaults Addon
+# This file is distributed under the same license as the Envira Gallery - Defaults Addon package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Envira Gallery - Defaults Addon 1.1.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/envira-defaults\n"
+"POT-Creation-Date: 2016-11-11 11:40+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-11-25 16:29+0100\n"
+"Language-Team: mm-design.ch <info@mm-design.ch>\n"
+"X-Generator: Poedit 1.8.11\n"
+"Last-Translator: Rolf Müri - mm-design <rolf.mueri@mm-design.ch>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de_CH\n"
+"X-Poedit-Basepath: D:/xampp/apps/wordpress/htdocs/wp-content/plugins/envira-"
+"defaults\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: envira-defaults.php:175 envira-defaults.php:192 envira-defaults.php:241
+#: envira-defaults.php:262
+msgid "Envira Default Settings"
+msgstr "Envira Standard-Konfiguration"
+
+#: includes/admin/ajax.php:72 includes/admin/ajax.php:111
+#: includes/admin/ajax.php:189
+msgid "Inherit Config from:"
+msgstr "Übernehme die Konfiguration aus:"
+
+#: includes/admin/ajax.php:74 includes/admin/ajax.php:113
+#: includes/admin/ajax.php:152 includes/admin/ajax.php:191
+msgid "(Use Envira Default Settings)"
+msgstr "(benutze die Envira Standard-Konfiguration)"
+
+#: includes/admin/ajax.php:85 includes/admin/table.php:178
+msgid "Create Gallery"
+msgstr "Galerie erstellen"
+
+#: includes/admin/ajax.php:124 includes/admin/table.php:171
+msgid "Create Album"
+msgstr "Album erstellen"
+
+#: includes/admin/ajax.php:150
+msgid "Apply Config from:"
+msgstr "Übernehme die Konfiguration aus:"
+
+#: includes/admin/ajax.php:163
+msgid "Apply Config to Selected Galleries"
+msgstr "Wende die Konfiguration auf die ausgewählten Galerien an"
+
+#: includes/admin/ajax.php:202
+msgid "Apply Config to Selected Albums"
+msgstr "Wende die Konfiguration auf die ausgewählten Alben an"
+
+#: includes/admin/media-view.php:55 includes/admin/media-view.php:76
+#: includes/admin/media-view.php:97 includes/admin/media-view.php:115
+msgid "Helpful Tips"
+msgstr "Hilfreiche Tipps"
+
+#: includes/admin/media-view.php:57
+msgid ""
+"Choose an existing Gallery to inherit the default configuration from, by "
+"clicking on the Gallery to the left."
+msgstr ""
+"Um die Konfiguration einer bestehenden Galerie zu übernehmen, wähle eine der "
+"links angezeigten Galerien aus indem du darauf klickst."
+
+#: includes/admin/media-view.php:60
+msgid ""
+"Once you have chosen a Gallery, click the <i>Create Gallery</i> button below."
+msgstr ""
+"Sobald Du eine Galerie ausgewählt hast, klicke auf die Schaltfläche "
+"<i>Galerie erstellen</i> unten."
+
+#: includes/admin/media-view.php:63
+msgid ""
+"A new, blank Gallery will then be created, inheriting the settings from your "
+"chosen Gallery."
+msgstr ""
+"Eine neue, leere Galerie wird dann mit den Einstellungen der gewählten "
+"Galerie erstellt."
+
+#: includes/admin/media-view.php:66
+msgid ""
+"Don't want to see this window and just want to always inherit your Default "
+"Gallery configuration? <a href=\"edit.php?post_type=envira&page=envira-"
+"gallery-settings#!envira-tab-defaults\">Click here</a> to disable this "
+"selection window."
+msgstr ""
+"Willst Du dieses Fenster nicht mehr sehen und jeweils immer nur die Standard-"
+"Konfiguration übernehmen? <a href=\"edit.php?post_type=envira&page=envira-"
+"gallery-settings#!envira-tab-defaults\">Klicke hier</a> , um dieses "
+"Auswahlfenster zu deaktivieren."
+
+#: includes/admin/media-view.php:78
+msgid ""
+"Choose an existing Album to inherit the default configuration from, by "
+"clicking on the Album to the left."
+msgstr ""
+"Um die Konfiguration eines bestehenden Albums zu übernehmen, wähle eines der "
+"links angezeigten Alben aus indem du darauf klickst."
+
+#: includes/admin/media-view.php:81
+msgid ""
+"Once you have chosen an Album, click the <i>Create Album</i> button below."
+msgstr ""
+"Sobald Du ein Album ausgewählt hast, klicke auf die Schaltfläche <i>Album "
+"erstellen</i> unten."
+
+#: includes/admin/media-view.php:84
+msgid ""
+"A new, blank Albm will then be created, inheriting the settings from your "
+"chosen Album."
+msgstr ""
+"Ein neues, leeres Album wird dann mit den Einstellungen des gewählten Album "
+"erstellt."
+
+#: includes/admin/media-view.php:87
+msgid ""
+"Don't want to see this window and just want to always inherit your Default "
+"Album configuration? <a href=\"edit.php?post_type=envira&page=envira-gallery-"
+"settings#!envira-tab-defaults\">Click here</a> to disable this selection "
+"window."
+msgstr ""
+"Willst Du dieses Fenster nicht mehr sehen und jeweils immer nur die Standard-"
+"Konfiguration übernehmen? <a href=\"edit.php?post_type=envira&page=envira-"
+"gallery-settings#!envira-tab-defaults\">Klicke hier</a> , um dieses "
+"Auswahlfenster zu deaktivieren."
+
+#: includes/admin/media-view.php:99
+msgid "Choose an existing Gallery by clicking on the Gallery to the left."
+msgstr ""
+"Wähle eine vorhandene Galerie aus, indem Du links auf die entsprechende "
+"Galerie klickst."
+
+#: includes/admin/media-view.php:102
+msgid ""
+"Once you have chosen a Gallery, click the <i>Apply Settings</i> button below."
+msgstr ""
+"Sobald Du ein Album gewählt hast, klickst Du auf die Schaltfläche "
+"<i>Einstellungen übernehmen</i>"
+
+#: includes/admin/media-view.php:105
+msgid ""
+"The Galleries you selected in the table will have their settings updated to "
+"match the Gallery you have chosen here."
+msgstr ""
+"Die Galerien, welche Du in der Tabelle ausgewählt hast, übernehmen ihre "
+"Einstellungen aus der hier gewählten Galerie."
+
+#: includes/admin/media-view.php:117
+msgid "Choose an existing Album by clicking on the Album to the left."
+msgstr ""
+"Wähle ein vorhandenes Album aus, indem Du links auf das entsprechende Album "
+"klickst."
+
+#: includes/admin/media-view.php:120
+msgid ""
+"Once you have chosen a Album, click the <i>Apply Settings</i> button below."
+msgstr ""
+"Sobald Du ein Album gewählt habst, klicke auf die Schaltfläche "
+"<i>Einstellungen übernehmen</i>"
+
+#: includes/admin/media-view.php:123
+msgid ""
+"The Albums you selected in the table will have their settings updated to "
+"match the Album you have chosen here."
+msgstr ""
+"Die Alben, welche Du in der Tabelle ausgewählt hast, übernehmen ihre "
+"Einstellungen aus dem hier gewählten Album."
+
+#: includes/admin/metaboxes.php:139
+msgid "Default Settings"
+msgstr "Standard-Konfiguration"
+
+#: includes/admin/metaboxes.php:160
+msgid "Default Gallery Settings"
+msgstr "Standard-Konfigurationen für Galerien"
+
+#: includes/admin/metaboxes.php:163
+msgid "Default Album Settings"
+msgstr "Standard-Konfigurationen für Alben"
+
+#: includes/admin/metaboxes.php:172
+msgid ""
+"This gallery and its settings will be used as defaults for any new gallery "
+"you create on this site. Any of these settings can be overwritten on an "
+"individual gallery basis via template tag arguments or shortcode parameters."
+msgstr ""
+"Die Einstellungen dieser Galerie werden als Standard für alle neuen Galerien "
+"verwendet, welche Du auf dieser Website erstellst. Jede dieser Einstellungen "
+"kann individuell über Template-Tag Argumente oder Shortcode Parameter "
+"überschrieben werden."
+
+#: includes/admin/metaboxes.php:175
+msgid ""
+"This album and its settings will be used as defaults for any new albums you "
+"create on this site. Any of these settings can be overwritten on an "
+"individual album basis via template tag arguments or shortcode parameters."
+msgstr ""
+"Die Einstellungen dieses Albums werden als Standard für alle neuen Alben "
+"verwendet, welche Du auf dieser Website erstellst. Jede dieser Einstellungen "
+"kann individuell über Template-Tag Argumente oder Shortcode Parameter "
+"überschrieben werden."
+
+#: includes/admin/metaboxes.php:187
+msgid "Click here for Defaults Addon Documentation"
+msgstr "Klicke hier für die Dokumentation der Defaults Erweiterung"
+
+#: includes/admin/settings.php:54
+msgid "Defaults"
+msgstr "Standard Einstellungen"
+
+#: includes/admin/settings.php:81
+msgid "Disable Gallery / Album Selection Modal"
+msgstr "Auswahlfenster der Galerie / Album Vorgabe deaktivieren"
+
+#: includes/admin/settings.php:86
+msgid ""
+"If checked, prevents the Gallery / Album selection modal window from "
+"displaying when any user clicks on Add New for a Gallery or Album.  "
+"Galleries / Albums will just inherit the Default Gallery / Album "
+"configuration."
+msgstr ""
+"Wenn Du diese Option aktivierst, wird das Auswahl-Fenster beim Hinzufügen "
+"einer neuen Galerie oder eines neuen Albums nicht angezeigt. Stattdessen "
+"wird die Standard-Konfiguration für Alben bzw. Galerien angewendet."
+
+#: includes/admin/settings.php:92
+msgid "Save"
+msgstr "Speichern"
+
+#: includes/admin/settings.php:146
+msgid "The nonce field is invalid."
+msgstr "Das Feld ist ungültig."
+
+#: includes/admin/settings.php:161
+msgid "Defaults settings saved!"
+msgstr "Standard-Konfiguration erfolgreich gespeichert!"
+
+#: includes/admin/table.php:107
+msgid "Gallery"
+msgstr "Galerie"
+
+#: includes/admin/table.php:114
+msgid "Album"
+msgstr "Album"
+
+#: includes/admin/table.php:123
+msgid "Apply Settings from Another %s"
+msgstr "Einstellungen übernehmen von %s"
+
+#: includes/admin/table.php:158 includes/admin/table.php:159
+msgid "Insert"
+msgstr "Einfügen"
+
+#: includes/admin/table.php:170
+msgid "Create a new Album"
+msgstr "Ein neues Album erstellen"
+
+#: includes/admin/table.php:172
+msgid "Apply Album Configuration"
+msgstr "Album-Konfiguration anwenden"
+
+#: includes/admin/table.php:173 includes/admin/table.php:180
+msgid "Apply"
+msgstr "Anwenden"
+
+#: includes/admin/table.php:177
+msgid "Create a new Gallery"
+msgstr "Neue Galerie erstellen"
+
+#: includes/admin/table.php:179
+msgid "Apply Gallery Configuration"
+msgstr "Galerie-Konfiguration anwenden"
+
+#. Plugin Name of the plugin/theme
+msgid "Envira Gallery - Defaults Addon"
+msgstr "Envira Gallery - Defaults Erweiterung"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://enviragallery.com"
+msgstr "http://enviragallery.com"
+
+#. Description of the plugin/theme
+msgid ""
+"Enables defaults to be set and inherited by new Envira galleries and albums."
+msgstr ""
+"Setzt Standardwerte, welche jeweils von neuen Envira Galerien und Alben "
+"angewendet werden."
+
+#. Author of the plugin/theme
+msgid "Envira Gallery Team"
+msgstr "Envira Gallery Team"

@@ -1,0 +1,241 @@
+# Copyright (C) 2017 Envira Gallery - Zoom Addon
+# This file is distributed under the same license as the Envira Gallery - Zoom Addon package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Envira Gallery - Zoom Addon 1.0.9.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/envira-zoom\n"
+"POT-Creation-Date: 2018-06-03 13:18+0200\n"
+"PO-Revision-Date: 2018-06-03 18:15+0200\n"
+"Last-Translator: Frédéric Chamsseddine <contact@shemzone.com>\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: includes/admin/metaboxes.php:89 includes/global/shortcode.php:523
+#: includes/global/shortcode.php:575
+msgid "Zoom"
+msgstr "Zoom"
+
+#: includes/admin/metaboxes.php:125
+msgid "Zoom Options."
+msgstr "Options du zoom"
+
+#: includes/admin/metaboxes.php:129
+msgid "The settings below adjust the Zoom settings."
+msgstr "Les paramètres ci-dessous règlent le zoom."
+
+#: includes/admin/metaboxes.php:131
+msgid "Need some help?"
+msgstr "Besoin d’aide ?"
+
+#: includes/admin/metaboxes.php:133
+msgid "Read the Documentation"
+msgstr "Lire la documentation"
+
+#: includes/admin/metaboxes.php:137
+msgid "Watch a Video"
+msgstr "Regarder une vidéo"
+
+#: includes/admin/metaboxes.php:145
+msgid "Enable Zoom Functionality?"
+msgstr "Activer la fonction de zoom ?"
+
+#: includes/admin/metaboxes.php:149
+msgid ""
+"Enables or disables displaying zoom functionality on each image in the "
+"lightbox view in the gallery."
+msgstr ""
+"Active ou désactive la fonction zoom sur chaque image de la galerie dans "
+"Lightbox."
+
+#: includes/admin/metaboxes.php:159
+msgid "Zoom on Hover"
+msgstr "Zoom au survol"
+
+#: includes/admin/metaboxes.php:163
+msgid ""
+"Check this if you want the zoom effect shown when you hover over an image "
+"(desktop only), otherwise a zoom button will be added to the toolbar. Since "
+"no hover is available on most mobile devices, the zoom button will be added "
+"regardless of this setting. <a href=\"#\">Please make sure you make your "
+"toolbar visible</a>."
+msgstr ""
+"Cochez cette case si vous souhaitez que l'effet de zoom s'active lorsque "
+"vous passez votre souris sur une image (uniquement pour ordinateur de "
+"bureau), sinon un bouton de zoom sera ajouté à la barre d'outils. Aucun "
+"survol n'étant possible sur la plupart des appareils mobiles, le bouton de "
+"zoom sera ajouté indépendamment de ce paramètre. <a href=\"#\">Veillez à ce "
+"que votre barre d'outils soit visible</a> ."
+
+#: includes/admin/metaboxes.php:169
+msgid "Zoom Effect"
+msgstr "Effet de zoom"
+
+#: includes/admin/metaboxes.php:177
+msgid "You can have the lens fade in or out, or allow easing as the lens moves"
+msgstr ""
+"Vous pouvez avoir les effets suivants : lentille, apparition ou disparition "
+"en fondu, ou animation lors du dépalcement de la lentille"
+
+#: includes/admin/metaboxes.php:183
+msgid "Zoom Type"
+msgstr "Type de zoom"
+
+#: includes/admin/metaboxes.php:191
+msgid ""
+"Basic mode gives you a zoom preview window, or select from a full-inner or "
+"lens zooms."
+msgstr ""
+"Le mode de base vous donne une fenêtre de prévisualisation du zoom, ou "
+"sélectionnez un zoom intérieur ou objectif."
+
+#: includes/admin/metaboxes.php:197
+msgid "Zoom Window Position"
+msgstr "Position de la fenêtre de zoom"
+
+#: includes/admin/metaboxes.php:205
+msgid "relative to image i.e. above, below, left, right"
+msgstr ""
+"par rapport à image. Par exemple au-dessus, en-dessous, à droite, à gauche"
+
+#: includes/admin/metaboxes.php:213
+msgid "Zoom Window Size"
+msgstr "Taille de la fenètre de Zoom"
+
+#: includes/admin/metaboxes.php:221
+msgid "small, default, large, huge"
+msgstr "petit, par défaut, grand, énorme"
+
+#: includes/admin/metaboxes.php:227
+msgid "Tint Color"
+msgstr "Couleur de la teinte"
+
+#: includes/admin/metaboxes.php:231
+msgid "Select a tint color or leave blank for no tint."
+msgstr "Sélectionnez une teinte de couleur ou laissez vide pour aucune teinte."
+
+#: includes/admin/metaboxes.php:237
+msgid "Tint Color Opacity"
+msgstr "Opacité des teinte de couleurs"
+
+#: includes/admin/metaboxes.php:243
+msgid "Select an opacity for your tint."
+msgstr "Sélectionnez une opacité pour votre teinte."
+
+#: includes/admin/metaboxes.php:250
+msgid "Zoom Lens Shape"
+msgstr "Forme de la lentille"
+
+#: includes/admin/metaboxes.php:258
+msgid ""
+"Note: older browsers might display a square, even if you select 'circle'."
+msgstr ""
+"Remarque : les navigateurs plus anciens peuvent afficher un carré, même si "
+"vous sélectionnez 'cercle'."
+
+#: includes/admin/metaboxes.php:328
+msgid "Disable Zoom On Mobile?"
+msgstr "Désactiver sur mobile ?"
+
+#: includes/admin/metaboxes.php:332
+msgid ""
+"If enabled, no zoom functionality or buttons will be displayed on mobile."
+msgstr ""
+"Si cette option est activée, aucune fonction ou bouton de zoom ne sera "
+"affiché sur le mobile."
+
+#: includes/global/common.php:109
+msgid "Upper Left"
+msgstr "En haut à gauche"
+
+#: includes/global/common.php:110
+msgid "Upper Right"
+msgstr "En haut à droite"
+
+#: includes/global/common.php:111
+msgid "Lower Left"
+msgstr "En bas gauche"
+
+#: includes/global/common.php:112
+msgid "Lower Right"
+msgstr "En bas à droite"
+
+#: includes/global/common.php:129
+msgid "Basic"
+msgstr "Basique"
+
+#: includes/global/common.php:130
+msgid "Inner"
+msgstr "Intérieur"
+
+#: includes/global/common.php:131
+msgid "Lens"
+msgstr "Lentille"
+
+#: includes/global/common.php:148
+msgid "No Effect"
+msgstr "Aucun effet"
+
+#: includes/global/common.php:149
+msgid "Fade In"
+msgstr "Apparition en fondu"
+
+#: includes/global/common.php:150
+msgid "Fade Out"
+msgstr "Disparition en fondu"
+
+#: includes/global/common.php:151
+msgid "Easing"
+msgstr "Animation"
+
+#: includes/global/common.php:168
+msgid "Round"
+msgstr "Rond"
+
+#: includes/global/common.php:169
+msgid "Square"
+msgstr "Carré"
+
+#: includes/global/common.php:186
+msgid "Small"
+msgstr "Petit"
+
+#: includes/global/common.php:187
+msgid "Medium"
+msgstr "Moyenne"
+
+#: includes/global/common.php:188
+msgid "Large"
+msgstr "Grande"
+
+#: includes/global/common.php:189
+msgid "Extra Large"
+msgstr "Très grand"
+
+#. Plugin Name of the plugin/theme
+msgid "Envira Gallery - Zoom Addon"
+msgstr "Envira Gallery - Zoom Addon"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://enviragallery.com"
+msgstr "http://enviragallery.com"
+
+#. Description of the plugin/theme
+msgid "Enables zooming functionality for your Envira Galleries images"
+msgstr ""
+"Permet d'ajouter une fonctIon de zoom sur vos images dans les galeries Envira"
+
+#. Author of the plugin/theme
+msgid "Envira Gallery Team"
+msgstr "Équipe de Envira Gallery"
+
+#~ msgid "Enable Mousewheel Zoom"
+#~ msgstr "Activer le zoom sur la molette de la souris"
+
+#~ msgid "Check this to activate zoom on mouse scroll."
+#~ msgstr "Cochez cette case pour activer le zoom sur la molette de la souris."

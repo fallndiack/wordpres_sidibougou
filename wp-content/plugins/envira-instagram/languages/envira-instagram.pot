@@ -1,0 +1,163 @@
+# Copyright (C) 2018 envira-instagram
+# This file is distributed under the same license as the envira-instagram package.
+msgid ""
+msgstr ""
+"Project-Id-Version: envira-instagram\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Evnira Gallery Team <support@enviragallery.com>\n"
+"Report-Msgid-Bugs-To: https://enviragallery.com/contact\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../includes/admin/metaboxes.php:92, ../includes/admin/settings.php:87, ../src/Admin/Metaboxes.php:125, ../src/Admin/Settings.php:38, ../src/Legacy/envira-instagram-metaboxes.php:56, ../src/Legacy/envira-instagram-settings.php:77
+msgid "Instagram"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:125, ../includes/admin/settings.php:122, ../src/Admin/Metaboxes.php:159, ../src/Admin/Settings.php:73, ../src/Legacy/envira-instagram-metaboxes.php:89, ../src/Legacy/envira-instagram-settings.php:112
+msgid "Instagram Authorization Setup"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:126, ../src/Admin/Metaboxes.php:160, ../src/Legacy/envira-instagram-metaboxes.php:90
+msgid "Before you can create Instagram galleries, you need to authenticate Envira with your Instagram account."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:129, ../src/Admin/Metaboxes.php:163, ../src/Legacy/envira-instagram-metaboxes.php:93
+msgid "Click Here to Authenticate Envira with Instagram"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:138, ../src/Admin/Metaboxes.php:172, ../src/Legacy/envira-instagram-metaboxes.php:102
+msgid "Instagram Settings"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:141, ../src/Admin/Metaboxes.php:175, ../src/Legacy/envira-instagram-metaboxes.php:105
+msgid "The settings below adjust the Instagram options for the gallery."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:149, ../src/Admin/Metaboxes.php:183, ../src/Legacy/envira-instagram-metaboxes.php:113
+msgid "Need some help?"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:151, ../src/Admin/Metaboxes.php:185, ../src/Legacy/envira-instagram-metaboxes.php:115
+msgid "Read the Documentation"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:155, ../src/Admin/Metaboxes.php:189, ../src/Legacy/envira-instagram-metaboxes.php:119
+msgid "Watch a Video"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:167, ../src/Admin/Metaboxes.php:201, ../src/Legacy/envira-instagram-metaboxes.php:131
+msgid "Instagram Account"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:175, ../includes/admin/settings.php:123, ../includes/admin/settings.php:132, ../includes/admin/settings.php:136, ../includes/admin/settings.php:170, ../includes/admin/settings.php:186, ../includes/admin/settings.php:190, ../includes/admin/settings.php:345, ../includes/admin/settings.php:361, ../src/Admin/Metaboxes.php:209, ../src/Admin/Settings.php:74, ../src/Admin/Settings.php:83, ../src/Admin/Settings.php:87, ../src/Admin/Settings.php:121, ../src/Admin/Settings.php:137, ../src/Admin/Settings.php:141, ../src/Admin/Settings.php:295, ../src/Admin/Settings.php:311, ../src/Legacy/envira-instagram-metaboxes.php:139, ../src/Legacy/envira-instagram-settings.php:113, ../src/Legacy/envira-instagram-settings.php:122, ../src/Legacy/envira-instagram-settings.php:126, ../src/Legacy/envira-instagram-settings.php:160, ../src/Legacy/envira-instagram-settings.php:176, ../src/Legacy/envira-instagram-settings.php:180, ../src/Legacy/envira-instagram-settings.php:335, ../src/Legacy/envira-instagram-settings.php:351
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:180, ../src/Admin/Metaboxes.php:214, ../src/Legacy/envira-instagram-metaboxes.php:144
+msgid "Feed Type"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:188, ../src/Admin/Metaboxes.php:222, ../src/Legacy/envira-instagram-metaboxes.php:152
+msgid "The type of images to pull from Instagram."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:193, ../src/Admin/Metaboxes.php:227, ../src/Legacy/envira-instagram-metaboxes.php:157
+msgid "Number of Instagram Photos"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:197, ../src/Admin/Metaboxes.php:231, ../src/Legacy/envira-instagram-metaboxes.php:161
+msgid "The number of images to pull from your Instagram feed."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:210, ../src/Admin/Metaboxes.php:244, ../src/Legacy/envira-instagram-metaboxes.php:174
+msgid "Image Resolution"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:218, ../src/Admin/Metaboxes.php:252, ../src/Legacy/envira-instagram-metaboxes.php:182
+msgid "Determines the image resolution and size to use from Instagram."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:223, ../src/Admin/Metaboxes.php:257, ../src/Legacy/envira-instagram-metaboxes.php:187
+msgid "Link to Photo?"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:232, ../src/Admin/Metaboxes.php:266, ../src/Legacy/envira-instagram-metaboxes.php:196
+msgid "Links the photo to its original page on Instagram or directly to the image. If special link is selected image will appear in a lightbox if that is enabled."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:237, ../src/Admin/Metaboxes.php:271, ../src/Legacy/envira-instagram-metaboxes.php:201
+msgid "Open In New Tab?"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:241, ../src/Admin/Metaboxes.php:275, ../src/Legacy/envira-instagram-metaboxes.php:205
+msgid "Opens the link to Instagram in a new browser tab"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:247, ../src/Admin/Metaboxes.php:281, ../src/Legacy/envira-instagram-metaboxes.php:211
+msgid "Use Photo Caption?"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:251, ../src/Admin/Metaboxes.php:285, ../src/Legacy/envira-instagram-metaboxes.php:215
+msgid "Displays the photo caption from Instagram on the slide."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:256, ../src/Admin/Metaboxes.php:290, ../src/Legacy/envira-instagram-metaboxes.php:220
+msgid "Limit Caption Length"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:260, ../src/Admin/Metaboxes.php:294, ../src/Legacy/envira-instagram-metaboxes.php:224
+msgid "Limits the number of words to display for each caption."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:265, ../src/Admin/Metaboxes.php:299, ../src/Legacy/envira-instagram-metaboxes.php:229
+msgid "Cache Data from Instagram?"
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:269, ../src/Admin/Metaboxes.php:303, ../src/Legacy/envira-instagram-metaboxes.php:233
+msgid "Caches the data from Instagram to improve performance (recommended)."
+msgstr ""
+
+#: ../includes/admin/metaboxes.php:316, ../src/Admin/Metaboxes.php:352, ../src/Legacy/envira-instagram-metaboxes.php:280
+msgid "Instagram Gallery Preview"
+msgstr ""
+
+#: ../includes/admin/settings.php:344, ../src/Admin/Settings.php:294, ../src/Legacy/envira-instagram-settings.php:334
+msgid "Success!"
+msgstr ""
+
+#: ../includes/admin/settings.php:360, ../src/Admin/Settings.php:310, ../src/Legacy/envira-instagram-settings.php:350
+msgid "Failed All Slots Full!"
+msgstr ""
+
+#: ../includes/global/common.php:128, ../src/Functions/common.php:82, ../src/Legacy/envira-instagram-common.php:122
+msgid "My Instagram Photos"
+msgstr ""
+
+#: ../includes/global/common.php:183, ../src/Functions/common.php:137, ../src/Legacy/envira-instagram-common.php:177
+msgid "Thumbnail (150x150)"
+msgstr ""
+
+#: ../includes/global/common.php:187, ../src/Functions/common.php:141, ../src/Legacy/envira-instagram-common.php:181
+msgid "Low Resolution (306x306)"
+msgstr ""
+
+#: ../includes/global/common.php:191, ../src/Functions/common.php:145, ../src/Legacy/envira-instagram-common.php:185
+msgid "Standard Resolution (640x640)"
+msgstr ""
+
+#: ../includes/global/common.php:215, ../src/Functions/common.php:169, ../src/Legacy/envira-instagram-common.php:209
+msgid "No link"
+msgstr ""
+
+#: ../includes/global/common.php:219, ../src/Functions/common.php:173, ../src/Legacy/envira-instagram-common.php:213
+msgid "Original Page at Instagram"
+msgstr ""
+
+#: ../includes/global/common.php:223, ../src/Functions/common.php:177, ../src/Legacy/envira-instagram-common.php:217
+msgid "Direct Image On Instagram"
+msgstr ""

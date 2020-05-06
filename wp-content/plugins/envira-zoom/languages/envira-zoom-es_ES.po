@@ -1,0 +1,236 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Envira Gallery - Zoom Addon\n"
+"POT-Creation-Date: 2016-05-05 12:35-0400\n"
+"PO-Revision-Date: 2016-05-05 12:35-0400\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: envira-zoom.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: en\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin/_old/metaboxes.php:65 includes/admin/_old/settings.php:76
+#: includes/admin/metaboxes.php:65 includes/global/shortcode.php:145
+msgid "Zoom"
+msgstr ""
+
+#: includes/admin/_old/metaboxes.php:104 includes/admin/metaboxes.php:97
+msgid "The settings below adjust the Zoom settings."
+msgstr ""
+
+#: includes/admin/_old/metaboxes.php:106 includes/admin/metaboxes.php:99
+msgid "Need some help?"
+msgstr ""
+
+#: includes/admin/_old/metaboxes.php:108 includes/admin/metaboxes.php:101
+msgid "Read the Documentation"
+msgstr ""
+
+#: includes/admin/_old/metaboxes.php:112 includes/admin/metaboxes.php:105
+msgid "Watch a Video"
+msgstr ""
+
+#: includes/admin/_old/metaboxes.php:120 includes/admin/metaboxes.php:113
+msgid "Enable Zoom Functionality?"
+msgstr ""
+
+#: includes/admin/_old/metaboxes.php:124 includes/admin/metaboxes.php:117
+msgid ""
+"Enables or disables displaying zoom functionality on each image in the "
+"gallery."
+msgstr ""
+
+#: includes/admin/_old/metaboxes.php:130 includes/admin/metaboxes.php:123
+msgid "Zoom on Hover"
+msgstr ""
+
+#: includes/admin/_old/metaboxes.php:134
+msgid ""
+"Check this if you want the zoom effect shown when you hover over an image, "
+"otherwise a click is required."
+msgstr ""
+
+#: includes/admin/_old/metaboxes.php:140 includes/admin/metaboxes.php:133
+msgid "Zoom Effect"
+msgstr ""
+
+#: includes/admin/_old/metaboxes.php:148 includes/admin/metaboxes.php:141
+msgid "You can have the lens fade in or out, or allow easing as the lens moves"
+msgstr ""
+
+#: includes/admin/_old/metaboxes.php:154 includes/admin/metaboxes.php:147
+msgid "Zoom Type"
+msgstr ""
+
+#: includes/admin/_old/metaboxes.php:162 includes/admin/metaboxes.php:155
+msgid "Basic gives you a zoom preview while inner and lens..."
+msgstr ""
+
+#: includes/admin/_old/metaboxes.php:168 includes/admin/metaboxes.php:161
+msgid "Zoom Window Position"
+msgstr ""
+
+#: includes/admin/_old/metaboxes.php:176 includes/admin/metaboxes.php:169
+msgid "relative to image i.e. above, below, left, right"
+msgstr ""
+
+#: includes/admin/_old/metaboxes.php:184 includes/admin/metaboxes.php:177
+msgid "Zoom Window Size"
+msgstr ""
+
+#: includes/admin/_old/metaboxes.php:192 includes/admin/metaboxes.php:185
+msgid "small, default, large, huge"
+msgstr ""
+
+#: includes/admin/_old/metaboxes.php:198 includes/admin/metaboxes.php:191
+msgid "Zoom Lens Shape"
+msgstr ""
+
+#: includes/admin/_old/metaboxes.php:206 includes/admin/metaboxes.php:199
+msgid ""
+"Note: older browsers might display a square, even if you select 'circle'."
+msgstr ""
+
+#: includes/admin/_old/metaboxes.php:212 includes/admin/metaboxes.php:205
+msgid "Enable Mousewheel Zoom"
+msgstr ""
+
+#: includes/admin/_old/metaboxes.php:216 includes/admin/metaboxes.php:209
+msgid "Check this to activate zoom on mouse scroll."
+msgstr ""
+
+#: includes/admin/_old/metaboxes.php:265
+msgid "Display Zoom Sharing Buttons?"
+msgstr ""
+
+#: includes/admin/_old/metaboxes.php:269
+msgid ""
+"If enabled, will display zoom sharing buttons based on the settings under "
+"the Config and Lightbox tabs. If disabled, no zoom sharing buttons will be "
+"displayed on mobile."
+msgstr ""
+
+#: includes/admin/_old/settings.php:156
+msgid "The nonce field is invalid."
+msgstr ""
+
+#: includes/admin/_old/settings.php:171
+msgid "Zoom settings saved!"
+msgstr ""
+
+#: includes/admin/metaboxes.php:127
+msgid ""
+"Check this if you want the zoom effect shown when you hover over an image "
+"(desktop only), otherwise a zoom button will be added to the toolbar. Since "
+"no hover is available on most mobile devices, the zoom button will be added "
+"regardless of this setting. <a href=\"#\">Please make sure you make your "
+"toolbar visible</a>."
+msgstr ""
+
+#: includes/admin/metaboxes.php:258
+msgid "Disable Zoom On Mobile?"
+msgstr ""
+
+#: includes/admin/metaboxes.php:262
+msgid ""
+"If enabled, no zoom functionality or buttons will be displayed on mobile."
+msgstr ""
+
+#: includes/global/common.php:107
+msgid "Upper Left"
+msgstr ""
+
+#: includes/global/common.php:108
+msgid "Upper Right"
+msgstr ""
+
+#: includes/global/common.php:109
+msgid "Lower Left"
+msgstr ""
+
+#: includes/global/common.php:110
+msgid "Lower Right"
+msgstr ""
+
+#: includes/global/common.php:127
+msgid "Basic"
+msgstr ""
+
+#: includes/global/common.php:128
+msgid "Inner"
+msgstr ""
+
+#: includes/global/common.php:129
+msgid "Lens"
+msgstr ""
+
+#: includes/global/common.php:147
+msgid "No Effect"
+msgstr ""
+
+#: includes/global/common.php:148
+msgid "Fade In"
+msgstr ""
+
+#: includes/global/common.php:149
+msgid "Fade Out"
+msgstr ""
+
+#: includes/global/common.php:150
+msgid "Easing"
+msgstr ""
+
+#: includes/global/common.php:167
+msgid "Round"
+msgstr ""
+
+#: includes/global/common.php:168
+msgid "Square"
+msgstr ""
+
+#: includes/global/common.php:185
+msgid "Small"
+msgstr ""
+
+#: includes/global/common.php:186
+msgid "Medium"
+msgstr ""
+
+#: includes/global/common.php:187
+msgid "Large"
+msgstr ""
+
+#: includes/global/common.php:188
+msgid "Extra Large"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Envira Gallery - Zoom Addon"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://enviragallery.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Enables zooming functionality for your Envira Galleries images"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "David Bisset"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://davidbisset.com"
+msgstr ""

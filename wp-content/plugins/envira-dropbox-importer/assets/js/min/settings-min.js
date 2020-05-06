@@ -1,0 +1,1 @@
+jQuery(document).ready(function($){$("a.envira-dropbox-importer-unlink").click(function(n){return confirm(envira_dropbox_importer_settings.unlink)?void 0:(n.preventDefault(),!1)})});

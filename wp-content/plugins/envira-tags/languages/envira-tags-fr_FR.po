@@ -1,0 +1,428 @@
+# Copyright (C) 2017 Envira Gallery - Tags Addon
+# This file is distributed under the same license as the Envira Gallery - Tags Addon package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Envira Gallery - Tags Addon 1.4.8\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/envira-tags\n"
+"POT-Creation-Date: 2018-06-03 13:16+0200\n"
+"PO-Revision-Date: 2018-06-03 18:06+0200\n"
+"Last-Translator: Frédéric Chamsseddine <contact@shemzone.com>\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: includes/admin/admin.php:68 includes/admin/media-view.php:54
+#: includes/admin/metaboxes.php:190 includes/admin/metaboxes.php:352
+#: includes/admin/metaboxes.php:354 includes/admin/settings.php:67
+msgid "Tags"
+msgstr "Tags"
+
+#: includes/admin/imagga.php:128
+msgid "No response from Imagga"
+msgstr "Aucune réponse de Imagga"
+
+#: includes/admin/imagga.php:134
+msgid "Invalid JSON response from Imagga"
+msgstr "Réponse JSON non valide de Imagga"
+
+#: includes/admin/media-view.php:79
+msgid "Enter a comma separated list of Tags to apply to this item."
+msgstr ""
+"Entrez une liste de tags séparée par des virgules à appliquer à cet élément."
+
+#: includes/admin/metaboxes.php:84
+msgid ""
+"Enter one or more tags, separated by commas. These will be applied to the "
+"selected images."
+msgstr ""
+"Saisir un ou plusieurs tags, séparés par des virgules. Ceux-ci seront "
+"appliqués aux images sélectionnées."
+
+#: includes/admin/metaboxes.php:166
+msgid "TAGS: "
+msgstr "TAGS : "
+
+#: includes/admin/metaboxes.php:217
+msgid "Gallery"
+msgstr "Galerie"
+
+#: includes/admin/metaboxes.php:218
+msgid "Images"
+msgstr "Images"
+
+#: includes/admin/metaboxes.php:243
+msgid "Album"
+msgstr "Album"
+
+#: includes/admin/metaboxes.php:244
+msgid "Galleries"
+msgstr "Galeries"
+
+#: includes/admin/metaboxes.php:287
+#, php-format
+msgid "Tags %s Settings"
+msgstr "Paramètres de Tags %s"
+
+#: includes/admin/metaboxes.php:292
+#, php-format
+msgid "The settings below adjust the Tag options for the %s output."
+msgstr ""
+"Les paramètres ci-dessous règlent les options des tags pour l'affichage de "
+"%s."
+
+#: includes/admin/metaboxes.php:299
+msgid "Need some help?"
+msgstr "Besoin d’aide ?"
+
+#: includes/admin/metaboxes.php:301
+msgid "Read the Documentation"
+msgstr "Lire la documentation"
+
+#: includes/admin/metaboxes.php:305
+msgid "Watch a Video"
+msgstr "Regarder une vidéo"
+
+#: includes/admin/metaboxes.php:317
+msgid "Enable Tag Filtering?"
+msgstr "Activer le filtrage des tags ?"
+
+#: includes/admin/metaboxes.php:321
+#, php-format
+msgid "Enables or disables tag filtering for the %s display."
+msgstr "Active ou désactive le filtrage des tags pour l’affichage de %s."
+
+#: includes/admin/metaboxes.php:326
+msgid "Tags Position?"
+msgstr "Position des tags ?"
+
+#: includes/admin/metaboxes.php:338
+msgid ""
+"Define where you would like the tags displayed - above or below the gallery "
+"images."
+msgstr ""
+"Définir où vous souhaitez que les tags soient affichés - au-dessus ou au-"
+"dessous de la galerie d’images."
+
+#: includes/admin/metaboxes.php:343
+msgid "Tags to include in Filtering"
+msgstr "Tags à inclure dans le filtrage"
+
+#: includes/admin/metaboxes.php:374
+msgid ""
+"Optionally define which tags to display. If none are set, the list of tags "
+"will be automatically generated."
+msgstr ""
+"Définir quels sont les tags à afficher. Si aucun n'est défini, la liste des "
+"tags sera générée automatiquement."
+
+#: includes/admin/metaboxes.php:379
+msgid "Enable \"All Tags\" Option"
+msgstr "Activez l’option \"Tous les Tags\""
+
+#: includes/admin/metaboxes.php:383
+#, php-format
+msgid "Enables or disables the \"All\" tag, which shows all %s."
+msgstr ""
+"Active ou désactive le tag \"Tous\", qui a pour effet d'afficher tous les %s."
+
+#: includes/admin/metaboxes.php:388
+msgid "All Tags Label"
+msgstr "Intitulé de \"Tous les tags\""
+
+#: includes/admin/metaboxes.php:392
+msgid "The label to display for the All Tags link."
+msgstr "L'intitulé à afficher pour le lien \"Tous les tags\"."
+
+#: includes/admin/metaboxes.php:397
+msgid "Sort Tags"
+msgstr "Tri des tags"
+
+#: includes/admin/metaboxes.php:409
+msgid "Define the display order for the Tag Filtering."
+msgstr "Définir l’ordre d’affichage pour le filtrage de tags."
+
+#: includes/admin/metaboxes.php:414
+msgid "Manual Sorting Order"
+msgstr "Ordre de tri manuel"
+
+#: includes/admin/metaboxes.php:451
+#, php-format
+msgid ""
+"Drag and drop the tags to sort their display order. If %s in this %s has a "
+"tag which is not in the above list, Publish/Update the %s first."
+msgstr ""
+"Glissez et déposez les tags pour trier leur ordre d’affichage. Si %s dans ce "
+"%s comporte un tag qui n’est pas dans la liste ci-dessus, publier/mettre à "
+"jour le %s en premier lieu."
+
+#: includes/admin/metaboxes.php:456
+#, php-format
+msgid "Display Specific %s on Load"
+msgstr "Afficher %s spécifique au chargement"
+
+#: includes/admin/metaboxes.php:460
+#, php-format
+msgid "Display All %s"
+msgstr "Afficher tous les %s"
+
+#: includes/admin/metaboxes.php:469
+#, php-format
+msgid "If selected, only displays %s assigned to the selected tag on load."
+msgstr ""
+"Si sélectionné, affiche uniquement les %s assignés au tag sélectionné au "
+"chargement."
+
+#: includes/admin/metaboxes.php:474
+#, php-format
+msgid "Scroll to %s?"
+msgstr "Aller à %s ?"
+
+#: includes/admin/metaboxes.php:478
+#, php-format
+msgid "If enabled, scrolls / jumps to the %s when a tag is clicked."
+msgstr "Si activé, défile/saute à %s lorsque l’utilisateur clique sur un tag."
+
+#: includes/admin/metaboxes.php:486
+#, php-format
+msgid "Number of %s"
+msgstr "Nombre de %s"
+
+#: includes/admin/metaboxes.php:490
+#, php-format
+msgid ""
+"Limit the number of %s to display when using the Dynamic Addon. Zero = all "
+"%s will be displayed."
+msgstr ""
+"Limiter le nombre de %s à afficher lorsque vous utilisez Dynamic Addon. Zéro "
+"= tous les %s seront affichés."
+
+#: includes/admin/settings.php:95
+msgid "Imagga: Enable Auto Tagging?"
+msgstr "Imagga : Activer les tags automatiques ?"
+
+#: includes/admin/settings.php:99
+msgid "Imagga will read each image you upload to "
+msgstr "Imagga lira chaque image que vous téléverserez sur "
+
+#: includes/admin/settings.php:105
+msgid "Imagga: Authorization Code"
+msgstr "Imagga : Code d'autorisation"
+
+#: includes/admin/settings.php:109
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">Sign up for the Imagga API</a>, and make a "
+"note of your Authorization code once completed. Enter the code here."
+msgstr ""
+"<a href=\"%s\" target=\"_blank\">Inscrivez-vous à l’API de Imagga</a>et "
+"noter votre code d’autorisation une fois terminé. Saisir le code ici."
+
+#: includes/admin/settings.php:115
+msgid "Imagga: Minimum Confidence"
+msgstr "Imagga : Confiance minimale"
+
+#: includes/admin/settings.php:120
+msgid ""
+"If specified, only adds tags to images where Imagga matches or exceeds the "
+"above confidence percentage rating. A lower confidence means it is more "
+"likely less accurate tags will be included in an image."
+msgstr ""
+"Si spécifié, ajoute uniquement des tags aux images là où Imagga correspond "
+"ou dépasse le taux de pourcentage de confiance ci-dessus. Une confiance plus "
+"faible signifie qu’il y aura moins de possibilité d'inclure des tags précis "
+"dans les images."
+
+#: includes/admin/settings.php:128
+msgid "Save"
+msgstr "Enregistrer"
+
+#: includes/admin/settings.php:188
+msgid "The nonce field is invalid."
+msgstr "Le champ nonce est invalide."
+
+#: includes/admin/settings.php:203
+msgid "Tags settings updated successfully!"
+msgstr "Paramètres mis à jour avec succès !"
+
+#: includes/global/common.php:60
+msgid "All"
+msgstr "Tout"
+
+#: includes/global/common.php:83
+msgid "Ascending (A-Z)"
+msgstr "Croissant (A-Z)"
+
+#: includes/global/common.php:87
+msgid "Descending (Z-A)"
+msgstr "Décroissant (Z-A)"
+
+#: includes/global/common.php:91
+msgid "Manual"
+msgstr "Manuelle"
+
+#: includes/global/common.php:111
+msgid "Above Images"
+msgstr "Au-dessus des images"
+
+#: includes/global/common.php:115
+msgid "Below Images"
+msgstr "Au-dessous des images"
+
+#: includes/global/shortcode.php:984 includes/global/shortcode.php:1648
+msgid "Filter by All"
+msgstr "Filtrer tout"
+
+#: includes/global/shortcode.php:1016 includes/global/shortcode.php:1680
+#, php-format
+msgid "Filter by %s"
+msgstr "Filtrer par %s"
+
+#: includes/global/taxonomy.php:51 includes/global/taxonomy.php:52
+#: includes/global/taxonomy.php:66
+msgid " Tags"
+msgstr " Tags"
+
+#: includes/global/taxonomy.php:51 includes/global/taxonomy.php:66
+msgid "Envira Tags"
+msgstr "Envira Tags"
+
+#: includes/global/taxonomy.php:52
+msgid "Envira Tag"
+msgstr "Envira Tag"
+
+#: includes/global/taxonomy.php:53
+msgid "Search Tags"
+msgstr "Rechercher parmi les tags"
+
+#: includes/global/taxonomy.php:54
+msgid "Popular Tags"
+msgstr "Tags populaires"
+
+#: includes/global/taxonomy.php:55
+msgid "All Tags"
+msgstr "Tous les tags"
+
+#: includes/global/taxonomy.php:58
+msgid "Edit Tag"
+msgstr "Modifier un tag"
+
+#: includes/global/taxonomy.php:59
+msgid "Update Tag"
+msgstr "Mettre à jour le tag"
+
+#: includes/global/taxonomy.php:60
+msgid "Add New Tag"
+msgstr "Ajouter un nouveau tag"
+
+#: includes/global/taxonomy.php:61
+msgid "New Tag Name"
+msgstr "Nom du nouveau tag"
+
+#: includes/global/taxonomy.php:62
+msgid "Separate tags with commas"
+msgstr "Séparer les tags par des virgules"
+
+#: includes/global/taxonomy.php:63
+msgid "Add or remove tags"
+msgstr "Ajouter ou supprimer des tags"
+
+#: includes/global/taxonomy.php:64
+msgid "Choose from the most used tags"
+msgstr "Choisir parmi les tags les plus utilisés"
+
+#: includes/global/taxonomy.php:65
+msgid "No tags found."
+msgstr "Aucun tag trouvé."
+
+#: includes/global/taxonomy.php:87
+msgid " Categories"
+msgstr "Catégories :"
+
+#: includes/global/taxonomy.php:87
+msgid "Envira Categories"
+msgstr "Catégories de Envira"
+
+#: includes/global/taxonomy.php:88
+msgid " Category"
+msgstr "Catégorie"
+
+#: includes/global/taxonomy.php:88
+msgid "Envira Category"
+msgstr "Catégorie de Envira"
+
+#: includes/global/taxonomy.php:89
+msgid "Search Categories"
+msgstr "Rechercher dans les catégories"
+
+#: includes/global/taxonomy.php:90
+msgid "Popular Categories"
+msgstr "Catégories populaires"
+
+#: includes/global/taxonomy.php:91
+msgid "All Categories"
+msgstr "Toutes les catégories"
+
+#: includes/global/taxonomy.php:94
+msgid "Edit Category"
+msgstr "Modifier la catégorie"
+
+#: includes/global/taxonomy.php:95
+msgid "Update Category"
+msgstr "Mettre à jour la catégorie"
+
+#: includes/global/taxonomy.php:96
+msgid "Add New Category"
+msgstr "Ajouter une nouvelle catégorie"
+
+#: includes/global/taxonomy.php:97
+msgid "New Category Name"
+msgstr "Nouveau nom de catégorie"
+
+#: includes/global/taxonomy.php:98
+msgid "Separate categories with commas"
+msgstr "Séparer les catégories par des virgules"
+
+#: includes/global/taxonomy.php:99
+msgid "Add or remove categories"
+msgstr "Ajouter ou supprimer des catégories"
+
+#: includes/global/taxonomy.php:100
+msgid "Choose from the most used categories"
+msgstr "Choisissez parmi les catégories les plus utilisées"
+
+#: includes/global/taxonomy.php:101
+msgid "No categories found."
+msgstr "Aucune catégorie trouvée."
+
+#: includes/global/taxonomy.php:102
+msgid "Categories"
+msgstr "Catégories"
+
+#. Plugin Name of the plugin/theme
+msgid "Envira Gallery - Tags Addon"
+msgstr "Envira Gallery - Tags Addon"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://enviragallery.com"
+msgstr "http://enviragallery.com"
+
+#. Description of the plugin/theme
+msgid "Enables tagging capabilities for Envira galleries."
+msgstr "Activer les tags dans pour les galeries Envira."
+
+#. Author of the plugin/theme
+msgid "Envira Gallery Team"
+msgstr "Équipe de Envira Gallery"
+
+#~ msgid ""
+#~ "Imagga will read each image you upload to an Envira Gallery, and "
+#~ "automatically tag it. <a href=\"%s\" target=\"_blank\">Find out more</a>"
+#~ msgstr ""
+#~ "Imagga lira chaque image que vous téléchargez dans une galerie de Envira "
+#~ "et lui attribuera un tag automatiquement. <a href=\"%s\" target=\"_blank"
+#~ "\">En savoir plus</a>"

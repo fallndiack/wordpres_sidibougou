@@ -1,0 +1,200 @@
+# Copyright (C) 2015 Envira Gallery - Instagram Addon
+# This file is distributed under the same license as the Envira Gallery - Instagram Addon package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Envira Gallery - Instagram Addon 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/envira-instagram\n"
+"POT-Creation-Date: 2016-04-19 10:06+0200\n"
+"PO-Revision-Date: 2016-04-19 10:10+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/admin/metaboxes.php:89 includes/admin/settings.php:84
+msgid "Instagram"
+msgstr "Instagram"
+
+#: includes/admin/metaboxes.php:122
+msgid "Instagram Authorization Setup"
+msgstr "Configuración de  Autorización Instagram "
+
+#: includes/admin/metaboxes.php:124 includes/admin/settings.php:132
+msgid ""
+"Before you can create Instagram galleries, you need to authenticate Envira "
+"with your Instagram account."
+msgstr ""
+"Antes de crear galerías de Instagram, es necesario autenticar Envira con su "
+"cuenta de Instagram."
+
+#: includes/admin/metaboxes.php:127 includes/admin/settings.php:136
+msgid "Click Here to Authenticate Envira with Instagram"
+msgstr "Haga clic aquí para autenticar Envira en Instagram"
+
+#: includes/admin/metaboxes.php:136
+msgid "The settings below adjust the Instagram settings for the gallery."
+msgstr ""
+"Los ajustes siguientes ajustan los valores de configuración de Instagram "
+"para la galería."
+
+#: includes/admin/metaboxes.php:138
+msgid "Need some help?"
+msgstr "¿Necesita ayuda?"
+
+#: includes/admin/metaboxes.php:140
+msgid "Read the Documentation"
+msgstr "Lea la documentación"
+
+#: includes/admin/metaboxes.php:144
+msgid "Watch a Video"
+msgstr "Mire el video"
+
+#: includes/admin/metaboxes.php:153
+msgid "Feed Type"
+msgstr "Tipo de contenido"
+
+#: includes/admin/metaboxes.php:161
+msgid "The type of images to pull from Instagram."
+msgstr "El tipo de imágenes a extraer de Instagram."
+
+#: includes/admin/metaboxes.php:166
+msgid "Tag"
+msgstr "Etiqueta"
+
+#: includes/admin/metaboxes.php:170
+msgid "Pulls images that match the given tag."
+msgstr "Extrae las imágenes que contienen la etiqueta dada."
+
+#: includes/admin/metaboxes.php:175
+msgid "Number of Instagram Photos"
+msgstr "Número de fotos de Instagram"
+
+#: includes/admin/metaboxes.php:179
+msgid "The number of images to pull from your Instagram feed."
+msgstr "El número de imágenes a extraer de su contenido de Instagram."
+
+#: includes/admin/metaboxes.php:184
+msgid "Image Resolution"
+msgstr "Resolución de imagen"
+
+#: includes/admin/metaboxes.php:192
+msgid "Determines the image resolution and size to use from Instagram."
+msgstr "Determina la resolución y el tamaño de imagen  de Instagram a usar."
+
+#: includes/admin/metaboxes.php:197
+msgid "Link to Instagram Location?"
+msgstr "¿Enlazar con el sitio de Instagram?"
+
+#: includes/admin/metaboxes.php:201
+msgid "Links the photo to its original location on Instagram."
+msgstr "Enlaza la foto a su ubicación original en Instagram."
+
+#: includes/admin/metaboxes.php:206
+msgid "Use Photo Caption?"
+msgstr "¿Utilizar pie de foto?"
+
+#: includes/admin/metaboxes.php:210
+msgid "Displays the photo caption from Instagram on the slide."
+msgstr "Muestra el pie de foto de Instagram en la diapositiva."
+
+#: includes/admin/metaboxes.php:215
+msgid "Limit Caption Length"
+msgstr "Longitud límite del pie de foto"
+
+#: includes/admin/metaboxes.php:219
+msgid "Limits the number of words to display for each caption."
+msgstr "Limita el número de palabras a mostrar para cada pie de foto."
+
+#: includes/admin/metaboxes.php:224
+msgid "Cache Data from Instagram?"
+msgstr "¿Caché de datos de Instagram?"
+
+#: includes/admin/metaboxes.php:228
+msgid "Caches the data from Instagram to improve performance (recommended)."
+msgstr ""
+"Almacena en caché los datos de Instagram para mejorar el rendimiento "
+"(recomendado)."
+
+#: includes/admin/metaboxes.php:257
+msgid "Instagram Gallery Preview"
+msgstr "Vista previa de la galería Instagram"
+
+#: includes/admin/settings.php:119 includes/admin/settings.php:200
+msgid "Your Instagram account has been authenticated for use with Envira!"
+msgstr "Se ha autenticado tu cuenta de Instagram para su uso con Envira!"
+
+#: includes/admin/settings.php:123
+msgid "Click Here to Remove Instagram Authentication from Envira"
+msgstr "Haga clic aquí para eliminar la autenticación  de Envira en Instagram"
+
+#: includes/admin/settings.php:198
+msgid "Success!"
+msgstr "¡Éxito!"
+
+#: includes/admin/settings.php:203
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#: includes/global/common.php:121
+msgid "My Instagram Photos"
+msgstr "Mis fotos de Instagram"
+
+#: includes/global/common.php:125
+msgid "Instagram Photos I've Liked"
+msgstr "Fotos de Instagram que me han gustado"
+
+#: includes/global/common.php:129
+msgid "Instagram Photos by Tag"
+msgstr "Fotos de Instagram por etiqueta"
+
+#: includes/global/common.php:149
+msgid "Thumbnail (150x150)"
+msgstr "Miniatura (150x150)"
+
+#: includes/global/common.php:153
+msgid "Low Resolution (306x306)"
+msgstr "Baja resolución (306x306)"
+
+#: includes/global/common.php:157
+msgid "Standard Resolution (640x640)"
+msgstr "Resolución estándar (640x640)"
+
+#. Plugin Name of the plugin/theme
+msgid "Envira Gallery - Instagram Addon"
+msgstr "Envira Gallery - Complemento Instagram"
+
+#. Plugin URI of the plugin/theme
+msgid "http://enviragallery.com"
+msgstr "http://enviragallery.com"
+
+#. Description of the plugin/theme
+msgid "Populate Envira Galleries with Instagram images."
+msgstr "Rellenar Galerías Envira con imágenes de Instagram."
+
+#. Author of the plugin/theme
+msgid "Envira Team"
+msgstr "Envira Team"
+
+#. Author URI of the plugin/theme
+msgid "http://enviragallery.com"
+msgstr "http://enviragallery.com"
+
+#~ msgid ""
+#~ "Oops! It looks like you have not authenticated Envira with your Instagram "
+#~ "account yet."
+#~ msgstr ""
+#~ "¡Huy! Parece que no ha autentificado todavía Envira con su cuenta de "
+#~ "Instagram."
+
+#~ msgid "Click Here to Get Started with the Authentication Process"
+#~ msgstr "Haga clic aquí para empezar con el proceso de autenticación"
+
+#~ msgid "Instagram authentication successful!"
+#~ msgstr "¡Autenticación en Instagram con éxito!"
+
+#~ msgid "Instagram account disconnected!"
+#~ msgstr "¡Cuenta de Instagram desconectada!"

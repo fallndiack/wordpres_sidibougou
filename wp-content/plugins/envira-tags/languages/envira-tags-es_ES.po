@@ -1,0 +1,359 @@
+# Copyright (C) 2015 Envira Gallery - Tags Addon
+# This file is distributed under the same license as the Envira Gallery - Tags Addon package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Envira Gallery - Tags Addon 1.2.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/envira-tags\n"
+"POT-Creation-Date: 2016-04-04 21:17+0200\n"
+"PO-Revision-Date: 2016-04-04 21:18+0200\n"
+"Last-Translator: José Luis Pérez-Lozana <joseluis.perez.lozana@gmail.com>\n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/admin/admin.php:68 includes/admin/media-view.php:54
+#: includes/admin/metaboxes.php:178 includes/admin/settings.php:67
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: includes/admin/imagga.php:128
+msgid "No response from Imagga"
+msgstr "No ha habido respuesta de imagga"
+
+#: includes/admin/imagga.php:134
+msgid "Invalid JSON response from Imagga"
+msgstr "respuesta JSON de imagga no valida "
+
+#: includes/admin/media-view.php:79
+msgid "Enter a comma separated list of Tags to apply to this item."
+msgstr ""
+"Introduzca una lista de etiquetas separada por comas para este elemento"
+
+#: includes/admin/metaboxes.php:76
+msgid ""
+"Enter one or more tags, separated by commas. These will be applied to the "
+"selected images."
+msgstr ""
+"Introduzca una o más etiquetas, separadas por comas. Esto se aplicará a las "
+"imágenes seleccionadas."
+
+#: includes/admin/metaboxes.php:154
+msgid "TAGS: "
+msgstr "Etiquetas:"
+
+#: includes/admin/metaboxes.php:228
+msgid "The settings below adjust the Tags settings."
+msgstr "Los siguientes ajustes configuran las etiquetas."
+
+#: includes/admin/metaboxes.php:230
+msgid "Need some help?"
+msgstr "¿Necesita ayuda?"
+
+#: includes/admin/metaboxes.php:232
+msgid "Read the Documentation"
+msgstr "Lea la documentación"
+
+#: includes/admin/metaboxes.php:236
+msgid "Watch a Video"
+msgstr "Vea el video"
+
+#: includes/admin/metaboxes.php:244
+msgid "Enable Tag Filtering?"
+msgstr "¿Activar filtrado de etiquetas?"
+
+#: includes/admin/metaboxes.php:248
+msgid "Enables or disables tag filtering for the gallery display."
+msgstr ""
+"Activa o desactiva el filtrado de etiquetas para visualizar la galería."
+
+#: includes/admin/metaboxes.php:253
+msgid "Tags to include in Filtering"
+msgstr "Etiquetas a incluir en el filtrado"
+
+#: includes/admin/metaboxes.php:261 includes/admin/metaboxes.php:263
+msgid "Image Tags"
+msgstr "Etiquetas de imagen"
+
+#: includes/admin/metaboxes.php:283
+msgid ""
+"Optionally define which tags to display. If none are set, the list of tags "
+"will be automatically generated based on the image tags."
+msgstr ""
+"Opcionalmente define que etiquetas se muestran. Si no se selecciona ninguna, "
+"se generará automáticamente la lista de etiquetas basándose en las etiquetas "
+"de imagen."
+
+#: includes/admin/metaboxes.php:288
+msgid "All Tags Label"
+msgstr "Nombre de Todas las etiquetas"
+
+#: includes/admin/metaboxes.php:292
+msgid "The label to display for the All Tags link."
+msgstr "El nombre que se muestra para el enlace Todas las etiquetas."
+
+#: includes/admin/metaboxes.php:297
+msgid "Sort Tags"
+msgstr "Clasificación de etiquetas"
+
+#: includes/admin/metaboxes.php:309
+msgid "Define the display order for the Tag Filtering."
+msgstr "Definir el orden de visualización para el filtrado deetiqueta."
+
+#: includes/admin/metaboxes.php:314
+msgid "Manual Sorting Order"
+msgstr "orden de clasificación manual"
+
+#: includes/admin/metaboxes.php:351
+msgid ""
+"Drag and drop the tags to sort their display order. If an image in this "
+"Gallery has a tag which is not in the above list, Publish/Update the Gallery "
+"first."
+msgstr ""
+"Arrastrar y soltar las etiquetas para clasificar su orden de visualización. "
+"Si una imagen en esta galería tiene una etiqueta que no está en la lista "
+"anterior, publicar o actualizar la galería primero."
+
+#: includes/admin/metaboxes.php:356
+msgid "Scroll to Gallery?"
+msgstr "¿Desplazarse a la galería?"
+
+#: includes/admin/metaboxes.php:360
+msgid "If enabled, scrolls / jumps to the gallery when a tag is clicked."
+msgstr ""
+"Si se activa, se desplaza / salta a la galería cuando se pulsa una etiqueta."
+
+#: includes/admin/metaboxes.php:368
+msgid "Number of Images"
+msgstr "Número de imágenes"
+
+#: includes/admin/metaboxes.php:372
+msgid ""
+"Limit the number of images to display when using the Dynamic Addon. Zero = "
+"all images will be displayed."
+msgstr ""
+"Limita el número de imágenes que se muestran cuando se usa el complemento "
+"dinámico. Cero = se mostrarán tods las imágenes."
+
+#: includes/admin/settings.php:90
+msgid "Imagga: Enable Auto Tagging?"
+msgstr "Imagga: ¿Activar Autoetiquetado?"
+
+#: includes/admin/settings.php:94
+msgid ""
+"Imagga will read each image you upload to an Envira Gallery, and "
+"automatically tag it. <a href=\"%s\" target=\"_blank\">Find out more</a>"
+msgstr ""
+"Imagga leerá cada imagen que cargue a una galería Envira y y la etiquetará "
+"automáticamente. <a href=\"%s\" target=\"_blank\">Más información</a>"
+
+#: includes/admin/settings.php:100
+msgid "Imagga: Authorization Code"
+msgstr "Imagga: Código de autorización"
+
+#: includes/admin/settings.php:104
+msgid ""
+"<a href=\"%s\" target=\"_blank\">Sign up for the Imagga API</a>, and make a "
+"note of your Authorization code once completed. Enter the code here."
+msgstr ""
+"<a href=\"%s\" target=\"_blank\">Subscriba la API de Imagga</a> y una vez "
+"completado haga una copia de su autorización. Introduzca aquí el código."
+
+#: includes/admin/settings.php:110
+msgid "Imagga: Minimum Confidence"
+msgstr "Imagga: Confianza mínima"
+
+#: includes/admin/settings.php:115
+msgid ""
+"If specified, only adds tags to images where Imagga matches or exceeds the "
+"above confidence percentage rating. A lower confidence means it is more "
+"likely less accurate tags will be included in an image."
+msgstr ""
+"Si se especifica, sólo añade etiquetas a las imágenes cuando la calificación "
+"Imagga sea igual o supere el porcentaje de confianza. Una confianza inferior "
+"significa que es más probable que las etiquetas que se incluyan en una "
+"imagen sean menos precisas."
+
+#: includes/admin/settings.php:123
+msgid "Save"
+msgstr "Guardar"
+
+#: includes/admin/settings.php:182
+msgid "The nonce field is invalid."
+msgstr "El campo nonce no es válido."
+
+#: includes/admin/settings.php:197
+msgid "Tags settings updated successfully!"
+msgstr "Los ajustes de etiquetas se han actualizado con exito."
+
+#: includes/global/common.php:59
+msgid "All"
+msgstr "Todas"
+
+#: includes/global/common.php:79
+msgid "Ascending (A-Z)"
+msgstr "Ascendente (A-Z)"
+
+#: includes/global/common.php:83
+msgid "Descending (Z-A)"
+msgstr "Descendente (Z-A)"
+
+#: includes/global/common.php:87
+msgid "Manual"
+msgstr "Manual"
+
+#: includes/global/shortcode.php:590
+msgid "Filter by All"
+msgstr "Filtar por Todas"
+
+#: includes/global/shortcode.php:615
+msgid "Filter by %s"
+msgstr "Filtrar por %s"
+
+#: includes/global/taxonomy.php:51 includes/global/taxonomy.php:66
+msgid "Envira Tags"
+msgstr "Etiquetas Envira"
+
+#: includes/global/taxonomy.php:52
+msgid "Envira Tag"
+msgstr "Etiqueta Envira"
+
+#: includes/global/taxonomy.php:53
+msgid "Search Tags"
+msgstr "Buscar etiquetas"
+
+#: includes/global/taxonomy.php:54
+msgid "Popular Tags"
+msgstr "Etiquetas populares"
+
+#: includes/global/taxonomy.php:55
+msgid "All Tags"
+msgstr "Todas las etiquetas"
+
+#: includes/global/taxonomy.php:58
+msgid "Edit Tag"
+msgstr "Editar etiqueta"
+
+#: includes/global/taxonomy.php:59
+msgid "Update Tag"
+msgstr "Actualizar etiqueta"
+
+#: includes/global/taxonomy.php:60
+msgid "Add New Tag"
+msgstr "Añadir nueva etiqueta"
+
+#: includes/global/taxonomy.php:61
+msgid "New Tag Name"
+msgstr "Nuevo nombre de etiqueta"
+
+#: includes/global/taxonomy.php:62
+msgid "Separate tags with commas"
+msgstr "Separe las etiquetas con comas"
+
+#: includes/global/taxonomy.php:63
+msgid "Add or remove tags"
+msgstr "Añadir o eliminar etiquetas"
+
+#: includes/global/taxonomy.php:64
+msgid "Choose from the most used tags"
+msgstr "Seleccionar entre las etiquetas más usadas"
+
+#: includes/global/taxonomy.php:65
+msgid "No tags found."
+msgstr "No se han encontrado etiquetas"
+
+#: includes/global/taxonomy.php:85 includes/global/taxonomy.php:86
+msgid "Envira Category"
+msgstr "Categoría Envira"
+
+#: includes/global/taxonomy.php:87
+msgid "Search Categories"
+msgstr "Buscar Categorías"
+
+#: includes/global/taxonomy.php:88
+msgid "Popular Categories"
+msgstr "Categorías populares"
+
+#: includes/global/taxonomy.php:89
+msgid "All Categories"
+msgstr "Todas las categorías"
+
+#: includes/global/taxonomy.php:92
+msgid "Edit Category"
+msgstr "Editar categoría"
+
+#: includes/global/taxonomy.php:93
+msgid "Update Category"
+msgstr "Actualizar categoría"
+
+#: includes/global/taxonomy.php:94
+msgid "Add New Category"
+msgstr "Añadir nueva categoría"
+
+#: includes/global/taxonomy.php:95
+msgid "New Category Name"
+msgstr "Nuevo nombre de categoría"
+
+#: includes/global/taxonomy.php:96
+msgid "Separate categories with commas"
+msgstr "Separe las categorías con comas"
+
+#: includes/global/taxonomy.php:97
+msgid "Add or remove categories"
+msgstr "Añadir o eliminar categorías"
+
+#: includes/global/taxonomy.php:98
+msgid "Choose from the most used categories"
+msgstr "Seleccionar entre las categorías más usadas"
+
+#: includes/global/taxonomy.php:99
+msgid "No categories found."
+msgstr "No se han encontrado categorías"
+
+#: includes/global/taxonomy.php:100
+msgid "Categories"
+msgstr "Categorías"
+
+#. Plugin Name of the plugin/theme
+msgid "Envira Gallery - Tags Addon"
+msgstr "Envira Gallery - Complemento Tags"
+
+#. Plugin URI of the plugin/theme
+msgid "http://enviragallery.com"
+msgstr "http://enviragallery.com"
+
+#. Description of the plugin/theme
+msgid "Enables tagging capabilities for Envira galleries."
+msgstr "Activa las capacidades de etiquetado para galerías Envira."
+
+#. Author of the plugin/theme
+msgid "Envira Team"
+msgstr "Envira Team"
+
+#. Author URI of the plugin/theme
+msgid "http://enviragallery.com"
+msgstr "http://enviragallery.com"
+
+#~ msgid "Add Tag(s) to Selected Images"
+#~ msgstr "Añadir etiqueta(s) a las imágenes seleccionadas"
+
+#~ msgid ""
+#~ "The <strong>%s</strong> requires Envira Gallery 1.0.4 or later to work. "
+#~ "Please update Envira Gallery to use this addon."
+#~ msgstr ""
+#~ "La <strong>%s</strong> requiere Envira Gallery 1.0.4 o superior para "
+#~ "funcionar. Por favor, actualice Envira Gallery para usar este complemento."
+
+#~ msgid "Tag"
+#~ msgstr "Etiqueta"
+
+#~ msgctxt "envira-tags"
+#~ msgid "Tags"
+#~ msgstr "Etiquetas"
+
+#~ msgctxt "envira-tags"
+#~ msgid "Tag"
+#~ msgstr "Etiqueta"

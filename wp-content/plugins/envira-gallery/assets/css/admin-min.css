@@ -1,0 +1,21 @@
+/* ==========================================================================
+   Welcome / Support Screen
+   ========================================================================== */
+ul#adminmenu li.menu-icon-envira ul.wp-submenu span {
+  margin-left: 0; }
+  ul#adminmenu li.menu-icon-envira ul.wp-submenu span.envira-addons {
+    color: #7cc048; }
+
+ul#adminmenu li.menu-icon-envira ul.wp-submenu li:last-child {
+  display: block; }
+
+body.envira-welcome-enabled ul#adminmenu li.menu-icon-envira ul.wp-submenu span {
+  margin-left: 0; }
+  body.envira-welcome-enabled ul#adminmenu li.menu-icon-envira ul.wp-submenu span.envira-addons {
+    color: #7cc048; }
+
+body.envira-welcome-enabled ul#adminmenu li.menu-icon-envira ul.wp-submenu li:nth-last-child(-n+4) {
+  display: none; }
+
+body.envira-welcome-enabled ul#adminmenu li.menu-icon-envira ul.wp-submenu li:last-child {
+  display: block; }

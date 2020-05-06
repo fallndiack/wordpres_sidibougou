@@ -1,0 +1,1 @@
+jQuery(document).ready(function($){$(document).on("envirabox_api_after_show",function(e,n,r,i){if(!1!==n.get_config("fullscreen"))var o=$(".envirabox-slide--current img.envirabox-image").attr("src"),a=!1})});

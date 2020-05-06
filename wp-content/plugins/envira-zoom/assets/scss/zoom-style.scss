@@ -1,0 +1,49 @@
+/**
+* Zoom Button(s)
+*/
+#envirabox-buttons {
+	.btnZoom {
+		background-image: none;
+		height: 29px; /* was 30px */
+		text-indent: inherit;
+		color: #fff;
+		line-height: 1.4;
+		border-left: 1px solid #111;
+		&.btnZoomOn {
+			/* background: rgba(150, 150, 150, 0) -moz-linear-gradient(center top , #444 0%, #343434 50%, #292929 50%, #333 100%) repeat scroll 0 0; */
+			color: #666;
+		}
+		&.btnZoomOff {
+			/*background: inherit;*/
+		}
+	}
+}
+.zoomContainer { /* this container needs to be above the light/envirabox */
+	// z-index: 990000; 
+	z-index: 9999999999;
+	overflow: hidden;
+	pointer-events: none;
+}
+
+.envirabox-inner {
+  width: 100%;
+  height: 100%;
+}
+
+.envirabox-image.zoom-fix {
+	max-width: 99.8%;
+	max-height: 99.8%;
+}
+.envirabox-container.envira-zoom.envira-zoom-no-cursor.envirabox-can-drag {
+	.envirabox-image-wrap {
+		cursor: none !important;
+		pointer-events: none;
+	}
+}
+body.envira-zoom-no-cursor {
+	.envirabox-image-wrap,
+	.zoomLens,
+	.zoomContainer {
+		cursor: none !important;
+	}
+}

@@ -1,0 +1,210 @@
+/* ==========================================================================
+   metabox.css loads on any Envira Gallery Create/Edit Screen
+
+   Any styles that will be used by the main Gallery editor screen should be 
+   added to this file
+   ========================================================================== */
+body.envira_page_envira-gallery-settings input#envira-video-youtube-api-id {
+  width: 350px; }
+
+.media-frame .envira-gallery-accepted-urls > ul > li a {
+  text-decoration: none;
+  font-weight: 700;
+  color: black; }
+
+.media-frame .envira-gallery-accepted-urls .closed {
+  display: none; }
+
+.envira-gallery-accepted-urls a {
+  position: relative;
+  padding-left: 15px; }
+
+.envira-gallery-accepted-urls a:before {
+  content: "\A";
+  border-top: 6px solid transparent;
+  border-bottom: 6px solid transparent;
+  border-left: 6px solid black;
+  position: absolute;
+  left: 0px;
+  top: 3px; }
+
+.envira-gallery-accepted-urls a.title-opened:before {
+  content: "\A";
+  border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+  border-top: 6px solid black;
+  position: absolute;
+  left: -4px;
+  top: 3px; }
+
+body.post-type-envira {
+  /* ==========================================================================
+     Form
+     ========================================================================== */ }
+  body.post-type-envira .envira-gallery-accepted-urls {
+    overflow: visible; }
+    body.post-type-envira .envira-gallery-accepted-urls section, body.post-type-envira .envira-gallery-accepted-urls ul {
+      margin-bottom: 10px; }
+      body.post-type-envira .envira-gallery-accepted-urls section li, body.post-type-envira .envira-gallery-accepted-urls ul li {
+        margin: 0;
+        font-size: 13px;
+        line-break: 15px; }
+        body.post-type-envira .envira-gallery-accepted-urls section li ul, body.post-type-envira .envira-gallery-accepted-urls ul li ul {
+          list-style: disc;
+          list-style-position: outide;
+          margin-left: 15px;
+          word-wrap: break-word; }
+  body.post-type-envira form#post {
+    /**
+     * Defined so we override WordPress' default styles
+     */ }
+    body.post-type-envira form#post #poststuff {
+      /* ==========================================================================
+         Envira Gallery Settings
+         ========================================================================== */ }
+      body.post-type-envira form#post #poststuff #envira-gallery-settings {
+        /**
+        * Settings
+        */ }
+        body.post-type-envira form#post #poststuff #envira-gallery-settings #envira-tabs {
+          /**
+          * Tab: Images
+          */ }
+          body.post-type-envira form#post #poststuff #envira-gallery-settings #envira-tabs #envira-tab-images {
+            /**
+            * Image Grid
+            */ }
+            body.post-type-envira form#post #poststuff #envira-gallery-settings #envira-tabs #envira-tab-images ul#envira-gallery-output.grid li {
+              /**
+              * Metadata
+              */ }
+              body.post-type-envira form#post #poststuff #envira-gallery-settings #envira-tabs #envira-tab-images ul#envira-gallery-output.grid li div.meta {
+                overflow: visible;
+                position: relative;
+                /**
+                * Additional metadata
+                */ }
+                body.post-type-envira form#post #poststuff #envira-gallery-settings #envira-tabs #envira-tab-images ul#envira-gallery-output.grid li div.meta div.additional {
+                  position: absolute;
+                  bottom: 15px;
+                  right: 5px;
+                  display: inline-block; }
+                  body.post-type-envira form#post #poststuff #envira-gallery-settings #envira-tabs #envira-tab-images ul#envira-gallery-output.grid li div.meta div.additional .envira-active-item {
+                    display: none; }
+                  body.post-type-envira form#post #poststuff #envira-gallery-settings #envira-tabs #envira-tab-images ul#envira-gallery-output.grid li div.meta div.additional span.envira-video-type {
+                    display: inline-block;
+                    text-indent: -9999px;
+                    width: 50px;
+                    height: 40px; }
+                    body.post-type-envira form#post #poststuff #envira-gallery-settings #envira-tabs #envira-tab-images ul#envira-gallery-output.grid li div.meta div.additional span.envira-video-type.youtube, body.post-type-envira form#post #poststuff #envira-gallery-settings #envira-tabs #envira-tab-images ul#envira-gallery-output.grid li div.meta div.additional span.envira-video-type.youtube_playlist {
+                      background: url(../images/youtube.png) top left no-repeat;
+                      background-size: 25px;
+                      margin-bottom: 5px;
+                      width: 25px; }
+                    body.post-type-envira form#post #poststuff #envira-gallery-settings #envira-tabs #envira-tab-images ul#envira-gallery-output.grid li div.meta div.additional span.envira-video-type.vimeo {
+                      background: url(../images/vimeo.png) top left no-repeat;
+                      background-size: 25px;
+                      margin-bottom: 5px;
+                      width: 25px; }
+                    body.post-type-envira form#post #poststuff #envira-gallery-settings #envira-tabs #envira-tab-images ul#envira-gallery-output.grid li div.meta div.additional span.envira-video-type.wistia {
+                      background: url(../images/wistia.png) top left no-repeat;
+                      background-size: 25px;
+                      margin-bottom: 5px;
+                      width: 25px; }
+                    body.post-type-envira form#post #poststuff #envira-gallery-settings #envira-tabs #envira-tab-images ul#envira-gallery-output.grid li div.meta div.additional span.envira-video-type.twitch {
+                      background: url(../images/twitch.png) top left no-repeat;
+                      background-size: 25px;
+                      margin-bottom: 5px;
+                      width: 25px; }
+                    body.post-type-envira form#post #poststuff #envira-gallery-settings #envira-tabs #envira-tab-images ul#envira-gallery-output.grid li div.meta div.additional span.envira-video-type.dailymotion {
+                      background: url(../images/dailymotion.png) top left no-repeat;
+                      background-size: 25px;
+                      margin-bottom: 5px;
+                      width: 25px; }
+                    body.post-type-envira form#post #poststuff #envira-gallery-settings #envira-tabs #envira-tab-images ul#envira-gallery-output.grid li div.meta div.additional span.envira-video-type.metacafe {
+                      background: url(../images/metacafe.png) top left no-repeat;
+                      background-size: 25px;
+                      margin-bottom: 5px;
+                      width: 25px; }
+                    body.post-type-envira form#post #poststuff #envira-gallery-settings #envira-tabs #envira-tab-images ul#envira-gallery-output.grid li div.meta div.additional span.envira-video-type.facebook {
+                      background: url(../images/facebook.png) top left no-repeat;
+                      background-size: 25px;
+                      margin-bottom: 5px;
+                      width: 25px; }
+                    body.post-type-envira form#post #poststuff #envira-gallery-settings #envira-tabs #envira-tab-images ul#envira-gallery-output.grid li div.meta div.additional span.envira-video-type.videopress {
+                      background: url(../images/videopress.png) top left no-repeat;
+                      background-size: 25px;
+                      margin-bottom: 5px;
+                      width: 25px; }
+                    body.post-type-envira form#post #poststuff #envira-gallery-settings #envira-tabs #envira-tab-images ul#envira-gallery-output.grid li div.meta div.additional span.envira-video-type.instagram {
+                      background: url(../images/instagram.png) top left no-repeat;
+                      background-size: 25px;
+                      margin-bottom: 5px;
+                      width: 25px; }
+                    body.post-type-envira form#post #poststuff #envira-gallery-settings #envira-tabs #envira-tab-images ul#envira-gallery-output.grid li div.meta div.additional span.envira-video-type.self-hosted {
+                      background: url(../images/self-hosted.svg) top left no-repeat;
+                      background-size: 50px; }
+            body.post-type-envira form#post #poststuff #envira-gallery-settings #envira-tabs #envira-tab-images ul#envira-gallery-output.list li {
+              /**
+              * Additional metadata
+              */ }
+              body.post-type-envira form#post #poststuff #envira-gallery-settings #envira-tabs #envira-tab-images ul#envira-gallery-output.list li div.additional-list {
+                position: absolute;
+                bottom: -14px;
+                left: 110px;
+                display: inline-block; }
+                body.post-type-envira form#post #poststuff #envira-gallery-settings #envira-tabs #envira-tab-images ul#envira-gallery-output.list li div.additional-list .envira-active-item {
+                  display: none; }
+                body.post-type-envira form#post #poststuff #envira-gallery-settings #envira-tabs #envira-tab-images ul#envira-gallery-output.list li div.additional-list span.envira-video-type {
+                  display: inline-block;
+                  text-indent: -9999px;
+                  width: 50px;
+                  height: 40px; }
+                  body.post-type-envira form#post #poststuff #envira-gallery-settings #envira-tabs #envira-tab-images ul#envira-gallery-output.list li div.additional-list span.envira-video-type.youtube, body.post-type-envira form#post #poststuff #envira-gallery-settings #envira-tabs #envira-tab-images ul#envira-gallery-output.list li div.additional-list span.envira-video-type.youtube_playlist {
+                    background: url(../images/youtube.png) top left no-repeat;
+                    background-size: 25px;
+                    margin-bottom: 5px;
+                    width: 25px; }
+                  body.post-type-envira form#post #poststuff #envira-gallery-settings #envira-tabs #envira-tab-images ul#envira-gallery-output.list li div.additional-list span.envira-video-type.vimeo {
+                    background: url(../images/vimeo.png) top left no-repeat;
+                    background-size: 25px;
+                    margin-bottom: 5px;
+                    width: 25px; }
+                  body.post-type-envira form#post #poststuff #envira-gallery-settings #envira-tabs #envira-tab-images ul#envira-gallery-output.list li div.additional-list span.envira-video-type.wistia {
+                    background: url(../images/wistia.png) top left no-repeat;
+                    background-size: 25px;
+                    margin-bottom: 5px;
+                    width: 25px; }
+                  body.post-type-envira form#post #poststuff #envira-gallery-settings #envira-tabs #envira-tab-images ul#envira-gallery-output.list li div.additional-list span.envira-video-type.twitch {
+                    background: url(../images/twitch.png) top left no-repeat;
+                    background-size: 25px;
+                    margin-bottom: 5px;
+                    width: 25px; }
+                  body.post-type-envira form#post #poststuff #envira-gallery-settings #envira-tabs #envira-tab-images ul#envira-gallery-output.list li div.additional-list span.envira-video-type.dailymotion {
+                    background: url(../images/dailymotion.png) top left no-repeat;
+                    background-size: 25px;
+                    margin-bottom: 5px;
+                    width: 25px; }
+                  body.post-type-envira form#post #poststuff #envira-gallery-settings #envira-tabs #envira-tab-images ul#envira-gallery-output.list li div.additional-list span.envira-video-type.metacafe {
+                    background: url(../images/metacafe.png) top left no-repeat;
+                    background-size: 25px;
+                    margin-bottom: 5px;
+                    width: 25px; }
+                  body.post-type-envira form#post #poststuff #envira-gallery-settings #envira-tabs #envira-tab-images ul#envira-gallery-output.list li div.additional-list span.envira-video-type.facebook {
+                    background: url(../images/facebook.png) top left no-repeat;
+                    background-size: 25px;
+                    margin-bottom: 5px;
+                    width: 25px; }
+                  body.post-type-envira form#post #poststuff #envira-gallery-settings #envira-tabs #envira-tab-images ul#envira-gallery-output.list li div.additional-list span.envira-video-type.videopress {
+                    background: url(../images/videopress.png) top left no-repeat;
+                    background-size: 25px;
+                    margin-bottom: 5px;
+                    width: 25px; }
+                  body.post-type-envira form#post #poststuff #envira-gallery-settings #envira-tabs #envira-tab-images ul#envira-gallery-output.list li div.additional-list span.envira-video-type.instagram {
+                    background: url(../images/instagram.png) top left no-repeat;
+                    background-size: 25px;
+                    margin-bottom: 5px;
+                    width: 25px; }
+                  body.post-type-envira form#post #poststuff #envira-gallery-settings #envira-tabs #envira-tab-images ul#envira-gallery-output.list li div.additional-list span.envira-video-type.self-hosted {
+                    background: url(../images/self-hosted.svg) top left no-repeat;
+                    background-size: 50px; }

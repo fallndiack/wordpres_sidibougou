@@ -1,0 +1,295 @@
+# Copyright (C) 2016 Envira Gallery - Featured Content Addon
+# This file is distributed under the same license as the Envira Gallery - Featured Content Addon package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Envira Gallery - Featured Content Addon 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/envira-featured-"
+"content\n"
+"POT-Creation-Date: 2016-06-26 12:07+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-06-26 19:04+0200\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.8\n"
+"Last-Translator: José Luis Pérez-Lozana <joseluis.perez.lozana@gmail.com>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_ES\n"
+
+#: includes/admin/metaboxes.php:119
+msgid "Featured Content"
+msgstr "Contenido destacado"
+
+#: includes/admin/metaboxes.php:138
+msgid "Gallery Settings"
+msgstr "Ajustes de la galería"
+
+#: includes/admin/metaboxes.php:140
+msgid ""
+"The settings below adjust the featured content options on your Gallery "
+"output."
+msgstr ""
+"Los siguientes ajustes configuran las opciones de contenido destacado en la "
+"visualización de la galería."
+
+#: includes/admin/metaboxes.php:142
+msgid "Need some help?"
+msgstr "¿Necesita ayuda?"
+
+#: includes/admin/metaboxes.php:144
+msgid "Read the Documentation"
+msgstr "Lea la documentación"
+
+#: includes/admin/metaboxes.php:148
+msgid "Watch a Video"
+msgstr "vea el video"
+
+#: includes/admin/metaboxes.php:156
+msgid "Query Settings"
+msgstr "Configuración de la consulta"
+
+#: includes/admin/metaboxes.php:160
+msgid "Select Your Post Type(s)"
+msgstr "Seleccione su(s) tipo(s) de entrada(s)"
+
+#: includes/admin/metaboxes.php:163
+msgid "Select post type(s) to query (defaults to post)..."
+msgstr ""
+"Seleccione el(los) tipo(s) de entrada(s) que desea consultar (por defecto, "
+"entrada)..."
+
+#: includes/admin/metaboxes.php:176
+msgid "Determines the post types to query."
+msgstr "Determina los tipos de entradas que consultar."
+
+#: includes/admin/metaboxes.php:181
+msgid "Select Your Taxonomy Term(s)"
+msgstr "Seleccione los Término (s) de taxonomía "
+
+#: includes/admin/metaboxes.php:184
+msgid "Select taxonomy terms(s) to query (defaults to none)..."
+msgstr ""
+"Seleccione el(los) termino(s) de taxonomía(s) que desea consultar (por "
+"defecto, ninguno)..."
+
+#: includes/admin/metaboxes.php:201
+msgid ""
+"Determines the taxonomy terms that should be queried based on post type "
+"selection."
+msgstr ""
+"Determina los términos de la taxonomía que se consultarían basándose en la "
+"selección del tipo de entrada."
+
+#: includes/admin/metaboxes.php:206
+msgid "Taxonomy Term(s) Relation"
+msgstr "Relación de termino(s) de taxonomía(s)"
+
+#: includes/admin/metaboxes.php:218
+msgid ""
+"Determines whether all or any taxonomy terms must be present in the above "
+"Posts."
+msgstr ""
+"Determina si todos o cualquiera de los términos de taxonomía deben estar "
+"presentes en las entradas de arriba."
+
+#: includes/admin/metaboxes.php:223
+msgid "Only add the Selected Post(s):"
+msgstr "Sólo añadir la(s) entrada(s) seleccionada(s):"
+
+#: includes/admin/metaboxes.php:227 includes/admin/metaboxes.php:254
+msgid "Make your selection (defaults to none)..."
+msgstr "Haga su selección (por defecto, ninguno)..."
+
+#: includes/admin/metaboxes.php:245
+msgid "Will include only the selected post(s)."
+msgstr "Incluirá sólo la(s) entrada(s) seleccionada(s)."
+
+#: includes/admin/metaboxes.php:250
+msgid "Exclude Selected Post(s):"
+msgstr "Excluir la(s) entrada(s) seleccionada(s)"
+
+#: includes/admin/metaboxes.php:271
+msgid "Will exclude the selected post(s) from inclusion in the Gallery."
+msgstr ""
+"Excluirá la(s) entrada(s) seleccionada(s) de la inclusión en la galería."
+
+#: includes/admin/metaboxes.php:276
+msgid "Include Sticky Posts"
+msgstr "Incluir entradas sticky"
+
+#: includes/admin/metaboxes.php:280
+msgid ""
+"If enabled, forces any Posts that are marked as Sticky to be at the start of "
+"the resultset. If disabled, Sticky Posts are treated as ordinary Posts, and "
+"will only appear if they meet the other criteria set above and below."
+msgstr ""
+"Si se activa, obliga a las entradas marcadas como Sticky a ponerse al "
+"principio del conjunto de resultados. Sise desactiva, las entradas Sticky se "
+"tratan como mensajes ordinarios y sólo aparecerán si cumplen los demás "
+"criterios establecidos tanto arriba como abajo."
+
+#: includes/admin/metaboxes.php:285
+msgid "Sort Posts By"
+msgstr "Clasificar entradas por"
+
+#: includes/admin/metaboxes.php:294
+msgid "Determines how the posts are sorted in the gallery."
+msgstr "Determina cómo se clasifican los mensajes en la galería."
+
+#: includes/admin/metaboxes.php:299
+msgid "Meta Key"
+msgstr "Meta clave"
+
+#: includes/admin/metaboxes.php:303
+msgid ""
+"The meta key to use when ordering Posts. Used when Sort Posts By = Meta Value"
+msgstr ""
+" meta clave para usar al ordenar las entradas. Se utiliza cuando se ordenan "
+"las entradas por = Valor Meta"
+
+#: includes/admin/metaboxes.php:308
+msgid "Order Posts By"
+msgstr "Ordenar entradas por"
+
+#: includes/admin/metaboxes.php:317
+msgid "Determines how the posts are ordered in the gallery."
+msgstr "Determina cómo se clasifican los mensajes en la galería."
+
+#: includes/admin/metaboxes.php:322
+msgid "Number of Posts"
+msgstr "Número de entradas"
+
+#: includes/admin/metaboxes.php:326
+msgid "The number of posts in your Featured Content gallery."
+msgstr "Número de entradas en su galería de contenido destacado."
+
+#: includes/admin/metaboxes.php:331
+msgid "Posts Offset"
+msgstr "Mensajes Offset"
+
+#: includes/admin/metaboxes.php:335
+msgid "The number of posts to offset in the query."
+msgstr "El número de entradas para compensar en la consulta."
+
+#: includes/admin/metaboxes.php:340
+msgid "Post Status"
+msgstr "Estatus de la entrada"
+
+#: includes/admin/metaboxes.php:350
+msgid "Determines the post status to use for the query."
+msgstr "Determina el estatus de la entrada que se usará en la consulta."
+
+#: includes/admin/metaboxes.php:356
+msgid "Content Settings"
+msgstr "Ajustes de contenido"
+
+#: includes/admin/metaboxes.php:360
+msgid "Link Image to Post URL?"
+msgstr "¿Enlazar una imagen a la URL de la entrada?"
+
+#: includes/admin/metaboxes.php:364
+msgid "Links to the image to the post URL."
+msgstr "Enlaza una imagen a la URL de la entrada"
+
+#: includes/admin/metaboxes.php:369
+msgid "Fallback Image URL"
+msgstr "URL de imagen alternativa"
+
+#: includes/admin/metaboxes.php:373
+msgid "This image URL is used if no image URL can be found for a post."
+msgstr ""
+"Esta URL de imagen se utilizará si no hay URL de imagen para esta entrada."
+
+#: includes/admin/metaboxes.php:401
+msgid "Featured Content Gallery Preview"
+msgstr "Vista previa de la galería de contenido destacado "
+
+#: includes/global/common.php:136
+msgid "Posts must have ALL of the above taxonomy terms (AND)"
+msgstr ""
+"las entradas deberán tener TODOS los términos de taxonomía de arriba (AND)"
+
+#: includes/global/common.php:137
+msgid "Posts must have ANY of the above taxonomy terms (IN)"
+msgstr "Las entradas deberán tener ALGÚN termino  de taxonomía de arriba (IN)"
+
+#: includes/global/common.php:158
+msgid "Date"
+msgstr "Fecha"
+
+#: includes/global/common.php:162
+msgid "ID"
+msgstr "ID"
+
+#: includes/global/common.php:166
+msgid "Author"
+msgstr "Autor"
+
+#: includes/global/common.php:170
+msgid "Title"
+msgstr "Título"
+
+#: includes/global/common.php:174
+msgid "Menu Order"
+msgstr "Orden del menú"
+
+#: includes/global/common.php:178
+msgid "Random"
+msgstr "Random"
+
+#: includes/global/common.php:182
+msgid "Comment Count"
+msgstr "Contador de comentarios"
+
+#: includes/global/common.php:186
+msgid "Post Name"
+msgstr "Nombre de la entrada"
+
+#: includes/global/common.php:190
+msgid "Modified Date"
+msgstr "Fecha de modificación"
+
+#: includes/global/common.php:194
+msgid "Meta Value"
+msgstr "Meta valor"
+
+#: includes/global/common.php:198
+msgid "Meta Value (Numeric)"
+msgstr "Meta valor (numérico)"
+
+#: includes/global/common.php:218
+msgid "Descending Order"
+msgstr "Orden descendente"
+
+#: includes/global/common.php:222
+msgid "Ascending Order"
+msgstr "Orden ascendente"
+
+#: includes/global/common.php:256
+msgid "No Content"
+msgstr "Sin comentarios"
+
+#: includes/global/common.php:260
+msgid "Post Content"
+msgstr "Contenido de la emtrada"
+
+#: includes/global/common.php:264
+msgid "Post Excerpt"
+msgstr "Extracto de la entrada"
+
+#. Plugin Name of the plugin/theme
+msgid "Envira Gallery - Featured Content Addon"
+msgstr "Envira Gallery - Complemento Featured Content"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://enviragallery.com"
+msgstr "http://enviragallery.com"
+
+#. Description of the plugin/theme
+msgid "Enables featured content galleries in Envira."
+msgstr "Activa galerías de contenido destacado en Envira."
+
+#. Author of the plugin/theme
+msgid "Envira Gallery Team"
+msgstr "El equipo de Envira Gallery"

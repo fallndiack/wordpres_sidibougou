@@ -1,0 +1,154 @@
+# Copyright (C) 2016 Envira Gallery - Dropbox Importer Addon
+# This file is distributed under the same license as the Envira Gallery - Dropbox Importer Addon package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Envira Gallery - Dropbox Importer Addon 1.1.7.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/envira-dropbox-"
+"importer\n"
+"POT-Creation-Date: 2016-11-22 17:33+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-11-25 16:31+0100\n"
+"Language-Team: mm-design.ch <info@mm-design.ch>\n"
+"X-Generator: Poedit 1.8.11\n"
+"Last-Translator: Rolf Müri - mm-design <rolf.mueri@mm-design.ch>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de_DE\n"
+"X-Poedit-Basepath: D:/xampp/apps/wordpress/htdocs/wp-content/plugins/envira-"
+"dropbox-importer\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/admin/ajax.php:142
+msgid "No images or Gallery ID were specified"
+msgstr "Keine Videos oder keine Galerie-ID angegeben"
+
+#: includes/admin/dropbox.php:133 includes/admin/dropbox.php:175
+#: includes/admin/dropbox.php:350
+msgid ""
+"You need to authorise Envira Gallery to access your Dropbox account. Do this "
+"through Envira Gallery > Settings > Dropbox."
+msgstr ""
+"Du musst Envira Galerie authorisieren um auf Dein Dropbox Konto zugreifen zu "
+"können. Dies erfolgt über Envira Galerie > Einstellungen > Dropbox."
+
+#: includes/admin/dropbox.php:147 includes/admin/dropbox.php:189
+msgid "No Results found"
+msgstr "Кeine Ergebnisse gefunden"
+
+#: includes/admin/media-view.php:86
+msgid "Insert from Dropbox"
+msgstr "Von Dropbox einfügen"
+
+#: includes/admin/media-view.php:104
+msgid "Helpful Tips"
+msgstr "Hilfreiche Tipps"
+
+#: includes/admin/media-view.php:105
+msgid "Importing Dropbox Images"
+msgstr "Dropbox-Bilder werden importiert"
+
+#: includes/admin/media-view.php:107
+msgid ""
+"Select the images you would like to import into your Envira Gallery.  You "
+"can also click on individual folders to then choose images within those "
+"folders."
+msgstr ""
+"Wähle die Bilder aus, die Du in Deiner Envira Galerie importieren möchtest. "
+"Du kannst auch auf einzelne Ordner klicken und dann Bilder aus diesem Ordner "
+"auswählen."
+
+#: includes/admin/media-view.php:110
+msgid ""
+"Once you have selected your images, click on the <i>Insert into Gallery</i> "
+"button.  Envira will then download these images and store them in this "
+"Gallery."
+msgstr ""
+"Nachdem Du deine Bilder ausgewählt hast, klickst Du auf die Schaltfläche \" "
+"<i>In Galerie einfügen</i> \".  Envira wird dann diese Bilder herunterladen "
+"und sie in dieser Galerie speichern."
+
+#: includes/admin/settings.php:72
+msgid ""
+"Are you sure you want to unlink your Dropbox account? Existing images will "
+"not be affected, but you won't be able to import Dropbox images until you re-"
+"link your account."
+msgstr ""
+"Bist Du sicher, dass Du die Verbindung zu Deinem Dropbox-Konto aufheben "
+"möchtest? Vorhandene Bilder bleiben hiervon unberührt, aber Du kannst keine "
+"weiteren Dropbox-Bilder mehr importieren, bis Du Dein Konto erneut verknüpft "
+"hast."
+
+#: includes/admin/settings.php:88
+msgid "Dropbox"
+msgstr "Dropbox"
+
+#: includes/admin/settings.php:135
+msgid "Authenticated"
+msgstr "Authentifiziert"
+
+#: includes/admin/settings.php:140
+msgid "Thanks - you've successfully authenticated with the Dropbox account "
+msgstr "Vielen Dank - Du hast dich erfolgreich beim Dropbox Konto angemeldet."
+
+#: includes/admin/settings.php:152 includes/admin/settings.php:171
+msgid ""
+"Dropbox encountered an error while trying to initialize: <strong>%s</strong>"
+msgstr ""
+"Beim Initialisieren der Dropbox ist ein Fehler aufgetreten: <strong>%s</"
+"strong>"
+
+#: includes/admin/settings.php:163
+msgid "Unlink Dropbox Account"
+msgstr "Dropbox-Verbindung lösen"
+
+#: includes/admin/settings.php:180
+msgid "Code"
+msgstr "Code"
+
+#: includes/admin/settings.php:184
+msgid "Get Code"
+msgstr "Code holen"
+
+#: includes/admin/settings.php:186
+msgid "Enter the code on the Dropbox authorization screen."
+msgstr "Gib den Code auf dem Dropbox-Autorisierung-Bildschirm ein."
+
+#: includes/admin/settings.php:191
+msgid "Save"
+msgstr "Speichern"
+
+#: includes/admin/settings.php:273
+msgid "The nonce field is invalid."
+msgstr "Das Feld ist ungültig."
+
+#: includes/admin/settings.php:288
+msgid "The Dropbox code is invalid."
+msgstr "Der Dropbox-Code ist ungültig."
+
+#: includes/admin/settings.php:303
+msgid "Dropbox settings updated successfully!"
+msgstr "Dropbox-Einstellungen wurden erfolgreich aktualisiert!"
+
+#: includes/admin/settings.php:318
+msgid "Dropbox account unlinked."
+msgstr "Verbindung zum Dropbox-Konto aufgehoben."
+
+#. Plugin Name of the plugin/theme
+msgid "Envira Gallery - Dropbox Importer Addon"
+msgstr "Envira Gallery - Dropbox Import Erweiterung"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://enviragallery.com"
+msgstr "http://enviragallery.com"
+
+#. Description of the plugin/theme
+msgid "Enables Dropbox image importing directly into Envira Galleries"
+msgstr ""
+"Ermöglicht es, Bilder aus der Dropbox direkt in Envira Galerien zu "
+"importieren"
+
+#. Author of the plugin/theme
+msgid "Envira Gallery Team"
+msgstr "Envira Gallery Team"

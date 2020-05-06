@@ -1,0 +1,327 @@
+# Copyright (C) 2017 Envira Gallery - Videos Addon
+# This file is distributed under the same license as the Envira Gallery - Videos Addon package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Envira Gallery - Videos Addon 1.2.9.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/envira-videos\n"
+"POT-Creation-Date: 2018-06-03 13:17+0200\n"
+"PO-Revision-Date: 2018-06-03 18:09+0200\n"
+"Last-Translator: Frédéric Chamsseddine <contact@shemzone.com>\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: includes/admin/ajax.php:71
+msgid "No video URL was defined"
+msgstr "Aucune URL de vidéo n'a été spécifiée"
+
+#: includes/admin/ajax.php:124
+msgid "No videos or Gallery ID were specified"
+msgstr "Aucune vidéo ou d'identifiant de galerie spécifié"
+
+#: includes/admin/ajax.php:197 includes/admin/ajax.php:201
+#, php-format
+msgid "Video #%s Image Error: %s"
+msgstr "Vidéo #%s Image erreur : %s"
+
+#: includes/admin/media-view.php:105
+msgid "Insert Videos"
+msgstr "Insérer des vidéos"
+
+#: includes/admin/media-view.php:106
+msgid ""
+"Please ensure all required fields are specified for each video you want to "
+"add to the Gallery."
+msgstr ""
+"Veuillez vous assurer que tous les champs requis sont spécifiés pour chaque "
+"vidéo que vous souhaitez ajouter à la galerie."
+
+#: includes/admin/media-view.php:130
+msgid "Add Video"
+msgstr "Ajouter une vidéo"
+
+#: includes/admin/media-view.php:142
+msgid "Helpful Tips"
+msgstr "Conseils utiles"
+
+#: includes/admin/media-view.php:143
+msgid "Creating Video Items"
+msgstr "Création des éléments vidéo"
+
+#: includes/admin/media-view.php:144
+msgid ""
+"The image for each video is automatically created from the video link you "
+"supply. Video links can be from either YouTube, Vimeo, Wistia or locally "
+"hosted video files. They <strong>must</strong> follow one of the formats "
+"listed below:"
+msgstr ""
+"L’image de chaque vidéo est automatiquement créée depuis le lien vidéo que "
+"vous fournissez. Les liens vidéo peuvent provenir de Youtube, de Vimeon de "
+"Wistia ou de fichiers vidéos hébergés en local. Ils <strong>doivent</strong> "
+"correspondrent à l’un des formats listés ci-dessous :"
+
+#: includes/admin/media-view.php:147
+msgid "YouTube URLs"
+msgstr "URL YouTube"
+
+#: includes/admin/media-view.php:156
+msgid "Vimeo URLs"
+msgstr "URLVimeo"
+
+#: includes/admin/media-view.php:161
+msgid "Wistia URLs"
+msgstr "URL Wistia"
+
+#: includes/admin/media-view.php:167
+msgid "Local URLs"
+msgstr "URL locales"
+
+#: includes/admin/media-view.php:202
+msgid "Remove"
+msgstr "Supprimer"
+
+#: includes/admin/media-view.php:207
+msgid "Title *"
+msgstr "Titre *"
+
+#: includes/admin/media-view.php:215
+msgid "Video URL *"
+msgstr "URL de la vidéo *"
+
+#: includes/admin/media-view.php:223
+msgid "Image URL *"
+msgstr "URL de l'image *"
+
+#: includes/admin/media-view.php:226
+msgid "Required if specifying a local video URL."
+msgstr "Nécessaire si vous spécifiez une URL vidéo locale."
+
+#: includes/admin/media-view.php:232
+msgid "Caption"
+msgstr "Légende"
+
+#: includes/admin/media-view.php:240
+msgid "Alt Text"
+msgstr "Alternative textuelle"
+
+#: includes/admin/media-view.php:254
+msgid "Is 16:9 Video?"
+msgstr "Est-ce que la vidéo est au  format 16:9 ?"
+
+#: includes/admin/media-view.php:257
+msgid ""
+"If this video is in 16:9 aspect ratio, check this option to ensure the video "
+"displays without black bars in the Lightbox view."
+msgstr ""
+"Si cette vidéo est au format 16:9, cochez cette option pour éviter que la "
+"vidéo affiche des barres noires dans la Lightbox."
+
+#: includes/admin/media-view.php:262
+msgid "Video Width"
+msgstr "Largeur de la vidéo"
+
+#: includes/admin/media-view.php:265
+msgid ""
+"For videos that don't display the dimensions properly, you can set the width "
+"here."
+msgstr ""
+"Pour les vidéos qui n’affichent pas correctement les dimensions, vous pouvez "
+"définir la largeur ici."
+
+#: includes/admin/media-view.php:269
+msgid "Video Height"
+msgstr "Hauteur de la vidéo"
+
+#: includes/admin/media-view.php:272
+msgid ""
+"For videos that don't display the dimensions properly, you can set the "
+"height here."
+msgstr ""
+"Pour les vidéos qui n’affichent pas correctement les dimensions, vous pouvez "
+"définir la hauteur ici."
+
+#: includes/admin/media-view.php:277
+msgid "Display Video in Gallery?"
+msgstr "Affichage vidéo dans la galerie ?"
+
+#: includes/admin/media-view.php:280
+msgid ""
+"If this media item's URL is a self-hosted, Youtube, Vimeo or Wistia video, "
+"you can check this option to display the video in the gallery grid, instead "
+"of displaying the placeholder image."
+msgstr ""
+"Si l’URL de l’élément de ce média est une vidéo auto-hébergée, Youtube, "
+"Vimeo ou Wistia, vous pouvez cocher cette option pour afficher la vidéo dans "
+"la grille de la galerie, au lieu d'afficher l’image d’espace réservé."
+
+#: includes/admin/media-view.php:285
+msgid "Video Thumbnail"
+msgstr "Miniatures Vidéo"
+
+#: includes/admin/media-view.php:289
+msgid "Upload Media"
+msgstr "Téléverser un fichier"
+
+#: includes/admin/media-view.php:294
+msgid ""
+"If you wish to override auto-generated thumbnails from YouTube or Vimeo, "
+"upload it here."
+msgstr ""
+"Si vous souhaitez remplacer les miniatures générées automatiquement par "
+"YouTube ou Vimeo, téléversez-les ici."
+
+#: includes/admin/metaboxes.php:124
+msgid "Videos"
+msgstr "Vidéos"
+
+#: includes/admin/metaboxes.php:161
+msgid "Video Lightbox Settings"
+msgstr "Paramètres vidéo Lightbox"
+
+#: includes/admin/metaboxes.php:163
+msgid "The settings below adjust the Video options for the Lightbox output."
+msgstr ""
+"Les paramètres ci-dessous règlent les options de vidéo dans la Lightbox."
+
+#: includes/admin/metaboxes.php:165
+msgid "Need some help?"
+msgstr "Besoin d’aide ?"
+
+#: includes/admin/metaboxes.php:167
+msgid "Read the Documentation"
+msgstr "Lire la documentation"
+
+#: includes/admin/metaboxes.php:171
+msgid "Watch a Video"
+msgstr "Visionner une vidéo"
+
+#: includes/admin/metaboxes.php:188
+msgid "Display Play Icon over Gallery Image?"
+msgstr "Affichage icône de lecture sur l’image de la galerie ?"
+
+#: includes/admin/metaboxes.php:192
+msgid ""
+"Display a Play Icon over a Gallery Image which is linked to a Video, to make "
+"it clear to the user that it is a video. Setting does not apply if an "
+"individual image has the &quot;Display Video in Gallery&quot; option enabled."
+msgstr ""
+"Afficher une icône de lecture sur une Image de la galerie qui est liée à une "
+"vidéo, pour faire comprendre à l’utilisateur qu’il s’agit d’une vidéo. Ce "
+"paramètre ne s’applique pas l’option « Affichage vidéo dans la galerie » est "
+"activée sur une image individuellement."
+
+#: includes/admin/metaboxes.php:200
+msgid "Autoplay Videos?"
+msgstr "Lecture automatique des vidéos ?"
+
+#: includes/admin/metaboxes.php:204
+msgid ""
+"(All): Automatically begins playback of videos when they are displayed in "
+"the Lightbox view."
+msgstr ""
+"(Tous) : démarre automatiquement la lecture des vidéos dès qu'elles sont "
+"affichées dans la Lightbox."
+
+#: includes/admin/metaboxes.php:210
+msgid "Force Larger Videos?"
+msgstr "Forcer les vidéos en grand format ?"
+
+#: includes/admin/metaboxes.php:214
+msgid ""
+"(YouTube, Vimeo, Wistia): Enlarge video to full screen instead of original "
+"size."
+msgstr ""
+"(YouTube, Vimeo, Wistia) : agrandir la vidéo en plein écran au lieu de la "
+"taille d’origine."
+
+#: includes/admin/metaboxes.php:220
+msgid "Show Play/Pause Controls?"
+msgstr "Afficher les commandes de Lecture/Pause ?"
+
+#: includes/admin/metaboxes.php:224
+msgid ""
+"(YouTube, Wistia, Self Hosted): Display play and pause controls on videos in "
+"the Lightbox view."
+msgstr ""
+"(YouTube, Wistia, auto-hébergé) : afficher les commandes de Lecture/Pause "
+"sur la vidéo dans la Lightbox."
+
+#: includes/admin/metaboxes.php:230
+msgid "Show Progress Bar?"
+msgstr "Afficher la barre de progression ?"
+
+#: includes/admin/metaboxes.php:234
+msgid ""
+"(Wistia, Self Hosted): Display the progress bar on videos in the Lightbox "
+"view."
+msgstr ""
+"(Wistia, auto-hebergé) : afficher la barre de progression sur les vidéos "
+"dans la Lightbox."
+
+#: includes/admin/metaboxes.php:240
+msgid "Show Current Time?"
+msgstr "Afficher le temps de lecture ?"
+
+#: includes/admin/metaboxes.php:244
+msgid ""
+"(Self Hosted): Display the current playback time on videos in the Lightbox "
+"view."
+msgstr ""
+"(Auto-hebergé) : affiche le temps de lecture sur les vidéos dans la Lightbox."
+
+#: includes/admin/metaboxes.php:250
+msgid "Show Video Length?"
+msgstr "Durée de la vidéo ?"
+
+#: includes/admin/metaboxes.php:254
+msgid "(Self Hosted): Display the video length on videos in the Lightbox view."
+msgstr ""
+"(Auto-hebergé) : affiche la durée de la vidéo sur les vidéos dans la "
+"Lightbox."
+
+#: includes/admin/metaboxes.php:260
+msgid "Enable Volume Controls?"
+msgstr "Activer les contrôles de volume ?"
+
+#: includes/admin/metaboxes.php:264
+msgid ""
+"(Wistia, Self Hosted): Display the volume controls on videos in the Lightbox "
+"view."
+msgstr ""
+"(Wistia, auto-hébergé) : afficher les commandes de volume sur les vidéos en "
+"mode Lightbox."
+
+#: includes/global/shortcode.php:188 includes/global/shortcode.php:190
+msgid "Play"
+msgstr "Lecture"
+
+#. Plugin Name of the plugin/theme
+msgid "Envira Gallery - Videos Addon"
+msgstr "Envira Gallery - Videos Addon"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://enviragallery.com"
+msgstr "http://enviragallery.com"
+
+#. Description of the plugin/theme
+msgid ""
+"Displays Youtube, Vimeo, Wistia or self-hosted videos in Lightbox views for "
+"Envira galleries"
+msgstr ""
+"Affiche des vidéos issues de Youtube, Vimeo, Wistia ou des vidéos auto-"
+"hébergé dans la Lightbox pour les galeries de Envira"
+
+#. Author of the plugin/theme
+msgid "Envira Gallery Team"
+msgstr "Équipe de Envira Gallery"
+
+#~ msgid ""
+#~ "(YouTube, Wistia): Enlarge video to full screen instead of oringial size."
+#~ msgstr ""
+#~ "(YouTube, Wistia) : agrandit la vidéo en plein écran au lieu de la taille "
+#~ "d’originale."

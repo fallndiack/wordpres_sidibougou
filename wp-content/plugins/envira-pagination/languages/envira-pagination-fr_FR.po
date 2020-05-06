@@ -1,0 +1,263 @@
+# Copyright (C) 2017 Envira Gallery - Pagination Addon
+# This file is distributed under the same license as the Envira Gallery - Pagination Addon package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Envira Gallery - Pagination Addon 1.4.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/envira-"
+"pagination\n"
+"POT-Creation-Date: 2018-06-03 13:14+0200\n"
+"PO-Revision-Date: 2018-06-03 17:45+0200\n"
+"Last-Translator: Frédéric Chamsseddine <contact@shemzone.com>\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: includes/admin/metaboxes.php:91
+msgid "Above Images"
+msgstr "Au-dessus des images"
+
+#: includes/admin/metaboxes.php:95
+msgid "Below Images"
+msgstr "Au-dessous des images"
+
+#: includes/admin/metaboxes.php:99
+msgid "Above and Below Images"
+msgstr "Au-dessus et au-dessous des Images"
+
+#: includes/admin/metaboxes.php:119
+msgid "Previous/Next + Numbered"
+msgstr "Précédent/Suivant + numérotés"
+
+#: includes/admin/metaboxes.php:123
+msgid "Numbered"
+msgstr "Numéroté"
+
+#: includes/admin/metaboxes.php:127
+msgid "Previous/Next"
+msgstr "Précédent / Suivant"
+
+#: includes/admin/metaboxes.php:146 includes/admin/metaboxes.php:391
+msgid "Pagination"
+msgstr "Pagination"
+
+#: includes/admin/metaboxes.php:170 includes/admin/metaboxes.php:376
+msgid "Images"
+msgstr "Images"
+
+#: includes/admin/metaboxes.php:179 includes/admin/metaboxes.php:385
+msgid "Galleries"
+msgstr "Galeries"
+
+#: includes/admin/metaboxes.php:186
+msgid "Pagination Album Settings"
+msgstr "Paramètres de pagination des albums"
+
+#: includes/admin/metaboxes.php:188
+msgid "Pagination Gallery Settings"
+msgstr "Paramètres de pagination des galeries"
+
+#: includes/admin/metaboxes.php:191
+msgid ""
+"The settings below adjust the Pagination options for the Gallery output."
+msgstr ""
+"Les paramètres ci-dessous réglent les options de pagination pour l'affichage "
+"de la galerie."
+
+#: includes/admin/metaboxes.php:193
+msgid "Need some help?"
+msgstr "Besoin d’aide ?"
+
+#: includes/admin/metaboxes.php:195
+msgid "Read the Documentation"
+msgstr "Lire la documentation"
+
+#: includes/admin/metaboxes.php:199
+msgid "Watch a Video"
+msgstr "Regarder une vidéo"
+
+#: includes/admin/metaboxes.php:207
+msgid "Enable Pagination?"
+msgstr "Activer la pagination"
+
+#: includes/admin/metaboxes.php:211
+msgid "Enables or disables Pagination."
+msgstr "Active ou désactive la pagination."
+
+#: includes/admin/metaboxes.php:217
+msgid "Pagination Position"
+msgstr "Emplacement de la pagination"
+
+#: includes/admin/metaboxes.php:229
+msgid "Choose where to display Pagination."
+msgstr "Choisissez l’emplacement des contrôles de pagination."
+
+#: includes/admin/metaboxes.php:234
+#, php-format
+msgid "%s per Page"
+msgstr "%s par page"
+
+#: includes/admin/metaboxes.php:238 includes/admin/metaboxes.php:400
+#, php-format
+msgid "The number of %s to display on each page."
+msgstr "Le nombre de %s à afficher sur chaque page."
+
+#: includes/admin/metaboxes.php:243
+msgid "Display Which Links?"
+msgstr "Afficher quels liens ?"
+
+#: includes/admin/metaboxes.php:259
+msgid "Choose which kinds of pagination links to display."
+msgstr "Choisir quels types de liens de pagination à afficher."
+
+#: includes/admin/metaboxes.php:266
+msgid "Previous Link Label"
+msgstr "Intitulé du lien précédent"
+
+#: includes/admin/metaboxes.php:270
+msgid "The text to display when the Previous Link is displayed."
+msgstr "Le texte à afficher lorsque le lien précédent est affiché."
+
+#: includes/admin/metaboxes.php:276
+msgid "Next Link Label"
+msgstr "Intitulé du lien suivant"
+
+#: includes/admin/metaboxes.php:280
+msgid "The text to display when the Next Link is displayed."
+msgstr "Le texte à afficher lorsque le lien suivant est affiché."
+
+#: includes/admin/metaboxes.php:286
+msgid "Scroll to Gallery?"
+msgstr "Faites défiler jusqu'à la galerie ?"
+
+#: includes/admin/metaboxes.php:290
+msgid "If enabled, scrolls / jumps to the gallery when the pagination is used."
+msgstr ""
+"Si activé, défile/saute à la galerie lorsque la pagination est utilisée."
+
+#: includes/admin/metaboxes.php:296
+msgid "Load Paginated Items"
+msgstr "Charger les articles paginés"
+
+#: includes/admin/metaboxes.php:309
+msgid ""
+"Defines how the next page(s) of images should be loaded when the user "
+"interacts with the Gallery."
+msgstr ""
+"Définit comment les prochaines pages d’images doivent être chargés lorsque "
+"l’utilisateur interagit avec la galerie."
+
+#: includes/admin/metaboxes.php:315
+msgid "Button Label"
+msgstr "Intitulé du bouton"
+
+#: includes/admin/metaboxes.php:319
+msgid "The text to display on the button that loads additional images."
+msgstr ""
+"Le texte à afficher sur le bouton pour charger des images supplémentaires."
+
+#: includes/admin/metaboxes.php:331
+msgid "Pagination Lightbox Settings"
+msgstr "Paramètres de pagination Lightbox"
+
+#: includes/admin/metaboxes.php:333
+msgid ""
+"The settings below adjust the Pagination options for the Lightbox output."
+msgstr ""
+"Les paramètres ci-dessous règlent les options de pagination pour l'affichage "
+"d'un album."
+
+#: includes/admin/metaboxes.php:340
+msgid "Display all images in Lightbox?"
+msgstr "Afficher toutes les images dans une Lightbox ?"
+
+#: includes/admin/metaboxes.php:344
+msgid ""
+"If checked, all Gallery images will be accessible in the Lightbox view, "
+"regardless of which paginated images are displayed in the Gallery view."
+msgstr ""
+"Si activé, toutes les images de la galerie sera accessibles dans la "
+"Lightbox, indépendamment des images paginées affichées dans la vue de la "
+"galerie."
+
+#: includes/admin/metaboxes.php:396
+#, php-format
+msgid "%s per Page?"
+msgstr "%s par page ?"
+
+#: includes/admin/metaboxes.php:405
+msgid "Display Previous and Next Links?"
+msgstr "Afficher les liens précédents et suivants ?"
+
+#: includes/admin/metaboxes.php:421
+msgid "Choose which kinds of pagination links to display on mobile."
+msgstr "Choisir quels types de liens de pagination à afficher sur mobile."
+
+#: includes/global/ajax.php:90
+msgid "No Gallery or Album ID Specifieddddddddddddd."
+msgstr "Aucun identifiant de galerie ou d'album spécifié."
+
+#: includes/global/ajax.php:93 includes/global/ajax.php:342
+msgid "No page parameter specified."
+msgstr "Aucun paramètre de page spécifié."
+
+#: includes/global/ajax.php:96 includes/global/ajax.php:345
+msgid "No type parameter specified."
+msgstr "Aucun paramètre de type spécifié."
+
+#: includes/global/ajax.php:339
+msgid "No Gallery or Album ID Specified.xxxxxxxxx"
+msgstr "Aucun identifiant de galerie ou d'album spécifié."
+
+#: includes/global/common.php:72
+msgid "« Previous"
+msgstr "« Précédent"
+
+#: includes/global/common.php:73
+msgid "Next »"
+msgstr "Suivant »"
+
+#: includes/global/common.php:76 includes/global/shortcode.php:687
+#: includes/global/shortcode.php:826
+msgid "Load More"
+msgstr "Afficher plus"
+
+#: includes/global/common.php:122
+msgid "On Pagination Click, reloading Page"
+msgstr "Sur clic de pagination, rechargement de page"
+
+#: includes/global/common.php:123
+msgid "On Scroll (Lazy Loading)"
+msgstr "Sur défilement (chargement différé)"
+
+#: includes/global/common.php:124
+msgid "On Pagination Click (AJAX)"
+msgstr "Au clic de pagination (AJAX)"
+
+#: includes/global/common.php:125
+msgid "On Button Click (AJAX)"
+msgstr "Sur clic sur un bouton (AJAX)"
+
+#. Plugin Name of the plugin/theme
+msgid "Envira Gallery - Pagination Addon"
+msgstr "Envira Gallery - Pagination Addon"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://enviragallery.com"
+msgstr "http://enviragallery.com"
+
+#. Description of the plugin/theme
+msgid "Enables pagination capabilities for Envira galleries and albums."
+msgstr ""
+"Active les fonctionnalités de pagination pour les galeries et albums Envira "
+
+#. Author of the plugin/theme
+msgid "Envira Gallery Team"
+msgstr "Équipe de Envira Gallery"
+
+#~ msgid "No Gallery or Album ID Specified."
+#~ msgstr "Aucun identifiant de galerie ou d'album spécifié."

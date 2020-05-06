@@ -1,0 +1,58 @@
+# Copyright (C) 2016 Envira Gallery - CSS Addon
+# This file is distributed under the same license as the Envira Gallery - CSS Addon package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Envira Gallery - CSS Addon 1.0.9\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/envira-css\n"
+"POT-Creation-Date: 2016-11-11 15:59+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-11-25 16:23+0100\n"
+"Language-Team: mm-design.ch <info@mm-design.ch>\n"
+"X-Generator: Poedit 1.8.11\n"
+"Last-Translator: Rolf Müri - mm-design <rolf.mueri@mm-design.ch>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de_CH\n"
+"X-Poedit-Basepath: D:/xampp/apps/wordpress/htdocs/wp-content/plugins/"
+"envira-css\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: envira-css.php:131
+msgid "Custom Gallery CSS"
+msgstr "Benutzerdefinierte CSS-Anweisungen für Envira Galerien"
+
+#: envira-css.php:134 envira-css.php:158
+msgid "e.g. %s"
+msgstr "z.B. %s"
+
+#: envira-css.php:135 envira-css.php:159
+msgid ""
+"All custom CSS for this gallery should start with <code>%s</code>. <a href="
+"\"%s\" title=\"Need help?\" target=\"_blank\">Help?</a>"
+msgstr ""
+"Alle benutzerdefinierten CSS-Anweisungen  für diese Galerie sollten mit "
+"<code>%s</code> beginnen. <a href=\"%s\" title=\"Need help?\" target="
+"\"_blank\">Hilfe notwendig?</a>"
+
+#: envira-css.php:155
+msgid "Custom Album CSS"
+msgstr "Benutzerdefinierte CSS-Anweisungen für Envira Alben"
+
+#. Plugin Name of the plugin/theme
+msgid "Envira Gallery - CSS Addon"
+msgstr "Envira Gallery - CSS Erweiterung"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://enviragallery.com"
+msgstr "http://enviragallery.com"
+
+#. Description of the plugin/theme
+msgid "Enables custom CSS output for Envira galleries."
+msgstr ""
+"Ermöglicht die benutzerdefinierte CSS-Formatierung für Envira Galerien."
+
+#. Author of the plugin/theme
+msgid "Envira Gallery Team"
+msgstr "Envira Gallery Team"

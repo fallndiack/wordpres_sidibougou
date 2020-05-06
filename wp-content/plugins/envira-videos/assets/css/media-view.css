@@ -1,0 +1,227 @@
+/**
+* Media View
+*/
+.attachments-browser.envira-videos {
+  /**
+  * Router Bar
+  */
+  /**
+  * Videos
+  */
+  /**
+  * Sidebar
+  */ }
+  .attachments-browser.envira-videos div.media-toolbar div.media-toolbar-primary button.envira-videos-add {
+    float: right;
+    margin-top: 10px; }
+  .attachments-browser.envira-videos ul.envira-videos-attachments {
+    top: 70px;
+    padding: 2px 20px 20px;
+    /**
+    * Video
+    */ }
+    .attachments-browser.envira-videos ul.envira-videos-attachments li.envira-videos-attachment {
+      width: 100%;
+      background-color: #f1f1f1;
+      border: 1px solid #dddddd;
+      padding: 20px;
+      margin-bottom: 2em;
+      padding-top: 2em; }
+      .attachments-browser.envira-videos ul.envira-videos-attachments li.envira-videos-attachment label {
+        margin-bottom: 5px;
+        margin-top: 10px;
+        width: 100%;
+        display: table;
+        text-align: left; }
+      .attachments-browser.envira-videos ul.envira-videos-attachments li.envira-videos-attachment input[type=text],
+      .attachments-browser.envira-videos ul.envira-videos-attachments li.envira-videos-attachment textarea {
+        width: 100%;
+        clear: both; }
+      .attachments-browser.envira-videos ul.envira-videos-attachments li.envira-videos-attachment div {
+        /* clear: both;
+        width: 100%;
+        margin-bottom: 1em;
+        text-align: left !important; */
+        				/* label {
+        					clear: both;
+        					width: 100%;
+        					text-align: left;
+        
+        					strong {
+        						float: left;
+        						text-align: left;
+        					}
+        				}
+        				input {
+        					clear: both;
+        					width: 100%;
+        				}  */ }
+        .attachments-browser.envira-videos ul.envira-videos-attachments li.envira-videos-attachment div.image {
+          display: none; }
+  .attachments-browser.envira-videos .envira-gallery-accepted-urls {
+    clear: both; }
+    .attachments-browser.envira-videos .envira-gallery-accepted-urls span {
+      display: block; }
+
+[class*=envira-grid-] {
+  float: left;
+  margin-left: 2%; }
+
+.envira-grid-1 {
+  width: 6.5%; }
+
+.envira-grid-2 {
+  width: 15%; }
+
+.envira-grid-3 {
+  width: 23.5%; }
+
+.envira-grid-4 {
+  width: 32%; }
+
+.envira-grid-5 {
+  width: 40.5%; }
+
+.envira-grid-6 {
+  width: 49%; }
+
+.envira-grid-7 {
+  width: 57.5%; }
+
+.envira-grid-8 {
+  width: 66%; }
+
+.envira-grid-9 {
+  width: 74.5%; }
+
+.envira-grid-10 {
+  width: 83%; }
+
+.envira-grid-11 {
+  width: 91.5%; }
+
+.envira-grid-12 {
+  width: 100%; }
+
+.envira-input-group input[type=text],
+.envira-input-group textarea {
+  width: 87%;
+  clear: both; }
+
+.button-envira {
+  background: #ff3700;
+  border-color: #ff3700;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+  text-shadow: none;
+  line-height: 15px;
+  height: 35px;
+  font-size: 13px;
+  padding: 0 20px 1px; }
+  .button-envira:hover {
+    background: #ff3700;
+    border-color: #ff3700;
+    color: white;
+    opacity: .8; }
+
+.button-envira-secondary {
+  background: #f7f7f7;
+  border: 1px solid;
+  border-color: #dddddd;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  color: #23282d;
+  text-decoration: none;
+  text-shadow: none;
+  font-weight: bold;
+  height: 35px;
+  font-size: 13px;
+  padding: 0 20px 1px; }
+  .button-envira-secondary:hover {
+    background: #f7f7f7;
+    border-color: #999999;
+    color: #23282d; }
+
+.button-envira-delete {
+  background: #e3231b;
+  border: 1px solid;
+  border-color: #e3231b;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  color: white;
+  text-decoration: none;
+  text-shadow: none;
+  font-weight: bold;
+  height: 35px;
+  font-size: 13px;
+  padding: 0 20px 1px; }
+  .button-envira-delete:hover {
+    background: #e3231b;
+    color: white;
+    opacity: .8; }
+
+a.button-envira,
+a.button-envira-secondary,
+a.button-envira-delete {
+  line-height: 32px; }
+
+div.header-links {
+  position: absolute;
+  top: 10px;
+  right: 20px; }
+
+div.header-links a {
+  display: inline-block;
+  margin-left: 10px; }
+
+a.envira-item-collapse {
+  top: 10px;
+  right: 20px;
+  font-size: 13px;
+  color: black;
+  font-weight: 600;
+  text-decoration: none; }
+
+a.button-envira-delete {
+  color: #e3231b;
+  text-decoration: none;
+  font-weight: 800; }
+
+.envira-item-setting {
+  clear: both;
+  text-align: left !important;
+  margin-bottom: 15px; }
+  .envira-item-setting .code-title {
+    text-align: left !important; }
+  .envira-item-setting label {
+    clear: both;
+    width: 100%;
+    text-align: left; }
+    .envira-item-setting label strong {
+      text-align: left; }
+  .envira-item-setting .envira-media-button a {
+    float: right;
+    clear: both; }
+  .envira-item-setting input[type=text],
+  .envira-item-setting textarea {
+    width: 100%;
+    clear: both; }
+  .envira-item-setting .envira-input-group input[type=text],
+  .envira-item-setting .envira-input-group textarea {
+    width: 87%;
+    clear: both; }
+
+.envira-item-footer {
+  display: block;
+  margin-top: 20px; }
+  .envira-item-footer a {
+    float: right; }
+
+.envira-first {
+  margin-left: 0px; }
+
+.envira-addons input[name='video_thumbnail_id'] {
+  display: none !important; }

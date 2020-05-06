@@ -1,0 +1,17 @@
+/**
+* Admin
+*/
+body.envira-no-albums form#posts-filter .tablenav.top {
+  display: none; }
+
+body.edit-php.post-type-envira_album div.wrap a.page-title-action {
+  left: 280px !important; }
+
+body.wp-admin.post-php.post-type-envira_album div.wrap a.page-title-action {
+  left: 300px !important; }
+
+/**
+* RTL
+*/
+body.rtl.post-type-envira_album div.wrap a.page-title-action {
+  left: -185px !important; }

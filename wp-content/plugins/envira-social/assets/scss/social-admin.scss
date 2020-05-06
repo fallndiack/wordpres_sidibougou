@@ -1,0 +1,63 @@
+/**
+* Social Sharing For Admin
+*/
+form#post.envira-gallery #poststuff tr#envira-config-social-networks-box,
+form#post.envira-gallery #poststuff tr#envira-config-social-lightbox-networks-box,
+form#post.envira-gallery #poststuff tr#envira-config-social-networks-mobile-box,
+form#post.envira-gallery #poststuff tr#envira-config-social-networks-lightbox-mobile-box,
+form#post.envira-gallery #poststuff tr#envira-config-social-networks-linkedin-what-to-share, 
+form#post.envira-gallery #poststuff tr#envira-config-social-networks-facebook-what-to-show {
+  input[type="checkbox"] {
+    margin-right: 0;
+  }
+  label {
+    margin-right: 15px;
+  }
+}
+
+form#post.envira-gallery #poststuff #envira-gallery-settings,
+form#post.envira-gallery #poststuff #envira-albums-settings {
+
+  label.label-for-checkbox {
+    display: block;
+    margin-bottom: 15px;
+  }
+  
+  table.form-table h3.social-heading {
+    img {
+      display: inline-block;
+  
+    }
+    span {
+      display: inline-block;
+    }
+  }
+
+  input#envira-social-email-subject {
+    width: 90%;
+    max-width: 90%;
+  }
+
+  div.envira-social-settings-email-icon {
+      background: url(../images/email.svg) center no-repeat #999;
+      background-size: 14px 14px;
+      box-shadow: none;
+      width: 30px;
+      height: 30px;
+      float: left;
+      margin-right: 10px;
+      display: inline-block;
+  }
+
+  .envira-depreciation-notice {
+    color: black;
+    border: 1px solid #ccc;
+    background-color: rgb(252, 225, 153);
+    font-weight: 400;
+    padding: 5px 10px;
+    em {
+      color: red;
+      font-style: normal;
+    }
+  }
+}

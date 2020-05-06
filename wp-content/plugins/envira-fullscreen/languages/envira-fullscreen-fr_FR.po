@@ -1,0 +1,74 @@
+# Copyright (C) 2017 Envira Gallery - Fullscreen Addon
+# This file is distributed under the same license as the Envira Gallery - Fullscreen Addon package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Envira Gallery - Fullscreen Addon 1.0.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/envira-"
+"fullscreen\n"
+"POT-Creation-Date: 2018-06-03 13:12+0200\n"
+"PO-Revision-Date: 2018-06-03 17:32+0200\n"
+"Last-Translator: Frédéric Chamsseddine <contact@shemzone.com>\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: includes/admin/metaboxes.php:61 includes/admin/metaboxes.php:112
+msgid "Enable Fullscreen View?"
+msgstr "﻿Activer le plein écran ?"
+
+#: includes/admin/metaboxes.php:65
+msgid ""
+"Enables or disables native fullscreen mode (for browsers that support it) "
+"for the gallery."
+msgstr ""
+"Active ou désactive le mode plein écran natif pour la galerie (pour les "
+"navigateurs qui le supportent)."
+
+#: includes/admin/metaboxes.php:70 includes/admin/metaboxes.php:121
+msgid "Enable Fullscreen on Open?"
+msgstr "Activer le plein écran à l’ouverture ?"
+
+#: includes/admin/metaboxes.php:74 includes/admin/metaboxes.php:125
+msgid "Enables Lightbox opening in fullscreen mode."
+msgstr "Permet l’ouverture de la Lightbox en mode plein écran."
+
+#: includes/admin/metaboxes.php:116
+msgid ""
+"Enables or disables native fullscreen mode (for browsers that support it) "
+"for each gallery in the Album. Requires Lightbox to be enabled."
+msgstr ""
+"Active ou désactive le mode plein écran natif pour chaque galerie d'un album "
+"(pour les navigateurs qui le supportent). Nécessite Lightbox pour être "
+"activé."
+
+#: includes/global/shortcode-album.php:146
+#: includes/global/shortcode-gallery.php:71
+#: includes/global/shortcode-gallery.php:80
+#: includes/global/shortcode-gallery.php:111
+msgid "Toggle Fullscreen"
+msgstr "Basculer en plein écran"
+
+#. Plugin Name of the plugin/theme
+msgid "Envira Gallery - Fullscreen Addon"
+msgstr "Envira Gallery - Fullscreen Addon (mode plein écran)"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://enviragallery.com"
+msgstr "http://enviragallery.com"
+
+#. Description of the plugin/theme
+msgid ""
+"Enables fullscreen capabilities (for browsers that support it) for Envira "
+"galleries."
+msgstr ""
+"Permet le plein écran pour les galeries Envira (pour les navigateurs qui le "
+"supportent)."
+
+#. Author of the plugin/theme
+msgid "Envira Gallery Team"
+msgstr "Équipe de Envira Gallery"
