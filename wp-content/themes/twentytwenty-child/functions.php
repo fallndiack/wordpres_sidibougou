@@ -147,3 +147,21 @@ function wpb_add_google_fonts()
 }
 
 add_action('wp_enqueue_scripts', 'wpb_add_google_fonts');
+
+
+function theme_name_custom_orderby($query_args)
+{
+    $query_args['orderby'] = 'meta_value'; //orderby will be according to data stored inside the particular meta key
+    $query_args['order'] = 'ASC';
+    return $query_args;
+}
+
+add_filter('event_manager_get_listings_args', 'theme_name_custom_orderby', 99);
+
+function theme_name_custom_orderby_query_args($query_args)
+{
+    $query_args['meta_key'] = '_event_start_date'; //here you can change your meta key
+    return $query_args;
+}
+
+add_filter('get_event_listings_query_args', 'theme_name_custom_orderby_query_args', 99);

@@ -16,7 +16,7 @@
 <!-- ======= Footer ======= -->
 <footer id="footer">
 
-	<div class="footer-newsletter">
+	<!-- <div class="footer-newsletter">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6">
@@ -31,7 +31,7 @@
 			</div>
 		</div>
 	</div>
-
+ -->
 	<div class="footer-top">
 		<div class="container">
 			<div class="row">
@@ -44,27 +44,31 @@
 						<li><i class="bx bx-chevron-right"></i> <a href="<?php echo get_page_link(get_page_by_title('Liste des événements à venir')->ID); ?>">Evénements</a></li>
 						<li><i class="bx bx-chevron-right"></i> <a href="<?php echo get_page_link(get_page_by_title('Edifices et Monuments')->ID); ?>">Edifices et Monuments</a></li>
 						<li><i class="bx bx-chevron-right"></i> <a href="<?php echo get_page_link(get_page_by_title('Nous Contacter')->ID); ?>">Nous Contacter</a></li>
-						<li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+						<li><i class="bx bx-chevron-right"></i> <a href="#">Politique de confidentialité</a></li>
 					</ul>
 				</div>
 
 				<div class="col-lg-3 col-md-6 footer-links">
-					<h4>Our Services</h4>
-					<ul>
+					<h4>La Météo</h4>
+					<!-- <ul>
 						<li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
 						<li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
 						<li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
 						<li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
 						<li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
-					</ul>
+					</ul> -->
+					<!-- weather widget start -->
+					<a target="_blank" href="#">
+						<img src="https://w.bookcdn.com/weather/picture/3_589202_1_3_2e5b8c_277_ffffff_333333_08488D_1_ffffff_333333_0_6.png?scode=124&domid=581&anc_id=45315" alt="booked.net" />
+					</a><!-- weather widget end -->
 				</div>
 
 				<div class="col-lg-3 col-md-6 footer-contact">
-					<h4>Contact Us</h4>
+					<h4>Nous Contacter</h4>
 					<p>
-						A108 Adam Street <br>
-						New York, NY 535022<br>
-						United States <br><br>
+						Sidi Bougou village <br>
+						Mbour, Région de Thiès<br>
+						Sénégal <br><br>
 						<strong>Phone:</strong> +1 5589 55488 55<br>
 						<strong>Email:</strong> info@example.com<br>
 					</p>
@@ -72,7 +76,7 @@
 				</div>
 
 				<div class="col-lg-3 col-md-6 footer-info">
-					<h3>About Eterna</h3>
+					<h3>Sidi Bougou</h3>
 					<p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
 					<div class="social-links mt-3">
 						<a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>

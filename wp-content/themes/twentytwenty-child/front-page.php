@@ -85,19 +85,16 @@
 
         <!-- ======= Featured Section ======= -->
 
-        <?php $the_query = new WP_Query('posts_per_page=3'); ?>
+        <?php $the_query = new WP_Query('posts_per_page=3envent'); ?>
 
         <section id="featured" class="featured">
             <div class="container">
-
                 <div class="row">
-
                     <?php while ($the_query->have_posts()) : $the_query->the_post(); ?>
-
                         <div class="col-lg-4 mt-4 mt-lg-0">
                             <a href="<?php the_permalink() ?>">
                                 <div class="icon-box">
-                                    <i class="icofont-computer"></i>
+                                    <?php the_post_thumbnail('thumbnail'); ?>
                                     <h3><?php the_title(); ?></h3>
                                     <p><?php the_excerpt(__('(more…)')); ?></p>
                                 </div>
@@ -117,16 +114,18 @@
             </div>
 
         </section><!-- End Featured Section -->
+
+
         <!--slider events  -->
         <section class="container" style="padding-top: 5px;margin-top: 5px;">
+        <h2 class="text-center mb-4">Les derniers Evénements</h2>
             <div>
                 <?php echo do_shortcode('[events_slider]'); ?>
             </div>
         </section>
 
-
-        <!-- Feature properties -->
-        <?php if (have_rows('recent_properties')) : while (have_rows('recent_properties')) : the_row() ?>
+     <!--     Feature properties -->
+       <!--  <?php if (have_rows('recent_properties')) : while (have_rows('recent_properties')) : the_row() ?>
                 <section class="container" style="padding-top: 5px;margin-top: 5px;">
                     <div class=" push-properties">
                         <div class="push-properties__title"><?php the_sub_field('title') ?></div>
@@ -172,7 +171,7 @@
                     </div>
                 </section>
         <?php endwhile;
-        endif ?>
+        endif ?> -->
 
         <?php if (have_rows('quote')) : while (have_rows('quote')) : the_row() ?>
                 <section class="container quote">
@@ -203,7 +202,7 @@
         <!-- Read our stories -->
         <?php if (have_rows('recent_posts')) : while (have_rows('recent_posts')) : the_row() ?>
                 <section class="container push-news">
-                    <h2 class="push-news__title"><?php the_sub_field('title') ?></h2>
+                    <h2 class="push-news__title text-center"><?php the_sub_field('title') ?></h2>
                     <?php the_sub_field('description') ?>
                     <?php
                     $query = new WP_Query(['post_type' => 'post', 'posts_per_page' => 3]);
