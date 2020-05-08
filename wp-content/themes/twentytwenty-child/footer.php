@@ -76,8 +76,17 @@
 				</div>
 
 				<div class="col-lg-3 col-md-6 footer-info">
-					<h3>Sidi Bougou</h3>
-					<p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
+
+					<div class="siteFooterBar">
+						<div class="content">
+							<img src="<?= get_stylesheet_directory_uri() ?>/assets/img/logo.png ?>" alt="">
+						</div>
+					</div>
+
+					<p>
+					Bienvenu sur le site officiel du village de Sidi Bougou	
+					Un village à l'écart des bruits et de la polution des villes mais pas trop loin non plus pour profiter de ses avantages.<br>
+				     L'endroit révé pour vivre et élever ses enfants.</p>
 					<div class="social-links mt-3">
 						<a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
 						<a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>

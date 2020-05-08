@@ -51,7 +51,7 @@
 				</div>
 			</div>
 		</section>
-		<div class="header-inner section-inner">
+		<div class="header-inner section-inner container">
 
 			<div class="header-titles-wrapper">
 

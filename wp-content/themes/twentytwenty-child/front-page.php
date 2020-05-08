@@ -1,6 +1,13 @@
 <?php get_header() ?>
+<!-- le conteneur fenêtre -->
+<div class="marquee-rtl">
+    <!-- le contenu défilant -->
+    <div>
+        <h4 class="text-defilant">
 
-<!-- ======= Hero Section ======= -->
+            ==== COMITE DE DEVELOPPEMENT DE SIDI BOUGOU ====</h4>
+    </div>
+</div><!-- ======= Hero Section ======= -->
 <section id="hero">
     <div class="hero-container">
         <div id="heroCarousel" class="carousel slide carousel-fade" data-ride="carousel">
@@ -15,11 +22,11 @@
                         <div class="carousel-content">
                             <h2 class="animated fadeInDown">Le Village de <span>SIDI BOUGOU</span></h2>
                             <p class="animated fadeInUp">
-                                Ut velit est quam dolor ad a aliquid qui aliquid. 
-                                Sequi ea ut et est quaerat sequi nihil ut aliquam. 
-                                Occaecati alias dolorem mollitia ut. Similique ea voluptatem. 
-                                Esse doloremque accusamus repellendus deleniti vel. 
-                                Minus et tempore modi architecto.
+                                Situé à l’ouest de MBoulème et à l’est Warang,
+                                Sidi Bougou est un petit village paisible des problèmes des villes.
+                                Il comprend un quartier Wolof qui séparé par une centaine de mètre
+                                d’un quartier Bambara.
+                                Les deux communautés n'en font qu'une en vrai et vivent dans la paix.
                             </p>
                             <a href="" class="btn-get-started animated fadeInUp">BIENVENUE!!!</a>
                         </div>
@@ -32,11 +39,13 @@
                         <div class="carousel-content">
                             <h2 class="animated fadeInDown">Vivre <span>Ensemble</span></h2>
                             <p class="animated fadeInUp">
-                                Ut velit est quam dolor ad a aliquid qui aliquid. 
-                                Sequi ea ut et est quaerat sequi nihil ut aliquam. 
-                                Occaecati alias dolorem mollitia ut. Similique ea voluptatem. 
-                                Esse doloremque accusamus repellendus deleniti vel. 
-                                Minus et tempore modi architecto.
+                                Pour vivre ensemble de manière harmonieuse, il est essentiel de partager des valeurs.
+
+                                Par le développement de valeurs humaines, nous exprimons notre humanité par
+                                des marques de respect, de considération, d’empathie, etc. envers les autres.
+
+                                Les valeurs éthiques requièrent une conduite respectant autrui et ne nuisant
+                                pas aux autres. Cela concerne les rapports humains .
                             </p>
                             <a href="" class="btn-get-started animated fadeInUp">BIENVENUE!!!</a>
                         </div>
@@ -49,11 +58,11 @@
                         <div class="carousel-content">
                             <h2 class="animated fadeInDown">Nous avançons <span>Main dans la Main</span></h2>
                             <p class="animated fadeInUp">
-                                Ut velit est quam dolor ad a aliquid qui aliquid. 
-                                Sequi ea ut et est quaerat sequi nihil ut aliquam. 
-                                Occaecati alias dolorem mollitia ut. Similique ea voluptatem. 
-                                Esse doloremque accusamus repellendus deleniti vel. 
-                                Minus et tempore modi architecto.
+                                Main dans la main, on peut aller plus loin, et plus qu'on ne le croit.
+                                Main dans la main avançons sur la route du bonheur sans jamais se retourner. ♥
+                                Le Village porte des valeurs humanistes, 
+                                fondées sur l’ouverture sur les autres cultures, 
+                                la liberté de création, la liberté des peuples, le partage.
                             </p>
                             <a href="" class="btn-get-started animated fadeInUp">BIENVENUE!!!</a>
                         </div>
@@ -118,14 +127,14 @@
 
         <!--slider events  -->
         <section class="container" style="padding-top: 5px;margin-top: 5px;">
-        <h2 class="text-center mb-4">Les derniers Evénements</h2>
+            <h2 class="text-center mb-4">Les derniers Evénements</h2>
             <div>
                 <?php echo do_shortcode('[events_slider]'); ?>
             </div>
         </section>
 
-     <!--     Feature properties -->
-       <!--  <?php if (have_rows('recent_properties')) : while (have_rows('recent_properties')) : the_row() ?>
+        <!--     Feature properties -->
+        <!--  <?php if (have_rows('recent_properties')) : while (have_rows('recent_properties')) : the_row() ?>
                 <section class="container" style="padding-top: 5px;margin-top: 5px;">
                     <div class=" push-properties">
                         <div class="push-properties__title"><?php the_sub_field('title') ?></div>
@@ -171,7 +180,7 @@
                     </div>
                 </section>
         <?php endwhile;
-        endif ?> -->
+                endif ?> -->
 
         <?php if (have_rows('quote')) : while (have_rows('quote')) : the_row() ?>
                 <section class="container quote">

@@ -105,8 +105,8 @@ h1, h2, h3, h4, h5, h6 {
 
 /*--------------------------------------------------------------
 # Header
---------------------------------------------------------------
-#header {
+--------------------------------------------------------------*/
+#header .header-inner .section-inner{
   height: 70px;
   transition: all 0.5s;
   z-index: 997;
@@ -139,13 +139,13 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
   max-height: 40px;
 }
-*/
+
 
 
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
-/* Desktop Navigation 
+/* Desktop Navigation */
 .nav-menu, .nav-menu * {
   margin: 0;
   padding: 0;
@@ -248,7 +248,7 @@ h1, h2, h3, h4, h5, h6 {
     content: "\ea9d";
   }
 }
-*/
+
 
 
 /* Mobile Navigation */
@@ -2188,3 +2188,10 @@ section {
   font-size: 13px;
   color: #fff;
 }
+
+.footer-links{
+box-shadow: 0px 0px 25px rgb(207, 207, 207);}
+
+
+.footer-contact{
+padding-left: 50px;}

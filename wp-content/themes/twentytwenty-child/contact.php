@@ -17,8 +17,6 @@ Page pour nous contacter
 
         <!--Section: Contact v.1-->
         <section class="section pb-5">
-
-            <!--Section heading-->
             <h2 class="section-heading h1 pt-4">Nous Contacter</h2>
             <!--Section description-->
             <p class="section-description pb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, error
@@ -26,13 +24,39 @@ Page pour nous contacter
                 pariatur accusamus veniam.</p>
 
             <div class="row">
+                <div class="col-lg-3 col-md-6">
+                    <div class="info-box  mb-4">
+                        <i class="bx bx-envelope"></i>
+                        <h3>Email</h3>
+                        <p>contact@example.com</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6">
+                    <div class="info-box  mb-4">
+                        <i class="bx bx-phone-call"></i>
+                        <h3>Telephone</h3>
+                        <p>+1 5589 55488 55</p>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="info-box mb-4">
+                        <i class="bx bx-map"></i>
+                        <h3>Passez nous voir</h3>
+                        <p>Entre Mbour et Nianing à 1,5km de Warang</p>
+                    </div>
+                </div>
+            </div>
+            <!--Section heading-->
+
+            <div class="row">
 
                 <!--Grid column-->
                 <div class="col-lg-5 mb-4">
 
-                   
-                            <?= do_shortcode('[contact-form-7 id="279" title="Formulaire de contact 1"]') ?>
-                       
+
+                    <?= do_shortcode('[contact-form-7 id="279" title="Formulaire de contact 1"]') ?>
+
 
                 </div>
                 <!--Grid column-->
