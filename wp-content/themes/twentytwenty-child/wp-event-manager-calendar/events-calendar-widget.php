@@ -27,7 +27,7 @@
 	         </select>
 	     </div>
 	     <div class="wpem-form-group">
-		    <input type="button" id="event_calendar_widget_filters_button" class="wpem-theme-button" value="<?php _e('OK', 'wp-event-manager-calendar'); ?>"/>
+		    <input type="button" id="event_calendar_widget_filters_button" class="wpem-theme-button" value="<?php _e('ok', 'wp-event-manager-calendar'); ?>"/>
 		    <input type="hidden" id="events_calendar_widget_nonce"  value="<?php echo wp_create_nonce('events_calendar_widget_nonce') ?>" />
 		  </div>
     </form>
@@ -37,7 +37,7 @@
 			<input type="hidden" id="calendar_month" value="<?php echo absint( $prev_month ); ?>">
 			<input type="hidden" id="calendar_year" value="<?php echo absint( $prev_year ); ?>">
 			<input type="hidden" id="calendar_navigation_month" value="<?php echo absint( $selected_month ); ?>">
-			<input type="button" id="calendar_widget_navigation_previous" class="calendar-nav-arrow wpem-filters-navigation-previous" value="<?php _e('Precedant', 'wp-event-manager-calendar'); ?>"/>
+			<input type="button" id="calendar_widget_navigation_previous" class="calendar-nav-arrow wpem-filters-navigation-previous" value="<?php _e('Precedent', 'wp-event-manager-calendar'); ?>"/>
 			<input type="hidden" id="events_calendar_widget_nonce" value="<?php echo wp_create_nonce( 'events_calendar_widget_nonce' ) ?>" />			
 		</form>
 		<form id="calendar-filters-navigation-next" class="calendar-filters-arrow calendar-filters-navigation-next" method="POST" action="#events_calendar_<?php echo uniqid(); ?>">

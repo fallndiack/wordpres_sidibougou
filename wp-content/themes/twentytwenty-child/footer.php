@@ -84,7 +84,7 @@
 					</div>
 
 					<p>
-					Bienvenu sur le site officiel du village de Sidi Bougou	
+					Bienvenue sur le site officiel du village de Sidi Bougou	
 					Un village à l'écart des bruits et de la polution des villes mais pas trop loin non plus pour profiter de ses avantages.<br>
 				     L'endroit révé pour vivre et élever ses enfants.</p>
 					<div class="social-links mt-3">

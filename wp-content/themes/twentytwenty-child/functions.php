@@ -165,3 +165,9 @@ function theme_name_custom_orderby_query_args($query_args)
 }
 
 add_filter('get_event_listings_query_args', 'theme_name_custom_orderby_query_args', 99);
+
+function custom_excerpt_length($length)
+{
+    return 30;
+}
+add_filter('excerpt_length', 'custom_excerpt_length', 999);
