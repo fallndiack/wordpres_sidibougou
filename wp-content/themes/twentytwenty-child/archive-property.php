@@ -39,16 +39,17 @@ $currentType = get_query_var('property_type');
                 <label for="property_type"><?= __('Type', 'agencia') ?></label>
             </div>
 
-            <button type="submit" class="btn btn-filled">Rechercher</button>
+            <button type="submit" class="btn btn-filled" style="color: white">Rechercher</button>
         </form>
 
 
         <div class="text-info">
-            <h2 class="text mt-4" style="font-weight: bold">La fierté de toute une communauté</h2>
-            <p class="mt-4">Montius nos tumore inusitato quodam et novo ut rebellis et maiestati recalcitrantes Augustae per haec quae strepit incusat iratus nimirum quod contumacem praefectum, quid rerum ordo postulat ignorare dissimulantem formidine tenus iusserim custodiri.
-
-                Sed tamen haec cum ita tutius observentur, quidam vigore artuum inminuto rogati ad nuptias ubi aurum dextris manibus cavatis offertur, inpigre vel usque Spoletium pergunt. haec nobilium sunt instituta.
-
+            <h2 class="text mt-4" style="font-weight: bold">La fierté de tout une communauté</h2>
+            <p class="mt-4">
+                Une liste non exhaustive de l'ensemble des Biens matériels et immatériels du village de Sidi Bougou.
+                Ces édifices ou monuments appartiennent au patrimoine du village, il peut s'agir 
+                d'un lieu, d'un batiment,d' un arbre avec une histoire ou d'une personne qui a marqué l'histoire du village.
+Si un endroit, un lieu, un batiment ou une personne du village vous a marqué faites un article en son honneur.
         </div>
     </div>
 

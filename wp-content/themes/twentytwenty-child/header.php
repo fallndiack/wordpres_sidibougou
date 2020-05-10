@@ -21,7 +21,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	<link rel="profile" href="https://gmpg.org/xfn/11">
-	
+
 	<?php wp_head(); ?>
 
 </head>
@@ -39,8 +39,8 @@
 		<section id="topbar" class="d-none d-lg-block">
 			<div class="container d-flex">
 				<div class="contact-info mr-auto">
-					<i class="icofont-envelope"></i><a href="mailto:contact@example.com">contact@example.com</a>
-					<i class="icofont-phone"></i> +1 5589 55488 55
+					<i class="icofont-envelope"></i><a href="mailto:sidibougouvillage@gmail.com">sidibougouvillage@gmail.com</a>
+					<i class="icofont-phone"></i> +221 77 810 41 71
 				</div>
 				<div class="social-links">
 					<a href="#" class="twitter"><i class="icofont-twitter"></i></a>
@@ -183,9 +183,9 @@
 
 	</header><!-- #site-header -->
 
-	
 
-	
+
+
 	<?php
 	// Output the menu modal.
 	get_template_part('template-parts/modal-menu');

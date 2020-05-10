@@ -44,7 +44,6 @@
 						<li><i class="bx bx-chevron-right"></i> <a href="<?php echo get_page_link(get_page_by_title('Liste des événements à venir')->ID); ?>">Evénements</a></li>
 						<li><i class="bx bx-chevron-right"></i> <a href="<?php echo get_page_link(get_page_by_title('Edifices et Monuments')->ID); ?>">Edifices et Monuments</a></li>
 						<li><i class="bx bx-chevron-right"></i> <a href="<?php echo get_page_link(get_page_by_title('Nous Contacter')->ID); ?>">Nous Contacter</a></li>
-						<li><i class="bx bx-chevron-right"></i> <a href="#">Politique de confidentialité</a></li>
 					</ul>
 				</div>
 
@@ -69,8 +68,8 @@
 						Sidi Bougou village <br>
 						Mbour, Région de Thiès<br>
 						Sénégal <br><br>
-						<strong>Phone:</strong> +1 5589 55488 55<br>
-						<strong>Email:</strong> info@example.com<br>
+						<strong>Phone:</strong> +221 77 810 41 71<br>
+						<strong>Email:</strong> sidibougouvillage@gmail.com<br>
 					</p>
 
 				</div>
@@ -84,15 +83,16 @@
 					</div>
 
 					<p>
-					Bienvenue sur le site officiel du village de Sidi Bougou	
-					Un village à l'écart des bruits et de la polution des villes mais pas trop loin non plus pour profiter de ses avantages.<br>
-				     L'endroit révé pour vivre et élever ses enfants.</p>
+						Bienvenue sur le site officiel du village de Sidi Bougou
+						Un village à l'écart des bruits et de la polution des villes mais pas trop loin non plus pour profiter de ses avantages.<br>
+						L'endroit révé pour vivre et élever ses enfants.</p>
 					<div class="social-links mt-3">
 						<a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
 						<a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
 						<a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-						<a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-						<a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+						<!-- <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>   -->
+						<!-- <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>   -->   
+
 					</div>
 				</div>
 

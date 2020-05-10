@@ -19,16 +19,20 @@ Page pour nous contacter
         <section class="section pb-5">
             <h2 class="section-heading h1 pt-4">Nous Contacter</h2>
             <!--Section description-->
-            <p class="section-description pb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, error
-                amet numquam iure provident voluptate esse quasi, veritatis totam voluptas nostrum quisquam eum porro a
-                pariatur accusamus veniam.</p>
+            <p class="section-description pb-4">
+                Vous voulez participer au développement du village,
+                vous avez des idées qui peuvent faire avancer les choses,
+                n'hesitez pas à nous envoyer un email.
+                On sera ravi de vous lire et de vous répondre dans les meilleurs délais.
+
+            </p>
 
             <div class="row">
                 <div class="col-lg-3 col-md-6">
                     <div class="info-box  mb-4">
                         <i class="bx bx-envelope"></i>
                         <h3>Email</h3>
-                        <p>contact@example.com</p>
+                        <p>sidibougouvillage@gmail.com</p>
                     </div>
                 </div>
 
@@ -36,7 +40,7 @@ Page pour nous contacter
                     <div class="info-box  mb-4">
                         <i class="bx bx-phone-call"></i>
                         <h3>Telephone</h3>
-                        <p>+1 5589 55488 55</p>
+                        <p>+221 77 810 41 71</p>
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -79,14 +83,14 @@ Page pour nous contacter
 
                         <div class="col-md-4">
                             <a class="btn-floating blue accent-1"><i class="fas fa-phone"></i></a>
-                            <p>+ 01 234 567 89</p>
-                            <p>Mon - Fri, 8:00-22:00</p>
+                            <p>+221 77 810 41 71</p>
+
                         </div>
 
                         <div class="col-md-4">
                             <a class="btn-floating blue accent-1"><i class="fas fa-envelope"></i></a>
-                            <p>info@gmail.com</p>
-                            <p>sale@gmail.com</p>
+                            <p>sidibougouvillage@gmail.com</p>
+                           
                         </div>
                     </div>
 
