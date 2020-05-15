@@ -127,7 +127,7 @@
 
         <!--slider events  -->
         <section class="container" style="padding-top: 5px;margin-top: 5px;">
-            <h2 class="text-center mb-4">Les derniers Evénements</h2>
+            <h2 class="text-center mb-4">Consultez l'agenda des Evénements</h2>
             <div>
                 <?php echo do_shortcode('[events_slider]'); ?>
             </div>

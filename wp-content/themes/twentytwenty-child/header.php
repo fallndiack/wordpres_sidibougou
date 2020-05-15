@@ -43,14 +43,15 @@
 					<i class="icofont-phone"></i> +221 77 810 41 71
 				</div>
 				<div class="social-links">
+					<a href="https://www.facebook.com/sidi.bougou.92" class="facebook" target="blank"><i class="icofont-facebook"></i></a>
+					<a href="https://instagram.com/sidi_bougou?igshid=1i8d05mdxdsw1" class="instagram" target="blank"><i class="icofont-instagram"></i></a>
 					<a href="#" class="twitter"><i class="icofont-twitter"></i></a>
-					<a href="#" class="facebook"><i class="icofont-facebook"></i></a>
-					<a href="#" class="instagram"><i class="icofont-instagram"></i></a>
-					<a href="#" class="skype"><i class="icofont-skype"></i></a>
-					<a href="#" class="linkedin"><i class="icofont-linkedin"></i></i></a>
+
 				</div>
 			</div>
 		</section>
+
+		
 		<div class="header-inner section-inner container">
 
 			<div class="header-titles-wrapper">
@@ -173,6 +174,10 @@
 			</div><!-- .header-navigation-wrapper -->
 
 		</div><!-- .header-inner -->
+
+
+
+
 
 		<?php
 		// Output the search modal (if it is activated in the customizer).

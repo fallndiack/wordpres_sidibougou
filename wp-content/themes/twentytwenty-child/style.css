@@ -284,6 +284,7 @@ position:absolute;
 
 /* le block conteneur */
 .marquee-rtl {
+  margin-top: 20px;
   border: 10px solid #434e44;
   overflow: hidden;                     /* masque tout ce qui dépasse */
   box-shadow: 0 .25em .5em #CCC,inset 0 0 1em .25em #CCC;
@@ -312,4 +313,34 @@ font-weight: bold;
   100% {
     transform: translate3d(-100%,0,0);  /* position finale à gauche */
   }
+}
+
+
+@media only screen and (max-width: 767px){
+.toggle {
+    display: block!important;
+}
+
+@media only screen and (max-width: 767px){
+.header-titles-wrapper {
+   justify-content: left!important;
+}
+}
+
+@media only screen and (max-width: 767px){
+.toggle {
+    display: block;
+    margin-left: 0px;
+    margin-top: 0px;
+    padding: 0px!important;
+    width: 20px;
+}
+}
+
+
+@media only screen and (max-width: 767px){
+#topbar {
+    display: block!important;
+    font-size: 12px!important;
+}
 }

@@ -87,11 +87,12 @@
 						Un village à l'écart des bruits et de la polution des villes mais pas trop loin non plus pour profiter de ses avantages.<br>
 						L'endroit révé pour vivre et élever ses enfants.</p>
 					<div class="social-links mt-3">
+						<a href="https://www.facebook.com/sidi.bougou.92" class="facebook" target="blank"><i class="bx bxl-facebook"></i></a>
+						<a href="https://instagram.com/sidi_bougou?igshid=1i8d05mdxdsw1" class="instagram" target="blank"><i class="bx bxl-instagram"></i></a>
 						<a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-						<a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-						<a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+
 						<!-- <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>   -->
-						<!-- <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>   -->   
+						<!-- <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>   -->
 
 					</div>
 				</div>
