@@ -69,7 +69,7 @@
 						Mbour, Région de Thiès<br>
 						Sénégal <br><br>
 						<strong>Phone:</strong> +221 77 810 41 71<br>
-						<strong>Email:</strong> sidibougouvillage@gmail.com<br>
+						<strong>Email:</strong> contact@sidibougou.com<br>
 					</p>
 
 				</div>

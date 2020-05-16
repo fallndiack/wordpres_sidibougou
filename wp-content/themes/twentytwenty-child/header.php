@@ -39,7 +39,7 @@
 		<section id="topbar" class="d-none d-lg-block">
 			<div class="container d-flex">
 				<div class="contact-info mr-auto">
-					<i class="icofont-envelope"></i><a href="mailto:sidibougouvillage@gmail.com">sidibougouvillage@gmail.com</a>
+					<i class="icofont-envelope"></i><a href="mailto:sidibougouvillage@gmail.com">contact@sidibougou.com</a>
 					<i class="icofont-phone"></i> +221 77 810 41 71
 				</div>
 				<div class="social-links">
@@ -51,7 +51,7 @@
 			</div>
 		</section>
 
-		
+
 		<div class="header-inner section-inner container">
 
 			<div class="header-titles-wrapper">

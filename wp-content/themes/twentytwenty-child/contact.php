@@ -89,8 +89,8 @@ Page pour nous contacter
 
                         <div class="col-md-4">
                             <a class="btn-floating blue accent-1"><i class="fas fa-envelope"></i></a>
-                            <p>sidibougouvillage@gmail.com</p>
-                           
+                            <p>contact@sidibougou.com</p>
+
                         </div>
                     </div>
 
