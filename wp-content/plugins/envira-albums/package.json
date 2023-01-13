@@ -45,6 +45,6 @@
   },
   "homepage": "https://github.com/awesomemotive/envira-gallery-plugin#readme",
   "devDependencies": {
-    "webpack-cli": "^3.0.8"
+    "webpack-cli": "^3.3.12"
   }
 }
